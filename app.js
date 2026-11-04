@@ -103,10 +103,12 @@ function construir() {
       cat: j.categoria_id || '', mec: j.mecanica_id || '', tem: j.tematica_id || '',
       jug: j.jugadores || '', edad: j.edad || '', dur: j.duracion || '',
       pub: j.publicacion || '', des: j.deseado ? '1' : '', cam: j.en_camino ? '1' : '',
+      pre: j.prestado ? '1' : '',
     });
     const badges =
       (j.deseado ? '<span class="badge b-deseado" title="Lista de deseos">❤️</span>' : '') +
-      (j.en_camino ? '<span class="badge b-camino" title="En camino">🚚</span>' : '');
+      (j.en_camino ? '<span class="badge b-camino" title="En camino">🚚</span>' : '') +
+      (j.prestado ? '<span class="badge b-prestado" title="Prestado">🤝</span>' : '');
     const chips = [CAT[j.categoria_id], MEC[j.mecanica_id], TEM[j.tematica_id]]
       .filter(Boolean).map(v => `<span class="chip">${v}</span>`).join('');
     const meta = [

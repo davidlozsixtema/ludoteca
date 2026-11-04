@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-04T14:20:00+00:00",
+ "generado": "2026-11-04T16:14:49+00:00",
  "juegos": [
   {
    "id": 175,
@@ -14,7 +14,8 @@
    "duracion": "10",
    "publicacion": 2008,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 305,
@@ -29,7 +30,8 @@
    "duracion": "5-15",
    "publicacion": 2014,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 226,
@@ -44,7 +46,8 @@
    "duracion": "25",
    "publicacion": 2013,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 269,
@@ -59,7 +62,8 @@
    "duracion": "15-30",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 177,
@@ -74,7 +78,8 @@
    "duracion": "25",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 2,
@@ -89,7 +94,8 @@
    "duracion": "75",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 9,
@@ -104,7 +110,8 @@
    "duracion": "15-30",
    "publicacion": 2014,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 53,
@@ -119,7 +126,8 @@
    "duracion": "30-150",
    "publicacion": 2007,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 103,
@@ -134,7 +142,8 @@
    "duracion": "20",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 212,
@@ -149,7 +158,8 @@
    "duracion": "5",
    "publicacion": 2009,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 310,
@@ -164,7 +174,8 @@
    "duracion": "15",
    "publicacion": 2005,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 88,
@@ -179,7 +190,8 @@
    "duracion": "20",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 10,
@@ -194,7 +206,8 @@
    "duracion": "90-150",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 159,
@@ -209,7 +222,8 @@
    "duracion": "20",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 27,
@@ -224,7 +238,8 @@
    "duracion": "30",
    "publicacion": 2012,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 166,
@@ -239,7 +254,8 @@
    "duracion": "30-60",
    "publicacion": 2005,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 224,
@@ -254,7 +270,8 @@
    "duracion": "30-45",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 100,
@@ -269,7 +286,8 @@
    "duracion": "45-60",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 225,
@@ -284,7 +302,8 @@
    "duracion": "30-45",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 12,
@@ -299,7 +318,8 @@
    "duracion": "90-110",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 104,
@@ -314,7 +334,8 @@
    "duracion": "20",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 218,
@@ -329,7 +350,8 @@
    "duracion": "20-40",
    "publicacion": 2002,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 13,
@@ -344,7 +366,8 @@
    "duracion": "60-90",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 187,
@@ -359,7 +382,8 @@
    "duracion": "20",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 14,
@@ -374,7 +398,8 @@
    "duracion": "30-120",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 317,
@@ -389,7 +414,8 @@
    "duracion": "10",
    "publicacion": 2011,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 280,
@@ -404,7 +430,8 @@
    "duracion": "10",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 40,
@@ -419,7 +446,8 @@
    "duracion": "20",
    "publicacion": 2011,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 97,
@@ -434,7 +462,8 @@
    "duracion": "45",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 298,
@@ -449,7 +478,8 @@
    "duracion": "0",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 44,
@@ -464,7 +494,8 @@
    "duracion": "70-100",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 144,
@@ -479,7 +510,8 @@
    "duracion": "15",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 275,
@@ -494,7 +526,8 @@
    "duracion": "20",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 111,
@@ -509,7 +542,8 @@
    "duracion": "30-45",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 170,
@@ -524,7 +558,8 @@
    "duracion": "30-45",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 304,
@@ -539,7 +574,8 @@
    "duracion": "10-25",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 137,
@@ -554,7 +590,8 @@
    "duracion": "30",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 179,
@@ -569,7 +606,8 @@
    "duracion": "5-20",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 264,
@@ -584,7 +622,8 @@
    "duracion": "30-45",
    "publicacion": 2000,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 89,
@@ -599,7 +638,8 @@
    "duracion": "45-75",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 101,
@@ -614,7 +654,8 @@
    "duracion": "30-45",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 36,
@@ -629,7 +670,8 @@
    "duracion": "30-90",
    "publicacion": 2011,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 151,
@@ -644,7 +686,8 @@
    "duracion": "60-120",
    "publicacion": 1995,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": true
   },
   {
    "id": 84,
@@ -659,7 +702,8 @@
    "duracion": "40-60",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 98,
@@ -674,7 +718,8 @@
    "duracion": "30-45",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 238,
@@ -689,7 +734,8 @@
    "duracion": "20",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 24,
@@ -704,7 +750,8 @@
    "duracion": "30-40",
    "publicacion": 2024,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 147,
@@ -719,7 +766,8 @@
    "duracion": "20-60",
    "publicacion": 2000,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 141,
@@ -734,7 +782,8 @@
    "duracion": "25",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 114,
@@ -749,7 +798,8 @@
    "duracion": "25",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 46,
@@ -764,7 +814,8 @@
    "duracion": "45-60",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 135,
@@ -779,7 +830,8 @@
    "duracion": "30-60",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 201,
@@ -794,7 +846,8 @@
    "duracion": "45",
    "publicacion": 1949,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 197,
@@ -809,7 +862,8 @@
    "duracion": "30",
    "publicacion": 2003,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 185,
@@ -824,7 +878,8 @@
    "duracion": "10-20",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 152,
@@ -839,7 +894,8 @@
    "duracion": "40",
    "publicacion": 2014,
    "deseado": true,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 277,
@@ -854,7 +910,8 @@
    "duracion": "20",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 124,
@@ -869,7 +926,8 @@
    "duracion": "10",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 140,
@@ -884,7 +942,8 @@
    "duracion": "40",
    "publicacion": 2013,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 70,
@@ -899,7 +958,8 @@
    "duracion": "60-120",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 160,
@@ -914,7 +974,8 @@
    "duracion": "10-20",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 162,
@@ -929,7 +990,8 @@
    "duracion": "15",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 184,
@@ -944,7 +1006,8 @@
    "duracion": "45",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 186,
@@ -959,7 +1022,8 @@
    "duracion": "20",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 118,
@@ -974,7 +1038,8 @@
    "duracion": "60-90",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 192,
@@ -989,7 +1054,8 @@
    "duracion": "15",
    "publicacion": 2012,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 178,
@@ -1004,7 +1070,8 @@
    "duracion": "20",
    "publicacion": 2024,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 182,
@@ -1019,7 +1086,8 @@
    "duracion": "20",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 295,
@@ -1034,7 +1102,8 @@
    "duracion": "10-20",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 250,
@@ -1049,7 +1118,8 @@
    "duracion": "30",
    "publicacion": 2008,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 82,
@@ -1064,7 +1134,8 @@
    "duracion": "15",
    "publicacion": 2011,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 293,
@@ -1079,7 +1150,8 @@
    "duracion": "15",
    "publicacion": 2009,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 220,
@@ -1094,7 +1166,8 @@
    "duracion": "15",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 313,
@@ -1109,7 +1182,8 @@
    "duracion": "15",
    "publicacion": 2012,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 194,
@@ -1124,7 +1198,8 @@
    "duracion": "15",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 221,
@@ -1139,7 +1214,8 @@
    "duracion": "30-45",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 211,
@@ -1154,7 +1230,8 @@
    "duracion": "20",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 285,
@@ -1169,7 +1246,8 @@
    "duracion": "15-30",
    "publicacion": 2017,
    "deseado": true,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 244,
@@ -1184,7 +1262,8 @@
    "duracion": "15",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 99,
@@ -1199,7 +1278,8 @@
    "duracion": "20-40",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 209,
@@ -1214,7 +1294,8 @@
    "duracion": "30",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 239,
@@ -1229,7 +1310,8 @@
    "duracion": "30-45",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 279,
@@ -1244,7 +1326,8 @@
    "duracion": "20-30",
    "publicacion": 2009,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 76,
@@ -1259,7 +1342,8 @@
    "duracion": "20",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 240,
@@ -1274,7 +1358,8 @@
    "duracion": "20-30",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 77,
@@ -1289,7 +1374,8 @@
    "duracion": "30-40",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 78,
@@ -1304,7 +1390,8 @@
    "duracion": "45",
    "publicacion": 2011,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 15,
@@ -1319,7 +1406,8 @@
    "duracion": "60-120",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 48,
@@ -1334,7 +1422,8 @@
    "duracion": "60-120",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 229,
@@ -1349,7 +1438,8 @@
    "duracion": "45-60",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 231,
@@ -1364,7 +1454,8 @@
    "duracion": "30",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 61,
@@ -1379,7 +1470,8 @@
    "duracion": "60",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 300,
@@ -1394,7 +1486,8 @@
    "duracion": "30",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 21,
@@ -1409,7 +1502,8 @@
    "duracion": "60-90",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 79,
@@ -1424,7 +1518,8 @@
    "duracion": "40-80",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 306,
@@ -1439,7 +1534,8 @@
    "duracion": "20",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 105,
@@ -1454,7 +1550,8 @@
    "duracion": "45-800",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 65,
@@ -1469,7 +1566,8 @@
    "duracion": "45-90",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 64,
@@ -1484,7 +1582,8 @@
    "duracion": "45-90",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 67,
@@ -1499,7 +1598,8 @@
    "duracion": "60-120",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 59,
@@ -1514,7 +1614,8 @@
    "duracion": "120-180",
    "publicacion": 2020,
    "deseado": true,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 83,
@@ -1529,7 +1630,8 @@
    "duracion": "45-90",
    "publicacion": 2021,
    "deseado": true,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 58,
@@ -1544,7 +1646,8 @@
    "duracion": "45-150",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 60,
@@ -1559,7 +1662,8 @@
    "duracion": "45-90",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 116,
@@ -1574,7 +1678,8 @@
    "duracion": "45-90",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 112,
@@ -1589,7 +1694,8 @@
    "duracion": "45-90",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 80,
@@ -1604,7 +1710,8 @@
    "duracion": "90-180",
    "publicacion": 2020,
    "deseado": true,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 122,
@@ -1619,7 +1726,8 @@
    "duracion": "45-90",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 133,
@@ -1634,7 +1742,8 @@
    "duracion": "45-90",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 57,
@@ -1649,7 +1758,8 @@
    "duracion": "60-120",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 110,
@@ -1664,7 +1774,8 @@
    "duracion": "45-90",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 66,
@@ -1679,7 +1790,8 @@
    "duracion": "45-90",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 62,
@@ -1694,7 +1806,8 @@
    "duracion": "45-90",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 86,
@@ -1709,7 +1822,8 @@
    "duracion": "45-90",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 63,
@@ -1724,7 +1838,8 @@
    "duracion": "45-90",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 69,
@@ -1739,7 +1854,8 @@
    "duracion": "45-90",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 73,
@@ -1754,7 +1870,8 @@
    "duracion": "45-90",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 1,
@@ -1769,7 +1886,8 @@
    "duracion": "120-240",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 47,
@@ -1784,7 +1902,8 @@
    "duracion": "60-120",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 71,
@@ -1799,7 +1918,8 @@
    "duracion": "45-90",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 55,
@@ -1814,7 +1934,8 @@
    "duracion": "45-90",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 81,
@@ -1829,7 +1950,8 @@
    "duracion": "45-90",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 56,
@@ -1844,7 +1966,8 @@
    "duracion": "60-120",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 233,
@@ -1859,7 +1982,8 @@
    "duracion": "10",
    "publicacion": 2025,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 266,
@@ -1874,7 +1998,8 @@
    "duracion": "15",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 171,
@@ -1889,7 +2014,8 @@
    "duracion": "15",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 168,
@@ -1904,7 +2030,8 @@
    "duracion": "15-20",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 249,
@@ -1919,7 +2046,8 @@
    "duracion": "20",
    "publicacion": 2010,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 130,
@@ -1934,7 +2062,8 @@
    "duracion": "15-30",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 302,
@@ -1949,7 +2078,8 @@
    "duracion": "10",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 134,
@@ -1964,7 +2094,8 @@
    "duracion": "45-60",
    "publicacion": 2025,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 33,
@@ -1979,7 +2110,8 @@
    "duracion": "40-80",
    "publicacion": 2014,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 142,
@@ -1994,7 +2126,8 @@
    "duracion": "60",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 52,
@@ -2009,7 +2142,8 @@
    "duracion": "60-90",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 148,
@@ -2024,7 +2158,8 @@
    "duracion": "30-45",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 128,
@@ -2039,7 +2174,8 @@
    "duracion": "30-45",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 278,
@@ -2054,7 +2190,8 @@
    "duracion": "5-15",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 51,
@@ -2069,7 +2206,8 @@
    "duracion": "60-130",
    "publicacion": 2024,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 102,
@@ -2084,7 +2222,8 @@
    "duracion": "60-75",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 215,
@@ -2099,7 +2238,8 @@
    "duracion": "10",
    "publicacion": 1990,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 169,
@@ -2114,7 +2254,8 @@
    "duracion": "10-20",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 301,
@@ -2129,7 +2270,8 @@
    "duracion": "15",
    "publicacion": 2014,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 121,
@@ -2144,7 +2286,8 @@
    "duracion": "20",
    "publicacion": 2021,
    "deseado": true,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 268,
@@ -2159,7 +2302,8 @@
    "duracion": "10",
    "publicacion": 2012,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 241,
@@ -2174,7 +2318,8 @@
    "duracion": "25-45",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 200,
@@ -2189,7 +2334,8 @@
    "duracion": "30-60",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 123,
@@ -2204,7 +2350,8 @@
    "duracion": "30-45",
    "publicacion": 2024,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 125,
@@ -2219,7 +2366,8 @@
    "duracion": "30-45",
    "publicacion": 2020,
    "deseado": true,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 3,
@@ -2234,7 +2382,8 @@
    "duracion": "30-60",
    "publicacion": 2024,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 127,
@@ -2249,7 +2398,8 @@
    "duracion": "15-20",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 72,
@@ -2264,7 +2414,8 @@
    "duracion": "45-75",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 129,
@@ -2279,7 +2430,8 @@
    "duracion": "40-60",
    "publicacion": 2024,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 183,
@@ -2294,7 +2446,8 @@
    "duracion": "30",
    "publicacion": 2012,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 203,
@@ -2309,7 +2462,8 @@
    "duracion": "30-60",
    "publicacion": 2007,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 49,
@@ -2324,7 +2478,8 @@
    "duracion": "90",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 270,
@@ -2339,7 +2494,8 @@
    "duracion": "10",
    "publicacion": 1997,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 314,
@@ -2354,7 +2510,8 @@
    "duracion": "15-30",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 131,
@@ -2369,7 +2526,8 @@
    "duracion": "15-30",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 308,
@@ -2384,7 +2542,8 @@
    "duracion": "5-10",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 254,
@@ -2399,7 +2558,8 @@
    "duracion": "15",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 28,
@@ -2414,7 +2574,8 @@
    "duracion": "60-75",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 311,
@@ -2429,7 +2590,8 @@
    "duracion": "10-15",
    "publicacion": 2003,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 263,
@@ -2444,7 +2606,8 @@
    "duracion": "20",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 26,
@@ -2459,7 +2622,8 @@
    "duracion": "90",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 288,
@@ -2474,7 +2638,8 @@
    "duracion": "15",
    "publicacion": 2024,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 198,
@@ -2489,7 +2654,8 @@
    "duracion": "10-20",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 45,
@@ -2504,7 +2670,8 @@
    "duracion": "30-120",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 286,
@@ -2519,7 +2686,8 @@
    "duracion": "30",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 165,
@@ -2534,7 +2702,8 @@
    "duracion": "10-15",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 164,
@@ -2549,7 +2718,8 @@
    "duracion": "20-30",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 258,
@@ -2564,7 +2734,8 @@
    "duracion": "45-60",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 174,
@@ -2579,7 +2750,8 @@
    "duracion": "10-30",
    "publicacion": 2015,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 139,
@@ -2594,7 +2766,8 @@
    "duracion": "25",
    "publicacion": 2017,
    "deseado": true,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 243,
@@ -2609,7 +2782,8 @@
    "duracion": "20",
    "publicacion": 2012,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 167,
@@ -2624,7 +2798,8 @@
    "duracion": "45",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 25,
@@ -2639,7 +2814,8 @@
    "duracion": "30-120",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 283,
@@ -2654,7 +2830,8 @@
    "duracion": "10-15",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 208,
@@ -2669,7 +2846,8 @@
    "duracion": "15",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 210,
@@ -2684,7 +2862,8 @@
    "duracion": "15-20",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 143,
@@ -2699,7 +2878,8 @@
    "duracion": "5-25",
    "publicacion": 2025,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 281,
@@ -2714,7 +2894,8 @@
    "duracion": "10-15",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 267,
@@ -2729,7 +2910,8 @@
    "duracion": "10",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 312,
@@ -2744,7 +2926,8 @@
    "duracion": "15-30",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 222,
@@ -2759,7 +2942,8 @@
    "duracion": "20",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 309,
@@ -2774,7 +2958,8 @@
    "duracion": "10-15",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 228,
@@ -2789,7 +2974,8 @@
    "duracion": "15-30",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 232,
@@ -2804,7 +2990,8 @@
    "duracion": "45",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 234,
@@ -2819,7 +3006,8 @@
    "duracion": "30-45",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 43,
@@ -2834,7 +3022,8 @@
    "duracion": "15-45",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 149,
@@ -2849,7 +3038,8 @@
    "duracion": "60-90",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 32,
@@ -2864,7 +3054,8 @@
    "duracion": "15-30",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 92,
@@ -2879,7 +3070,8 @@
    "duracion": "20",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 252,
@@ -2894,7 +3086,8 @@
    "duracion": "30",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 316,
@@ -2909,7 +3102,8 @@
    "duracion": "10",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 153,
@@ -2924,7 +3118,8 @@
    "duracion": "30",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 93,
@@ -2939,7 +3134,8 @@
    "duracion": "42",
    "publicacion": 2015,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 155,
@@ -2954,7 +3150,8 @@
    "duracion": "30",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 126,
@@ -2969,7 +3166,8 @@
    "duracion": "30-60",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 108,
@@ -2984,7 +3182,8 @@
    "duracion": "15-30",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 276,
@@ -2999,7 +3198,8 @@
    "duracion": "15",
    "publicacion": 2007,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 94,
@@ -3014,7 +3214,8 @@
    "duracion": "20",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 265,
@@ -3029,7 +3230,8 @@
    "duracion": "20",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 223,
@@ -3044,7 +3246,8 @@
    "duracion": "10",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 274,
@@ -3059,13 +3262,14 @@
    "duracion": "20",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 195,
    "bgg_id": 244522,
    "nombre": "Optimus",
-   "imagen": null,
+   "imagen": "244522.png",
    "categoria_id": 3,
    "mecanica_id": 7,
    "tematica_id": null,
@@ -3074,7 +3278,8 @@
    "duracion": "30",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 227,
@@ -3089,7 +3294,8 @@
    "duracion": "20",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 95,
@@ -3104,7 +3310,8 @@
    "duracion": "45-60",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 23,
@@ -3119,7 +3326,8 @@
    "duracion": "45-60",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 172,
@@ -3134,7 +3342,8 @@
    "duracion": "10-20",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 132,
@@ -3149,7 +3358,8 @@
    "duracion": "30-45",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 107,
@@ -3164,7 +3374,8 @@
    "duracion": "15-30",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 235,
@@ -3179,7 +3390,8 @@
    "duracion": "15-30",
    "publicacion": 2014,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 237,
@@ -3194,7 +3406,8 @@
    "duracion": "20",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 206,
@@ -3209,7 +3422,8 @@
    "duracion": "10",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 22,
@@ -3224,7 +3438,8 @@
    "duracion": "30-45",
    "publicacion": 2015,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 96,
@@ -3239,7 +3454,8 @@
    "duracion": "40",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 191,
@@ -3254,7 +3470,8 @@
    "duracion": "15-30",
    "publicacion": 1800,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 109,
@@ -3269,7 +3486,8 @@
    "duracion": "30-60",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 247,
@@ -3284,7 +3502,8 @@
    "duracion": "10-15",
    "publicacion": 2013,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 245,
@@ -3299,7 +3518,8 @@
    "duracion": "10-15",
    "publicacion": 2014,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 176,
@@ -3314,7 +3534,8 @@
    "duracion": "15",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 230,
@@ -3329,7 +3550,8 @@
    "duracion": "20",
    "publicacion": 2005,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 251,
@@ -3344,7 +3566,8 @@
    "duracion": "20",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 253,
@@ -3359,7 +3582,8 @@
    "duracion": "10-15",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 255,
@@ -3374,7 +3598,8 @@
    "duracion": "30-45",
    "publicacion": 2015,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 299,
@@ -3389,7 +3614,8 @@
    "duracion": "20-30",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 91,
@@ -3404,7 +3630,8 @@
    "duracion": "60-90",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 257,
@@ -3419,7 +3646,8 @@
    "duracion": "30",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 318,
@@ -3434,7 +3662,8 @@
    "duracion": "10",
    "publicacion": 2009,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 38,
@@ -3449,7 +3678,8 @@
    "duracion": "70-120",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 138,
@@ -3464,7 +3694,8 @@
    "duracion": "45",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 290,
@@ -3479,7 +3710,8 @@
    "duracion": "20",
    "publicacion": 2024,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 34,
@@ -3494,7 +3726,8 @@
    "duracion": "90",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 157,
@@ -3509,7 +3742,8 @@
    "duracion": "5-30",
    "publicacion": 2014,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 90,
@@ -3524,7 +3758,8 @@
    "duracion": "10-30",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 188,
@@ -3539,7 +3774,8 @@
    "duracion": "20-45",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 303,
@@ -3554,7 +3790,8 @@
    "duracion": "5-15",
    "publicacion": 2011,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 189,
@@ -3569,7 +3806,8 @@
    "duracion": "30",
    "publicacion": 2008,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 156,
@@ -3584,7 +3822,8 @@
    "duracion": "15-25",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 20,
@@ -3599,7 +3838,8 @@
    "duracion": "60-90",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 291,
@@ -3614,7 +3854,8 @@
    "duracion": "20",
    "publicacion": 2005,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 158,
@@ -3629,7 +3870,8 @@
    "duracion": "60",
    "publicacion": 1950,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 219,
@@ -3644,7 +3886,8 @@
    "duracion": "30",
    "publicacion": 2004,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 199,
@@ -3659,7 +3902,8 @@
    "duracion": "30-45",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 180,
@@ -3674,7 +3918,8 @@
    "duracion": "20-40",
    "publicacion": 2012,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 236,
@@ -3689,7 +3934,8 @@
    "duracion": "20",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 19,
@@ -3704,7 +3950,8 @@
    "duracion": "60",
    "publicacion": 2012,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 18,
@@ -3719,7 +3966,8 @@
    "duracion": "30-40",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 262,
@@ -3734,7 +3982,8 @@
    "duracion": "10",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 31,
@@ -3749,7 +3998,8 @@
    "duracion": "60-120",
    "publicacion": 1981,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 30,
@@ -3764,7 +4014,8 @@
    "duracion": "60-120",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 120,
@@ -3779,7 +4030,8 @@
    "duracion": "20-120",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 113,
@@ -3794,7 +4046,8 @@
    "duracion": "20-30",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 17,
@@ -3809,7 +4062,8 @@
    "duracion": "90",
    "publicacion": 2011,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 75,
@@ -3824,7 +4078,8 @@
    "duracion": "30-45",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 115,
@@ -3839,7 +4094,8 @@
    "duracion": "20-30",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 296,
@@ -3854,7 +4110,8 @@
    "duracion": "15",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 29,
@@ -3869,7 +4126,8 @@
    "duracion": "90-120",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 150,
@@ -3884,7 +4142,8 @@
    "duracion": "30",
    "publicacion": 2014,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 307,
@@ -3899,7 +4158,8 @@
    "duracion": "20",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 217,
@@ -3914,7 +4174,8 @@
    "duracion": "30",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 294,
@@ -3929,7 +4190,8 @@
    "duracion": "20",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 39,
@@ -3944,7 +4206,8 @@
    "duracion": "90",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 193,
@@ -3959,7 +4222,8 @@
    "duracion": "15",
    "publicacion": 2013,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 205,
@@ -3974,7 +4238,8 @@
    "duracion": "10-30",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 196,
@@ -3989,7 +4254,8 @@
    "duracion": "45",
    "publicacion": 2011,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 242,
@@ -4004,7 +4270,8 @@
    "duracion": "20-30",
    "publicacion": 2024,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 16,
@@ -4019,7 +4286,8 @@
    "duracion": "60-120",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 74,
@@ -4034,7 +4302,8 @@
    "duracion": "120",
    "publicacion": 2016,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 173,
@@ -4049,7 +4318,8 @@
    "duracion": "45-60",
    "publicacion": 1982,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 181,
@@ -4064,7 +4334,8 @@
    "duracion": "15-20",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 50,
@@ -4079,7 +4350,8 @@
    "duracion": "80",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 11,
@@ -4094,7 +4366,8 @@
    "duracion": "60-100",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 320,
@@ -4109,7 +4382,8 @@
    "duracion": "45",
    "publicacion": 2007,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 37,
@@ -4124,7 +4398,8 @@
    "duracion": "30",
    "publicacion": 2008,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 68,
@@ -4139,7 +4414,8 @@
    "duracion": "45",
    "publicacion": 2006,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 35,
@@ -4154,7 +4430,8 @@
    "duracion": "45-90",
    "publicacion": 2004,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 256,
@@ -4169,7 +4446,8 @@
    "duracion": "15",
    "publicacion": 2010,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 260,
@@ -4184,7 +4462,8 @@
    "duracion": "15",
    "publicacion": 2012,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 145,
@@ -4199,7 +4478,8 @@
    "duracion": "20",
    "publicacion": 2005,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 216,
@@ -4214,7 +4494,8 @@
    "duracion": "30-50",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 213,
@@ -4229,7 +4510,8 @@
    "duracion": "30",
    "publicacion": 2010,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 282,
@@ -4244,7 +4526,8 @@
    "duracion": "15",
    "publicacion": 2014,
    "deseado": true,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 204,
@@ -4259,7 +4542,8 @@
    "duracion": "10-20",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 284,
@@ -4274,7 +4558,8 @@
    "duracion": "15",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 202,
@@ -4289,7 +4574,8 @@
    "duracion": "15-20",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 163,
@@ -4304,7 +4590,8 @@
    "duracion": "40",
    "publicacion": 2015,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 287,
@@ -4319,7 +4606,8 @@
    "duracion": "15-30",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 161,
@@ -4334,7 +4622,8 @@
    "duracion": "20",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 54,
@@ -4349,7 +4638,8 @@
    "duracion": "60-90",
    "publicacion": 2002,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 4,
@@ -4364,7 +4654,8 @@
    "duracion": "90",
    "publicacion": 1996,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 319,
@@ -4379,7 +4670,8 @@
    "duracion": "45",
    "publicacion": 2005,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 5,
@@ -4394,7 +4686,8 @@
    "duracion": "60",
    "publicacion": 1984,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 207,
@@ -4409,7 +4702,8 @@
    "duracion": "30-45",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 8,
@@ -4424,7 +4718,8 @@
    "duracion": "20",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 248,
@@ -4439,7 +4734,8 @@
    "duracion": "15",
    "publicacion": 2017,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 41,
@@ -4454,7 +4750,8 @@
    "duracion": "50",
    "publicacion": 2012,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 261,
@@ -4469,7 +4766,8 @@
    "duracion": "10",
    "publicacion": 2015,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 272,
@@ -4484,7 +4782,8 @@
    "duracion": "10",
    "publicacion": 2007,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 7,
@@ -4499,7 +4798,8 @@
    "duracion": "40",
    "publicacion": 2020,
    "deseado": true,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 315,
@@ -4514,7 +4814,8 @@
    "duracion": "10",
    "publicacion": 2014,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 289,
@@ -4529,7 +4830,8 @@
    "duracion": "20-60",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 292,
@@ -4544,7 +4846,8 @@
    "duracion": "20",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 117,
@@ -4559,7 +4862,8 @@
    "duracion": "30-60",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 119,
@@ -4574,7 +4878,8 @@
    "duracion": "30-45",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 106,
@@ -4589,7 +4894,8 @@
    "duracion": "60",
    "publicacion": 2025,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 154,
@@ -4604,7 +4910,8 @@
    "duracion": "30-60",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 146,
@@ -4619,7 +4926,8 @@
    "duracion": "60-90",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 297,
@@ -4634,7 +4942,8 @@
    "duracion": "30",
    "publicacion": 1971,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 87,
@@ -4649,7 +4958,8 @@
    "duracion": "30",
    "publicacion": 2018,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 271,
@@ -4664,7 +4974,8 @@
    "duracion": "0-7",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 273,
@@ -4679,7 +4990,8 @@
    "duracion": "30",
    "publicacion": 2020,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 136,
@@ -4694,7 +5006,8 @@
    "duracion": "25-30",
    "publicacion": 2021,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 85,
@@ -4709,7 +5022,8 @@
    "duracion": "40-70",
    "publicacion": 2019,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 42,
@@ -4724,7 +5038,8 @@
    "duracion": "60-120",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 6,
@@ -4739,7 +5054,8 @@
    "duracion": "90",
    "publicacion": 2024,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 214,
@@ -4754,7 +5070,8 @@
    "duracion": "10-15",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 259,
@@ -4769,7 +5086,8 @@
    "duracion": "20",
    "publicacion": 2004,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 246,
@@ -4784,7 +5102,8 @@
    "duracion": "20",
    "publicacion": 2015,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   },
   {
    "id": 190,
@@ -4799,7 +5118,8 @@
    "duracion": "20",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": false
+   "en_camino": false,
+   "prestado": false
   }
  ],
  "categorias": [
@@ -4965,16 +5285,10 @@
    "numero_balda": 2,
    "juegos": [
     {
-     "id": 175,
-     "bgg_id": 35610,
-     "nombre": "3x4=Zas!",
-     "imagen": "35610.png"
-    },
-    {
-     "id": 305,
-     "bgg_id": 174988,
-     "nombre": "4 en Letras",
-     "imagen": "174988.png"
+     "id": 269,
+     "bgg_id": 400205,
+     "nombre": "5 Torres",
+     "imagen": "400205.png"
     },
     {
      "id": 226,
@@ -4983,10 +5297,35 @@
      "imagen": "147768.png"
     },
     {
-     "id": 269,
-     "bgg_id": 400205,
-     "nombre": "5 Torres",
-     "imagen": "400205.png"
+     "id": 305,
+     "bgg_id": 174988,
+     "nombre": "4 en Letras",
+     "imagen": "174988.png"
+    },
+    {
+     "id": 175,
+     "bgg_id": 35610,
+     "nombre": "3x4=Zas!",
+     "imagen": "35610.png"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "nombre_ubicacion": "Pared pianeo",
+   "numero_balda": 1,
+   "juegos": [
+    {
+     "id": 13,
+     "bgg_id": 383607,
+     "nombre": "Barcelona",
+     "imagen": "383607.png"
+    },
+    {
+     "id": 19,
+     "bgg_id": 108745,
+     "nombre": "Seasons",
+     "imagen": "108745.png"
     }
    ]
   }
