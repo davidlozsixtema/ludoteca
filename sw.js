@@ -1,7 +1,8 @@
 // Service worker: app shell cache-first, juegos.json network-first.
-const CACHE = 'ludoteca-v3';
+// Sin Drive: todo se sirve desde el propio origen (GitHub Pages).
+const CACHE = 'ludoteca-v5';
 const SHELL = [
-  '.', 'index.html', 'estilos.css', 'app.js', 'config.js',
+  '.', 'index.html', 'estilos.css', 'app.js',
   'manifest.webmanifest', 'icono.svg',
 ];
 
@@ -33,7 +34,7 @@ self.addEventListener('fetch', e => {
     return;
   }
 
-  // el resto (shell, imagenes locales, thumbs de Drive): cache primero
+  // el resto (shell e imagenes locales): cache primero
   e.respondWith(
     caches.match(e.request).then(hit =>
       hit || fetch(e.request).then(r => {

@@ -1,5 +1,5 @@
 /* Mi Ludoteca - app estatica (solo lectura).
-   Datos: juegos.json (local o desde una carpeta publica de Google Drive). */
+   Datos: juegos.json e imagenes/ servidos junto a la app (GitHub Pages). */
 'use strict';
 
 const sel = id => document.getElementById(id);
@@ -10,43 +10,13 @@ const PLACEHOLDER = 'data:image/svg+xml,' + encodeURIComponent(
 
 let datos = null;          // juegos.json entero
 let cards = [];            // elementos .juego ya creados
-let imgsDrive = {};        // nombre de archivo -> id de Drive (si hay API_KEY)
 let ubicacionDe = {};      // juego_id -> "Nombre · Balda N"
 let pagina = 0, aleatorio = null;
 
 /* ==================== descarga de datos ==================== */
 
-async function listaDrive(carpetaId) {
-  const url = 'https://www.googleapis.com/drive/v3/files?q=' +
-    encodeURIComponent(`'${carpetaId}' in parents and trashed=false`) +
-    `&fields=files(id,name,mimeType)&pageSize=1000&key=${API_KEY}`;
-  const r = await fetch(url);
-  if (!r.ok) throw new Error('Drive ' + r.status);
-  return (await r.json()).files;
-}
-
 async function cargarDatos() {
-  // 1) Drive (si hay API_KEY): json siempre fresco + mapa de imagenes
-  if (API_KEY) {
-    try {
-      const raiz = await listaDrive(CARPETA_RAIZ);
-      const fj = raiz.find(f => f.name === FICHERO_JSON);
-      const fi = raiz.find(f => f.name === CARPETA_IMAGENES);
-      if (!fj) throw new Error('juegos.json no esta en la carpeta');
-      if (fi) {
-        (await listaDrive(fi.id)).forEach(f => { imgsDrive[f.name] = f.id; });
-      }
-      const r = await fetch(
-        `https://www.googleapis.com/drive/v3/files/${fj.id}?alt=media&key=${API_KEY}`);
-      if (!r.ok) throw new Error('Drive json ' + r.status);
-      const d = await r.json();
-      localStorage.setItem('datos-cache', JSON.stringify(d));
-      return d;
-    } catch (e) {
-      console.warn('Drive no disponible:', e.message);
-    }
-  }
-  // 2) fichero local
+  // 1) fichero local
   try {
     const r = await fetch('juegos.json', { cache: 'no-store' });
     if (r.ok) {
@@ -55,17 +25,14 @@ async function cargarDatos() {
       return d;
     }
   } catch { /* offline */ }
-  // 3) ultima cache guardada
+  // 2) ultima cache guardada
   const cache = localStorage.getItem('datos-cache');
   if (cache) return JSON.parse(cache);
   throw new Error('Sin datos: no hay juegos.json ni cache.');
 }
 
 function urlImagen(nombre) {
-  if (!nombre) return PLACEHOLDER;
-  const id = imgsDrive[nombre];
-  return id ? `https://lh3.googleusercontent.com/d/${id}=w400`
-            : `imagenes/${nombre}`;
+  return nombre ? `imagenes/${nombre}` : PLACEHOLDER;
 }
 
 /* ==================== tarjetas ==================== */
