@@ -91,12 +91,25 @@ input:focus, select:focus { outline: 2px solid #bfdbfe; border-color: var(--acen
 .ubi-card .hueco { font-size: 13px; color: var(--muted); margin-bottom: 10px; }
 .balda { margin-top: 10px; }
 .balda b { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .4px; }
-.balda .juegos { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 5px; }
-.balda .mini {
-  display: flex; align-items: center; gap: 6px; background: #f1f5f9;
-  border-radius: 8px; padding: 3px 8px 3px 3px; font-size: 12.5px;
+.balda .juegos { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 5px; }
+.balda .mini { position: relative; width: 58px; height: 58px; cursor: pointer; }
+.balda .mini img {
+  width: 58px; height: 58px; object-fit: cover; border-radius: 8px;
+  border: 1px solid var(--borde); background: #f1f5f9; display: block;
 }
-.balda .mini img { width: 26px; height: 26px; object-fit: contain; border-radius: 5px; }
+.balda .mini.sin-img::after {
+  content: '🎲'; position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center; font-size: 26px;
+  background: #f1f5f9; border-radius: 8px; border: 1px solid var(--borde);
+}
+.balda .mini .nom {
+  display: none; position: absolute; top: 100%; left: 50%; z-index: 20;
+  transform: translateX(-50%); margin-top: 4px;
+  background: #1e293b; color: #fff; font-size: 12px; text-align: center;
+  padding: 4px 8px; border-radius: 6px; width: max-content; max-width: 150px;
+  box-shadow: 0 4px 10px rgba(0,0,0,.25); pointer-events: none;
+}
+.balda .mini:hover .nom, .balda .mini.ver .nom { display: block; }
 
 /* ---------------- resumen (barras css) ---------------- */
 .barras { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }

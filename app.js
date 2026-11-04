@@ -202,7 +202,8 @@ function pintarMapa() {
         `<div class="balda"><b>Balda ${u.numero_balda}</b><div class="juegos">` +
         u.juegos.map(j =>
           `<span class="mini"><img loading="lazy" src="${urlImagen(j.imagen)}"
-             onerror="this.style.display='none'">${j.nombre}</span>`).join('') +
+             alt="" onerror="this.parentNode.classList.add('sin-img');this.remove()">` +
+          `<span class="nom">${j.nombre}</span></span>`).join('') +
         '</div></div>').join('');
     div.appendChild(card);
   });
@@ -210,6 +211,14 @@ function pintarMapa() {
   sel('sin-ubicar').textContent =
     sin ? `🧺 ${sin} juegos sin ubicar.` : '';
 }
+
+// tocar una caratula del mapa muestra su nombre (en PC vale el :hover del CSS)
+sel('mapa').addEventListener('click', e => {
+  const t = e.target.closest('.mini');
+  sel('mapa').querySelectorAll('.mini.ver')
+    .forEach(m => { if (m !== t) m.classList.remove('ver'); });
+  if (t) t.classList.toggle('ver');
+});
 
 /* ==================== resumen ==================== */
 
