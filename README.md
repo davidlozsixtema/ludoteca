@@ -19,17 +19,6 @@ ubicaciones y resumen. Sin servidor: lee `juegos.json` (local o en Drive).
    carpeta de Drive** (raiz el json, dentro de `imagenes/` las caratulas)
    o sube la carpeta `apk/` a tu hosting estatico.
 
-## Dos modos de datos
-
-### A) Sin API key (mas simple)
-
-Deja `API_KEY = ''` en `config.js` y sube la carpeta `apk/` entera a un
-hosting estatico gratis: GitHub Pages, Cloudflare Pages o Netlify.
-El `juegos.json` y `imagenes/` viajan dentro → cero dependencia de Drive.
-
-Para probar en local: `python -m http.server 8080` dentro de `apk/` y
-abrir `http://localhost:8080`.
-
 ### B) Con Drive como fuente (datos siempre frescos)
 
 1. En Google Cloud Console crea un proyecto, habilita
@@ -53,9 +42,3 @@ ultima cache y, si falla Drive, cae al json local.
 
 Con la PWA publicada en una URL https, entra en <https://www.pwabuilder.com>,
 pega la URL y te genera el paquete APK/AAB sin escribir codigo Android.
-
-## Notas
-
-- `prestado_a` NO se exporta por defecto (por privacidad). Cambia
-  `INCLUIR_PRESTADO = True` en `Exportar movil.py` si lo quieres.
-- Para iconos PNG de tienda, PWABuilder los genera a partir de `icono.svg`.
