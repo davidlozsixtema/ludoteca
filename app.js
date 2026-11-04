@@ -319,7 +319,15 @@ FILTROS.forEach(id => {
     sel(id).addEventListener('input', () => { pagina = 0; aleatorio = null; pintar(); });
 });
 
-if ('serviceWorker' in navigator && location.protocol !== 'file:')
+if ('serviceWorker' in navigator && location.protocol !== 'file:') {
   navigator.serviceWorker.register('sw.js').catch(() => {});
+  // cuando un SW nuevo toma el control (version nueva publicada),
+  // recarga una vez para cargar los ficheros frescos: basta una apertura
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (window.__swReload) return;
+    window.__swReload = true;
+    location.reload();
+  });
+}
 
 iniciar();
