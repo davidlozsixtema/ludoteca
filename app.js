@@ -64,7 +64,7 @@ async function cargarDatos() {
 function urlImagen(nombre) {
   if (!nombre) return PLACEHOLDER;
   const id = imgsDrive[nombre];
-  return id ? `https://drive.google.com/thumbnail?id=${id}&sz=w400`
+  return id ? `https://lh3.googleusercontent.com/d/${id}=w400`
             : `imagenes/${nombre}`;
 }
 

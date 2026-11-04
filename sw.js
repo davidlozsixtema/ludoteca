@@ -1,5 +1,5 @@
 // Service worker: app shell cache-first, juegos.json network-first.
-const CACHE = 'ludoteca-v1';
+const CACHE = 'ludoteca-v2';
 const SHELL = [
   '.', 'index.html', 'estilos.css', 'app.js', 'config.js',
   'manifest.webmanifest', 'icono.svg',
