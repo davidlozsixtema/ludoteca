@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-04T19:20:55+00:00",
+ "generado": "2026-11-04T20:38:47+00:00",
  "juegos": [
   {
    "id": 175,
@@ -213,7 +213,7 @@
    "id": 159,
    "bgg_id": 368109,
    "nombre": "Armadillo",
-   "imagen": null,
+   "imagen": "368109.png",
    "categoria_id": 3,
    "mecanica_id": 7,
    "tematica_id": 7,
@@ -261,7 +261,7 @@
    "id": 224,
    "bgg_id": 230802,
    "nombre": "Azul",
-   "imagen": null,
+   "imagen": "230802.png",
    "categoria_id": 8,
    "mecanica_id": 12,
    "tematica_id": 4,
@@ -277,7 +277,7 @@
    "id": 100,
    "bgg_id": 346965,
    "nombre": "Azul: Jardín de la Reina",
-   "imagen": null,
+   "imagen": "346965.png",
    "categoria_id": 8,
    "mecanica_id": 12,
    "tematica_id": 7,
@@ -293,7 +293,7 @@
    "id": 225,
    "bgg_id": 287954,
    "nombre": "Azul: Pabellón de Verano",
-   "imagen": null,
+   "imagen": "287954.png",
    "categoria_id": 8,
    "mecanica_id": 12,
    "tematica_id": 4,
@@ -325,7 +325,7 @@
    "id": 104,
    "bgg_id": 288424,
    "nombre": "BananAzul",
-   "imagen": null,
+   "imagen": "288424.png",
    "categoria_id": 7,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -661,7 +661,7 @@
    "id": 36,
    "bgg_id": 84876,
    "nombre": "Castillos de Borgoña",
-   "imagen": null,
+   "imagen": "84876.png",
    "categoria_id": 1,
    "mecanica_id": 7,
    "tematica_id": 4,
@@ -1045,7 +1045,7 @@
    "id": 192,
    "bgg_id": 131493,
    "nombre": "Código Secreto 13+4",
-   "imagen": null,
+   "imagen": "131493.png",
    "categoria_id": 7,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -2053,7 +2053,7 @@
    "id": 130,
    "bgg_id": 385761,
    "nombre": "Faraway",
-   "imagen": null,
+   "imagen": "385761.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 10,
@@ -2229,7 +2229,7 @@
    "id": 215,
    "bgg_id": 2379,
    "nombre": "Gestos",
-   "imagen": null,
+   "imagen": "2379.png",
    "categoria_id": 4,
    "mecanica_id": 10,
    "tematica_id": null,
@@ -2373,7 +2373,7 @@
    "id": 3,
    "bgg_id": 424280,
    "nombre": "Hitster Bingo",
-   "imagen": null,
+   "imagen": "424280.png",
    "categoria_id": 4,
    "mecanica_id": 4,
    "tematica_id": 4,
@@ -2837,7 +2837,7 @@
    "id": 208,
    "bgg_id": 209778,
    "nombre": "Magic Maze",
-   "imagen": null,
+   "imagen": "209778.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 1,
@@ -3125,7 +3125,7 @@
    "id": 93,
    "bgg_id": 181304,
    "nombre": "Mysterium",
-   "imagen": null,
+   "imagen": "181304.png",
    "categoria_id": 2,
    "mecanica_id": 10,
    "tematica_id": 6,
@@ -3733,7 +3733,7 @@
    "id": 157,
    "bgg_id": 161417,
    "nombre": "Red7",
-   "imagen": null,
+   "imagen": "161417.png",
    "categoria_id": 7,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -3989,7 +3989,7 @@
    "id": 31,
    "bgg_id": 2511,
    "nombre": "Sherlock Holmes: Detective Asesor",
-   "imagen": null,
+   "imagen": "2511.png",
    "categoria_id": 2,
    "mecanica_id": 10,
    "tematica_id": 4,
@@ -4405,7 +4405,7 @@
    "id": 68,
    "bgg_id": 57660,
    "nombre": "Time's Up! Edición Azul",
-   "imagen": null,
+   "imagen": "57660.png",
    "categoria_id": 4,
    "mecanica_id": 10,
    "tematica_id": 4,
@@ -5544,7 +5544,7 @@
      "id": 93,
      "bgg_id": 181304,
      "nombre": "Mysterium",
-     "imagen": null
+     "imagen": "181304.png"
     },
     {
      "id": 138,
@@ -5632,22 +5632,10 @@
      "imagen": null
     },
     {
-     "id": 9,
-     "bgg_id": 155695,
-     "nombre": "Age of War",
-     "imagen": "155695.png"
-    },
-    {
      "id": 27,
      "bgg_id": 128882,
      "nombre": "Avalon",
      "imagen": null
-    },
-    {
-     "id": 218,
-     "bgg_id": 3955,
-     "nombre": "BANG!",
-     "imagen": "3955.png"
     },
     {
      "id": 187,
@@ -5662,18 +5650,6 @@
      "imagen": null
     },
     {
-     "id": 275,
-     "bgg_id": 305985,
-     "nombre": "Cabras Montesas",
-     "imagen": "305985.png"
-    },
-    {
-     "id": 179,
-     "bgg_id": 378630,
-     "nombre": "Capitán Bacon",
-     "imagen": "378630.png"
-    },
-    {
      "id": 238,
      "bgg_id": 226454,
      "nombre": "Chawai",
@@ -5684,18 +5660,6 @@
      "bgg_id": 478,
      "nombre": "Ciudadelas",
      "imagen": "478.png"
-    },
-    {
-     "id": 185,
-     "bgg_id": 377646,
-     "nombre": "Colourfull",
-     "imagen": "377646.png"
-    },
-    {
-     "id": 124,
-     "bgg_id": 348096,
-     "nombre": "Cometas",
-     "imagen": null
     },
     {
      "id": 162,
@@ -5710,6 +5674,175 @@
      "imagen": null
     },
     {
+     "id": 194,
+     "bgg_id": 264055,
+     "nombre": "Draftosaurus",
+     "imagen": null
+    },
+    {
+     "id": 168,
+     "bgg_id": 288775,
+     "nombre": "Fairy Trails",
+     "imagen": null
+    },
+    {
+     "id": 200,
+     "bgg_id": 325414,
+     "nombre": "Happy Little Dinosaurs",
+     "imagen": null
+    },
+    {
+     "id": 183,
+     "bgg_id": 117663,
+     "nombre": "Isla Calavera",
+     "imagen": null
+    },
+    {
+     "id": 164,
+     "bgg_id": 317299,
+     "nombre": "Loco Momo",
+     "imagen": "317299.png"
+    },
+    {
+     "id": 243,
+     "bgg_id": 118247,
+     "nombre": "Lucky Numbers",
+     "imagen": null
+    },
+    {
+     "id": 143,
+     "bgg_id": 432459,
+     "nombre": "Mala Suert3",
+     "imagen": "432459.png"
+    },
+    {
+     "id": 281,
+     "bgg_id": 347616,
+     "nombre": "Manda Huevos",
+     "imagen": null
+    },
+    {
+     "id": 252,
+     "bgg_id": 322282,
+     "nombre": "Momiji",
+     "imagen": null
+    },
+    {
+     "id": 276,
+     "bgg_id": 33088,
+     "nombre": "No sin mi gato",
+     "imagen": null
+    },
+    {
+     "id": 223,
+     "bgg_id": 345641,
+     "nombre": "One Finger!",
+     "imagen": null
+    },
+    {
+     "id": 107,
+     "bgg_id": 359892,
+     "nombre": "Paren la Nave que me Bajo",
+     "imagen": null
+    },
+    {
+     "id": 189,
+     "bgg_id": 37728,
+     "nombre": "Ritmo y Bola",
+     "imagen": null
+    },
+    {
+     "id": 219,
+     "bgg_id": 9220,
+     "nombre": "Saboteur",
+     "imagen": "9220.png"
+    },
+    {
+     "id": 199,
+     "bgg_id": 367220,
+     "nombre": "Salton Sea",
+     "imagen": null
+    },
+    {
+     "id": 113,
+     "bgg_id": 254103,
+     "nombre": "Smiles & Daggers",
+     "imagen": null
+    },
+    {
+     "id": 284,
+     "bgg_id": 256621,
+     "nombre": "Train Silvania",
+     "imagen": null
+    },
+    {
+     "id": 202,
+     "bgg_id": 288513,
+     "nombre": "Tranquilidad",
+     "imagen": null
+    },
+    {
+     "id": 161,
+     "bgg_id": 386728,
+     "nombre": "TrisTristisTigris",
+     "imagen": "386728.png"
+    },
+    {
+     "id": 207,
+     "bgg_id": 270168,
+     "nombre": "Tuki",
+     "imagen": null
+    },
+    {
+     "id": 136,
+     "bgg_id": 339789,
+     "nombre": "Welcome to the Moon",
+     "imagen": null
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "nombre_ubicacion": "Vitrina pared",
+   "numero_balda": 4,
+   "juegos": [
+    {
+     "id": 9,
+     "bgg_id": 155695,
+     "nombre": "Age of War",
+     "imagen": "155695.png"
+    },
+    {
+     "id": 218,
+     "bgg_id": 3955,
+     "nombre": "BANG!",
+     "imagen": "3955.png"
+    },
+    {
+     "id": 275,
+     "bgg_id": 305985,
+     "nombre": "Cabras Montesas",
+     "imagen": "305985.png"
+    },
+    {
+     "id": 179,
+     "bgg_id": 378630,
+     "nombre": "Capitán Bacon",
+     "imagen": "378630.png"
+    },
+    {
+     "id": 185,
+     "bgg_id": 377646,
+     "nombre": "Colourfull",
+     "imagen": "377646.png"
+    },
+    {
+     "id": 124,
+     "bgg_id": 348096,
+     "nombre": "Cometas",
+     "imagen": null
+    },
+    {
      "id": 82,
      "bgg_id": 92499,
      "nombre": "Djam",
@@ -5719,12 +5852,6 @@
      "id": 293,
      "bgg_id": 63268,
      "nombre": "Dobble",
-     "imagen": null
-    },
-    {
-     "id": 194,
-     "bgg_id": 264055,
-     "nombre": "Draftosaurus",
      "imagen": null
     },
     {
@@ -5764,12 +5891,6 @@
      "imagen": "300993.png"
     },
     {
-     "id": 168,
-     "bgg_id": 288775,
-     "nombre": "Fairy Trails",
-     "imagen": null
-    },
-    {
      "id": 249,
      "bgg_id": 83195,
      "nombre": "Fantasma Blitz",
@@ -5779,7 +5900,7 @@
      "id": 130,
      "bgg_id": 385761,
      "nombre": "Faraway",
-     "imagen": null
+     "imagen": "385761.png"
     },
     {
      "id": 169,
@@ -5792,18 +5913,6 @@
      "bgg_id": 118410,
      "nombre": "Guarro Pig",
      "imagen": "118410.png"
-    },
-    {
-     "id": 200,
-     "bgg_id": 325414,
-     "nombre": "Happy Little Dinosaurs",
-     "imagen": null
-    },
-    {
-     "id": 183,
-     "bgg_id": 117663,
-     "nombre": "Isla Calavera",
-     "imagen": null
     },
     {
      "id": 270,
@@ -5824,33 +5933,9 @@
      "imagen": null
     },
     {
-     "id": 164,
-     "bgg_id": 317299,
-     "nombre": "Loco Momo",
-     "imagen": "317299.png"
-    },
-    {
-     "id": 243,
-     "bgg_id": 118247,
-     "nombre": "Lucky Numbers",
-     "imagen": null
-    },
-    {
      "id": 283,
      "bgg_id": 246203,
      "nombre": "Magic Mandala",
-     "imagen": null
-    },
-    {
-     "id": 143,
-     "bgg_id": 432459,
-     "nombre": "Mala Suert3",
-     "imagen": "432459.png"
-    },
-    {
-     "id": 281,
-     "bgg_id": 347616,
-     "nombre": "Manda Huevos",
      "imagen": null
     },
     {
@@ -5872,33 +5957,9 @@
      "imagen": null
     },
     {
-     "id": 252,
-     "bgg_id": 322282,
-     "nombre": "Momiji",
-     "imagen": null
-    },
-    {
      "id": 108,
      "bgg_id": 218556,
      "nombre": "No Game Over",
-     "imagen": null
-    },
-    {
-     "id": 276,
-     "bgg_id": 33088,
-     "nombre": "No sin mi gato",
-     "imagen": null
-    },
-    {
-     "id": 223,
-     "bgg_id": 345641,
-     "nombre": "One Finger!",
-     "imagen": null
-    },
-    {
-     "id": 107,
-     "bgg_id": 359892,
-     "nombre": "Paren la Nave que me Bajo",
      "imagen": null
     },
     {
@@ -5935,7 +5996,7 @@
      "id": 157,
      "bgg_id": 161417,
      "nombre": "Red7",
-     "imagen": null
+     "imagen": "161417.png"
     },
     {
      "id": 188,
@@ -5944,28 +6005,10 @@
      "imagen": "353684.png"
     },
     {
-     "id": 189,
-     "bgg_id": 37728,
-     "nombre": "Ritmo y Bola",
-     "imagen": null
-    },
-    {
      "id": 156,
      "bgg_id": 240225,
      "nombre": "Roll to the Top",
      "imagen": "240225.png"
-    },
-    {
-     "id": 219,
-     "bgg_id": 9220,
-     "nombre": "Saboteur",
-     "imagen": "9220.png"
-    },
-    {
-     "id": 199,
-     "bgg_id": 367220,
-     "nombre": "Salton Sea",
-     "imagen": null
     },
     {
      "id": 180,
@@ -5977,12 +6020,6 @@
      "id": 262,
      "bgg_id": 271774,
      "nombre": "Sherlock Express",
-     "imagen": null
-    },
-    {
-     "id": 113,
-     "bgg_id": 254103,
-     "nombre": "Smiles & Daggers",
      "imagen": null
     },
     {
@@ -6025,7 +6062,7 @@
      "id": 68,
      "bgg_id": 57660,
      "nombre": "Time's Up! Edición Azul",
-     "imagen": null
+     "imagen": "57660.png"
     },
     {
      "id": 35,
@@ -6040,53 +6077,23 @@
      "imagen": null
     },
     {
-     "id": 284,
-     "bgg_id": 256621,
-     "nombre": "Train Silvania",
-     "imagen": null
-    },
-    {
-     "id": 202,
-     "bgg_id": 288513,
-     "nombre": "Tranquilidad",
-     "imagen": null
-    },
-    {
-     "id": 161,
-     "bgg_id": 386728,
-     "nombre": "TrisTristisTigris",
-     "imagen": "386728.png"
-    },
-    {
-     "id": 207,
-     "bgg_id": 270168,
-     "nombre": "Tuki",
-     "imagen": null
-    },
-    {
      "id": 271,
      "bgg_id": 358805,
      "nombre": "Vagoneta Infernal",
-     "imagen": null
-    },
-    {
-     "id": 136,
-     "bgg_id": 339789,
-     "nombre": "Welcome to the Moon",
      "imagen": null
     }
    ]
   },
   {
-   "id": 7,
+   "id": 8,
    "nombre_ubicacion": "Vitrina pared",
-   "numero_balda": 4,
+   "numero_balda": 5,
    "juegos": [
     {
      "id": 36,
      "bgg_id": 84876,
      "nombre": "Castillos de Borgoña",
-     "imagen": null
+     "imagen": "84876.png"
     },
     {
      "id": 84,
@@ -6157,9 +6164,9 @@
    ]
   },
   {
-   "id": 8,
+   "id": 9,
    "nombre_ubicacion": "Vitrina pared",
-   "numero_balda": 5,
+   "numero_balda": 6,
    "juegos": [
     {
      "id": 53,
@@ -6171,19 +6178,19 @@
      "id": 224,
      "bgg_id": 230802,
      "nombre": "Azul",
-     "imagen": null
+     "imagen": "230802.png"
     },
     {
      "id": 100,
      "bgg_id": 346965,
      "nombre": "Azul: Jardín de la Reina",
-     "imagen": null
+     "imagen": "346965.png"
     },
     {
      "id": 225,
      "bgg_id": 287954,
      "nombre": "Azul: Pabellón de Verano",
-     "imagen": null
+     "imagen": "287954.png"
     },
     {
      "id": 111,
@@ -6234,12 +6241,6 @@
      "imagen": null
     }
    ]
-  },
-  {
-   "id": 9,
-   "nombre_ubicacion": "Vitrina pared",
-   "numero_balda": 6,
-   "juegos": []
   },
   {
    "id": 10,
@@ -6401,7 +6402,7 @@
      "id": 208,
      "bgg_id": 209778,
      "nombre": "Magic Maze",
-     "imagen": null
+     "imagen": "209778.png"
     },
     {
      "id": 155,
@@ -6498,7 +6499,7 @@
      "id": 3,
      "bgg_id": 424280,
      "nombre": "Hitster Bingo",
-     "imagen": null
+     "imagen": "424280.png"
     },
     {
      "id": 72,
@@ -6546,7 +6547,7 @@
      "id": 31,
      "bgg_id": 2511,
      "nombre": "Sherlock Holmes: Detective Asesor",
-     "imagen": null
+     "imagen": "2511.png"
     }
    ]
   }

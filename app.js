@@ -191,7 +191,7 @@ function pintarMapa() {
     (grupos[u.nombre_ubicacion] ??= []).push(u);
   });
   Object.entries(grupos).forEach(([nombre, filas]) => {
-    filas.sort((a, b) => a.numero_balda - b.numero_balda);
+    filas.sort((a, b) => b.numero_balda - a.numero_balda);   // balda 1 = la de abajo
     const total = filas.reduce((n, u) => n + u.juegos.length, 0);
     const card = document.createElement('div');
     card.className = 'ubi-card';
@@ -199,7 +199,7 @@ function pintarMapa() {
       `<h3>🗄️ ${nombre}</h3>
        <div class="hueco">${total} juegos</div>` +
       filas.map(u =>
-        `<div class="balda"><b>Balda ${u.numero_balda}</b><div class="juegos">` +
+        `<div class="balda"><b>Balda ${u.numero_balda} · ${u.juegos.length}</b><div class="juegos">` +
         u.juegos.map(j =>
           `<span class="mini"><img loading="lazy" src="${urlImagen(j.imagen)}"
              alt="" onerror="this.parentNode.classList.add('sin-img');this.remove()">` +
