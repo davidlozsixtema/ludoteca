@@ -278,10 +278,6 @@ async function iniciar() {
   sel('cargando').classList.add('oculto');
 
   sel('total').textContent = `${datos.juegos.length} juegos en la coleccion`;
-  if (datos.generado) {
-    sel('fecha').textContent =
-      '· datos del ' + new Date(datos.generado).toLocaleString('es-ES');
-  }
   rellenarSelects();
   construir();
   restaurarFiltros();
