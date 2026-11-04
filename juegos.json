@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-04T16:14:49+00:00",
+ "generado": "2026-11-04T16:46:05+00:00",
  "juegos": [
   {
    "id": 175,
@@ -2197,7 +2197,7 @@
    "id": 51,
    "bgg_id": 393333,
    "nombre": "Galileo Galilei",
-   "imagen": null,
+   "imagen": "393333.png",
    "categoria_id": 1,
    "mecanica_id": 7,
    "tematica_id": 4,
@@ -5282,7 +5282,7 @@
   {
    "id": 1,
    "nombre_ubicacion": "Pared piano",
-   "numero_balda": 2,
+   "numero_balda": 1,
    "juegos": [
     {
      "id": 269,
@@ -5312,8 +5312,8 @@
   },
   {
    "id": 2,
-   "nombre_ubicacion": "Pared pianeo",
-   "numero_balda": 1,
+   "nombre_ubicacion": "Pared piano",
+   "numero_balda": 2,
    "juegos": [
     {
      "id": 13,
@@ -5326,6 +5326,19 @@
      "bgg_id": 108745,
      "nombre": "Seasons",
      "imagen": "108745.png"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "nombre_ubicacion": "Vitrina tele",
+   "numero_balda": 1,
+   "juegos": [
+    {
+     "id": 51,
+     "bgg_id": 393333,
+     "nombre": "Galileo Galilei",
+     "imagen": "393333.png"
     }
    ]
   }
