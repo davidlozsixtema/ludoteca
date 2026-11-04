@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#2563eb">
+  <title>Mi Ludoteca</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icono.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <span class="logo">🎲 Mi Ludoteca</span>
+    <nav>
+      <a data-vista="catalogo" class="activo">Catalogo</a>
+      <a data-vista="mapa">Mapa</a>
+      <a data-vista="resumen">Resumen</a>
+    </nav>
+    <button class="sync" id="b-sync" title="Actualizar datos">⟳</button>
+  </header>
+
+  <main>
+    <section id="v-catalogo">
+      <h1>Catalogo</h1>
+      <p class="sub"><span id="total"></span> <span id="cuenta"></span> <span id="fecha"></span></p>
+      <div class="filtros">
+        <input id="f-buscar" type="search" placeholder="🔍 Buscar juegos...">
+        <select id="f-cat" title="Publico objetivo / estilo del juego">
+          <option value="">Categoria</option>
+        </select>
+        <select id="f-mec" title="Mecanica: como se juega">
+          <option value="">Mecanica</option>
+        </select>
+        <select id="f-tem" title="Tematica: ambientacion del juego">
+          <option value="">Tematica</option>
+        </select>
+        <input id="f-jug" type="number" min="1" max="99" placeholder="Jugadores"
+               title="Numero de jugadores (casa con el rango del juego)">
+        <input id="f-dur" type="number" min="0" max="999" placeholder="Duracion (min)"
+               title="Minutos de partida (casa con el rango del juego)">
+        <select id="f-edad" title="Edad recomendada">
+          <option value="">Edad</option>
+        </select>
+        <select id="f-des" title="Lista de deseos">
+          <option value="">Deseados</option>
+          <option value="1">Solo deseados</option>
+          <option value="0">Solo no deseados</option>
+        </select>
+        <select id="f-orden" title="Ordenar">
+          <option value="">Orden: aleatorio</option>
+          <option value="nombre-asc">Nombre A-Z</option>
+          <option value="nombre-desc">Nombre Z-A</option>
+          <option value="pub-desc">Año: recientes</option>
+          <option value="pub-asc">Año: antiguos</option>
+          <option value="dur-asc">Duracion: cortos</option>
+          <option value="dur-desc">Duracion: largos</option>
+        </select>
+        <button class="btn sec" id="b-ale" title="3 juegos al azar">🎲 3 al azar</button>
+        <button class="btn sec" id="b-limpiar" type="button" title="Quitar todos los filtros">✖ Limpiar</button>
+      </div>
+      <div class="cards" id="rejilla"></div>
+      <p id="sin-resultados" class="sub oculto" style="margin-top:26px">
+        Ningun juego pasa los filtros.</p>
+      <div id="pagin" class="pagin"></div>
+    </section>
+
+    <section id="v-mapa" class="oculto">
+      <h1>Mapa</h1>
+      <p class="sub">Donde esta ubicado cada juego.</p>
+      <div id="mapa" class="ubicaciones"></div>
+      <p id="sin-ubicar" class="sub" style="margin-top:20px"></p>
+    </section>
+
+    <section id="v-resumen" class="oculto">
+      <h1>Resumen</h1>
+      <p class="sub">La coleccion por categoria, mecanica y tematica.</p>
+      <div id="resumen" class="barras"></div>
+    </section>
+
+    <div id="cargando"><div class="spin"></div><p>Cargando ludoteca...</p></div>
+  </main>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
