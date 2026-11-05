@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05T23:09:34+00:00",
+ "generado": "2026-11-05T23:15:58+00:00",
  "juegos": [
   {
    "id": 175,
@@ -16,7 +16,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 305,
@@ -33,7 +36,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 226,
@@ -50,7 +56,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 269,
@@ -67,7 +76,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 177,
@@ -84,7 +96,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 321,
@@ -101,7 +116,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 322,
@@ -118,7 +136,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 2,
@@ -135,7 +156,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 9,
@@ -152,7 +176,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 53,
@@ -169,7 +196,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 103,
@@ -186,7 +216,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 323,
@@ -203,7 +236,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 212,
@@ -220,7 +256,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 310,
@@ -237,7 +276,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 88,
@@ -254,7 +296,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 10,
@@ -271,7 +316,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 159,
@@ -288,7 +336,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 324,
@@ -305,7 +356,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 27,
@@ -322,7 +376,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 166,
@@ -339,7 +396,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 224,
@@ -356,7 +416,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 100,
@@ -373,7 +436,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 325,
@@ -390,7 +456,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 414,
@@ -407,7 +476,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 225,
@@ -424,7 +496,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 369,
@@ -441,7 +516,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 12,
@@ -458,7 +536,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 104,
@@ -475,7 +556,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 218,
@@ -492,7 +576,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 13,
@@ -509,7 +596,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 187,
@@ -526,7 +616,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 14,
@@ -543,7 +636,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 342,
@@ -560,7 +656,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 317,
@@ -577,7 +676,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 280,
@@ -594,7 +696,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 40,
@@ -611,7 +716,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 97,
@@ -628,7 +736,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 298,
@@ -645,7 +756,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 44,
@@ -662,7 +776,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 415,
@@ -679,7 +796,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 327,
@@ -696,7 +816,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 397,
@@ -713,7 +836,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 144,
@@ -730,7 +856,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 275,
@@ -747,7 +876,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 111,
@@ -764,7 +896,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 170,
@@ -781,7 +916,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 426,
@@ -798,7 +936,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 304,
@@ -815,7 +956,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 137,
@@ -832,7 +976,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 179,
@@ -849,7 +996,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 264,
@@ -866,7 +1016,16 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": [
+    {
+     "id": 328,
+     "nombre": "Carcassonne: Posadas y Catedrales",
+     "imagen": "328.png"
+    }
+   ]
   },
   {
    "id": 328,
@@ -883,7 +1042,14 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": 264,
+   "padre": {
+    "id": 264,
+    "nombre": "Carcassonne",
+    "imagen": "264.png"
+   },
+   "expansiones": []
   },
   {
    "id": 89,
@@ -900,7 +1066,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 398,
@@ -917,7 +1086,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 375,
@@ -934,7 +1106,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 101,
@@ -951,7 +1126,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 36,
@@ -968,7 +1146,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 151,
@@ -985,7 +1166,16 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": true,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": [
+    {
+     "id": 378,
+     "nombre": "Catan: 5-6 Player Extension",
+     "imagen": "378.png"
+    }
+   ]
   },
   {
    "id": 378,
@@ -1002,7 +1192,14 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": true,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": 151,
+   "padre": {
+    "id": 151,
+    "nombre": "Catan",
+    "imagen": "151.png"
+   },
+   "expansiones": []
   },
   {
    "id": 399,
@@ -1019,7 +1216,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 326,
@@ -1036,7 +1236,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 329,
@@ -1053,7 +1256,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 84,
@@ -1070,7 +1276,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 98,
@@ -1087,7 +1296,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 238,
@@ -1104,7 +1316,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 24,
@@ -1121,7 +1336,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 147,
@@ -1138,7 +1356,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 141,
@@ -1155,7 +1376,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 114,
@@ -1172,7 +1396,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 46,
@@ -1189,7 +1416,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 135,
@@ -1206,7 +1436,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 384,
@@ -1223,7 +1456,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 385,
@@ -1240,7 +1476,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 386,
@@ -1257,7 +1496,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 387,
@@ -1274,7 +1516,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 388,
@@ -1291,7 +1536,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 389,
@@ -1308,7 +1556,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 390,
@@ -1325,7 +1576,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 391,
@@ -1342,7 +1596,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 392,
@@ -1359,7 +1616,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 393,
@@ -1376,7 +1636,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 201,
@@ -1393,7 +1656,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 197,
@@ -1410,7 +1676,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 185,
@@ -1427,7 +1696,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 152,
@@ -1444,7 +1716,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 277,
@@ -1461,7 +1736,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 124,
@@ -1478,7 +1756,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 140,
@@ -1495,7 +1776,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 400,
@@ -1512,7 +1796,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 330,
@@ -1529,7 +1816,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 70,
@@ -1546,7 +1836,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 160,
@@ -1563,7 +1856,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 162,
@@ -1580,7 +1876,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 184,
@@ -1597,7 +1896,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 186,
@@ -1614,7 +1916,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 211,
@@ -1631,7 +1936,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": true,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 118,
@@ -1648,7 +1956,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 343,
@@ -1665,7 +1976,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 192,
@@ -1682,7 +1996,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 331,
@@ -1699,7 +2016,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 178,
@@ -1716,7 +2036,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 182,
@@ -1733,7 +2056,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 295,
@@ -1750,7 +2076,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 332,
@@ -1767,7 +2096,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 250,
@@ -1784,7 +2116,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 82,
@@ -1801,7 +2136,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 377,
@@ -1818,7 +2156,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 293,
@@ -1835,7 +2176,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 220,
@@ -1852,7 +2196,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 313,
@@ -1869,7 +2216,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 422,
@@ -1886,7 +2236,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 333,
@@ -1903,7 +2256,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 401,
@@ -1920,7 +2276,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 334,
@@ -1937,7 +2296,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 194,
@@ -1954,7 +2316,21 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": [
+    {
+     "id": 336,
+     "nombre": "Draftosaurus: Marina",
+     "imagen": "336.png"
+    },
+    {
+     "id": 335,
+     "nombre": "Draftosaurus: Aerial Show",
+     "imagen": "335.png"
+    }
+   ]
   },
   {
    "id": 335,
@@ -1971,7 +2347,14 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": 194,
+   "padre": {
+    "id": 194,
+    "nombre": "Draftosaurus",
+    "imagen": "194.png"
+   },
+   "expansiones": []
   },
   {
    "id": 336,
@@ -1988,7 +2371,14 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": 194,
+   "padre": {
+    "id": 194,
+    "nombre": "Draftosaurus",
+    "imagen": "194.png"
+   },
+   "expansiones": []
   },
   {
    "id": 221,
@@ -2005,7 +2395,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 402,
@@ -2022,7 +2415,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 285,
@@ -2039,7 +2435,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 244,
@@ -2056,7 +2455,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 99,
@@ -2073,7 +2475,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 209,
@@ -2090,7 +2495,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 239,
@@ -2107,7 +2515,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 279,
@@ -2124,7 +2535,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 76,
@@ -2141,7 +2555,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 240,
@@ -2158,7 +2575,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 77,
@@ -2175,7 +2595,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 78,
@@ -2192,7 +2615,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 15,
@@ -2209,7 +2635,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 48,
@@ -2226,7 +2655,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 416,
@@ -2243,7 +2675,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 229,
@@ -2260,7 +2695,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 231,
@@ -2277,7 +2715,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 61,
@@ -2294,7 +2735,10 @@
    "en_camino": false,
    "prestado": true,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 417,
@@ -2311,7 +2755,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 339,
@@ -2328,7 +2775,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 300,
@@ -2345,7 +2795,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 21,
@@ -2362,7 +2815,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 79,
@@ -2379,7 +2835,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 306,
@@ -2396,7 +2855,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 337,
@@ -2413,7 +2875,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 105,
@@ -2430,7 +2895,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 65,
@@ -2447,7 +2915,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 64,
@@ -2464,7 +2935,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 67,
@@ -2481,7 +2955,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 59,
@@ -2498,7 +2975,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 83,
@@ -2515,7 +2995,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 58,
@@ -2532,7 +3015,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 60,
@@ -2549,7 +3035,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 116,
@@ -2566,7 +3055,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": true
+   "fuera_coleccion": true,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 112,
@@ -2583,7 +3075,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 80,
@@ -2600,7 +3095,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 122,
@@ -2617,7 +3115,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 133,
@@ -2634,7 +3135,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 57,
@@ -2651,7 +3155,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 110,
@@ -2668,7 +3175,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 66,
@@ -2685,7 +3195,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 62,
@@ -2702,7 +3215,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 86,
@@ -2719,7 +3235,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 338,
@@ -2736,7 +3255,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 63,
@@ -2753,7 +3275,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 69,
@@ -2770,7 +3295,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 73,
@@ -2787,7 +3315,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 1,
@@ -2804,7 +3335,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 47,
@@ -2821,7 +3355,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 71,
@@ -2838,7 +3375,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 55,
@@ -2855,7 +3395,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 81,
@@ -2872,7 +3415,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 56,
@@ -2889,7 +3435,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": true
+   "fuera_coleccion": true,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 233,
@@ -2906,7 +3455,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 266,
@@ -2923,7 +3475,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 171,
@@ -2940,7 +3495,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 168,
@@ -2957,7 +3515,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 249,
@@ -2974,7 +3535,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 130,
@@ -2991,7 +3555,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 340,
@@ -3008,7 +3575,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 302,
@@ -3025,7 +3595,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 134,
@@ -3042,7 +3615,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 33,
@@ -3059,7 +3635,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 142,
@@ -3076,7 +3655,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 341,
@@ -3093,7 +3675,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 52,
@@ -3110,7 +3695,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 148,
@@ -3127,7 +3715,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 128,
@@ -3144,7 +3735,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 278,
@@ -3161,7 +3755,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 51,
@@ -3178,7 +3775,16 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": [
+    {
+     "id": 379,
+     "nombre": "Galileo Galilei: Edmond Halley Promo",
+     "imagen": "379.png"
+    }
+   ]
   },
   {
    "id": 379,
@@ -3195,7 +3801,14 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": 51,
+   "padre": {
+    "id": 51,
+    "nombre": "Galileo Galilei",
+    "imagen": "51.png"
+   },
+   "expansiones": []
   },
   {
    "id": 102,
@@ -3212,7 +3825,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 215,
@@ -3229,7 +3845,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 169,
@@ -3246,7 +3865,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 301,
@@ -3263,7 +3885,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 344,
@@ -3280,7 +3905,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 121,
@@ -3297,7 +3925,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": true,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 268,
@@ -3314,7 +3945,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 241,
@@ -3331,7 +3965,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 200,
@@ -3348,7 +3985,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 123,
@@ -3365,7 +4005,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 125,
@@ -3382,7 +4025,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": true,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 3,
@@ -3399,7 +4045,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 345,
@@ -3416,7 +4065,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 127,
@@ -3433,7 +4085,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 49,
@@ -3450,7 +4105,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 72,
@@ -3467,7 +4125,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 129,
@@ -3484,7 +4145,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 346,
@@ -3501,7 +4165,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 347,
@@ -3518,7 +4185,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 348,
@@ -3535,7 +4205,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 403,
@@ -3552,7 +4225,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 404,
@@ -3569,7 +4245,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 183,
@@ -3586,7 +4265,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 203,
@@ -3603,7 +4285,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 270,
@@ -3620,7 +4305,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 314,
@@ -3637,7 +4325,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 131,
@@ -3654,7 +4345,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 308,
@@ -3671,7 +4365,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 349,
@@ -3688,7 +4385,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 254,
@@ -3705,7 +4405,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 28,
@@ -3722,7 +4425,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 311,
@@ -3739,7 +4445,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 394,
@@ -3756,7 +4465,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 405,
@@ -3773,7 +4485,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 263,
@@ -3790,7 +4505,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 26,
@@ -3807,7 +4525,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 288,
@@ -3824,7 +4545,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 198,
@@ -3841,7 +4565,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 358,
@@ -3858,7 +4585,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 45,
@@ -3875,7 +4605,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 367,
@@ -3892,7 +4625,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 286,
@@ -3909,7 +4645,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 406,
@@ -3926,7 +4665,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 350,
@@ -3943,7 +4685,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 360,
@@ -3960,7 +4705,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 351,
@@ -3977,7 +4725,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 165,
@@ -3994,7 +4745,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 164,
@@ -4011,7 +4765,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 352,
@@ -4028,7 +4785,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 258,
@@ -4045,7 +4805,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 174,
@@ -4062,7 +4825,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 139,
@@ -4079,7 +4845,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 407,
@@ -4096,7 +4865,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 243,
@@ -4113,7 +4885,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 167,
@@ -4130,7 +4905,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 25,
@@ -4147,7 +4925,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 283,
@@ -4164,7 +4945,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 208,
@@ -4181,7 +4965,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 210,
@@ -4198,7 +4985,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 143,
@@ -4215,7 +5005,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 281,
@@ -4232,7 +5025,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 267,
@@ -4249,7 +5045,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 312,
@@ -4266,7 +5065,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 222,
@@ -4283,7 +5085,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 309,
@@ -4300,7 +5105,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 228,
@@ -4317,7 +5125,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 232,
@@ -4334,7 +5145,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 234,
@@ -4351,7 +5165,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 418,
@@ -4368,7 +5185,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 43,
@@ -4385,7 +5205,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 149,
@@ -4402,7 +5225,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 32,
@@ -4419,7 +5245,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 92,
@@ -4436,7 +5265,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 252,
@@ -4453,7 +5285,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 353,
@@ -4470,7 +5305,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 316,
@@ -4487,7 +5325,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 380,
@@ -4504,7 +5345,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 153,
@@ -4521,7 +5365,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 354,
@@ -4538,7 +5385,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 93,
@@ -4555,7 +5405,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 408,
@@ -4572,7 +5425,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 155,
@@ -4589,7 +5445,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 126,
@@ -4606,7 +5465,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 108,
@@ -4623,7 +5485,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 276,
@@ -4640,7 +5505,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 94,
@@ -4657,7 +5525,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 409,
@@ -4674,7 +5545,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 355,
@@ -4691,7 +5565,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 423,
@@ -4708,7 +5585,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 265,
@@ -4725,7 +5605,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 223,
@@ -4742,7 +5625,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 274,
@@ -4759,7 +5645,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 410,
@@ -4776,7 +5665,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 195,
@@ -4793,7 +5685,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 356,
@@ -4810,7 +5705,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 227,
@@ -4827,7 +5725,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 95,
@@ -4844,7 +5745,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 23,
@@ -4861,7 +5765,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 172,
@@ -4878,7 +5785,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": true,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 132,
@@ -4895,7 +5805,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 107,
@@ -4912,7 +5825,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 235,
@@ -4929,7 +5845,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 237,
@@ -4946,7 +5865,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 206,
@@ -4963,7 +5885,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 22,
@@ -4980,7 +5905,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 96,
@@ -4997,7 +5925,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 191,
@@ -5014,7 +5945,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 109,
@@ -5031,7 +5965,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 247,
@@ -5048,7 +5985,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 245,
@@ -5065,7 +6005,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 176,
@@ -5082,7 +6025,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 230,
@@ -5099,7 +6045,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 251,
@@ -5116,7 +6065,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 253,
@@ -5133,7 +6085,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 255,
@@ -5150,7 +6105,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 299,
@@ -5167,7 +6125,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 91,
@@ -5184,7 +6145,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 257,
@@ -5201,7 +6165,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 318,
@@ -5218,7 +6185,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 38,
@@ -5235,7 +6205,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 411,
@@ -5252,7 +6225,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 138,
@@ -5269,7 +6245,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 383,
@@ -5286,7 +6265,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 412,
@@ -5303,7 +6285,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 290,
@@ -5320,7 +6305,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 34,
@@ -5337,7 +6325,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 157,
@@ -5354,7 +6345,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 90,
@@ -5371,7 +6365,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 188,
@@ -5388,7 +6385,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 427,
@@ -5405,7 +6405,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 303,
@@ -5422,7 +6425,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 189,
@@ -5439,7 +6445,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 156,
@@ -5456,7 +6465,16 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": [
+    {
+     "id": 381,
+     "nombre": "Roll to the Top!: Special Challenges Pack",
+     "imagen": "381.png"
+    }
+   ]
   },
   {
    "id": 381,
@@ -5473,7 +6491,14 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": 156,
+   "padre": {
+    "id": 156,
+    "nombre": "Roll to the Top",
+    "imagen": "156.png"
+   },
+   "expansiones": []
   },
   {
    "id": 20,
@@ -5490,7 +6515,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 291,
@@ -5507,7 +6535,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 158,
@@ -5524,7 +6555,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 219,
@@ -5541,7 +6575,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 180,
@@ -5558,7 +6595,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 236,
@@ -5575,7 +6615,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 357,
@@ -5592,7 +6635,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 199,
@@ -5609,7 +6655,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 19,
@@ -5626,7 +6675,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 18,
@@ -5643,7 +6695,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 419,
@@ -5660,7 +6715,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 420,
@@ -5677,7 +6735,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 262,
@@ -5694,7 +6755,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 31,
@@ -5711,7 +6775,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 395,
@@ -5728,7 +6795,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 30,
@@ -5745,7 +6815,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 120,
@@ -5762,7 +6835,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 428,
@@ -5779,7 +6855,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 413,
@@ -5796,7 +6875,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 113,
@@ -5813,7 +6895,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 17,
@@ -5830,7 +6915,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 421,
@@ -5847,7 +6935,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 75,
@@ -5864,7 +6955,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 115,
@@ -5881,7 +6975,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 296,
@@ -5898,7 +6995,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 29,
@@ -5915,7 +7015,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 150,
@@ -5932,7 +7035,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 307,
@@ -5949,7 +7055,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 217,
@@ -5966,7 +7075,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 294,
@@ -5983,7 +7095,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 362,
@@ -6000,7 +7115,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 39,
@@ -6017,7 +7135,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 193,
@@ -6034,7 +7155,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 363,
@@ -6051,7 +7175,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 205,
@@ -6068,7 +7195,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 365,
@@ -6085,7 +7215,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 364,
@@ -6102,7 +7235,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 196,
@@ -6119,7 +7255,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 242,
@@ -6136,7 +7275,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 366,
@@ -6153,7 +7295,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 16,
@@ -6170,7 +7315,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 74,
@@ -6187,7 +7335,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 173,
@@ -6204,7 +7355,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 181,
@@ -6221,7 +7375,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 50,
@@ -6238,7 +7395,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 11,
@@ -6255,7 +7415,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 320,
@@ -6272,7 +7435,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 37,
@@ -6289,7 +7455,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 68,
@@ -6306,7 +7475,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 35,
@@ -6323,7 +7495,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 256,
@@ -6340,7 +7515,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 260,
@@ -6357,7 +7535,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 145,
@@ -6374,7 +7555,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 216,
@@ -6391,7 +7575,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 213,
@@ -6408,7 +7595,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 282,
@@ -6425,7 +7615,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 204,
@@ -6442,7 +7635,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 284,
@@ -6459,7 +7655,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 202,
@@ -6476,7 +7675,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 361,
@@ -6493,7 +7695,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 163,
@@ -6510,7 +7715,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 424,
@@ -6527,7 +7735,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 287,
@@ -6544,7 +7755,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 368,
@@ -6561,7 +7775,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 425,
@@ -6578,7 +7795,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 161,
@@ -6595,7 +7815,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 54,
@@ -6612,7 +7835,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 4,
@@ -6629,7 +7855,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 319,
@@ -6646,7 +7875,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 5,
@@ -6663,7 +7895,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 207,
@@ -6680,7 +7915,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 8,
@@ -6697,7 +7935,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 248,
@@ -6714,7 +7955,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 41,
@@ -6731,7 +7975,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 261,
@@ -6748,7 +7995,16 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": [
+    {
+     "id": 272,
+     "nombre": "Ubongo mini",
+     "imagen": "272.png"
+    }
+   ]
   },
   {
    "id": 272,
@@ -6765,7 +8021,14 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": 261,
+   "padre": {
+    "id": 261,
+    "nombre": "Ubongo",
+    "imagen": "261.png"
+   },
+   "expansiones": []
   },
   {
    "id": 7,
@@ -6782,7 +8045,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 315,
@@ -6799,7 +8065,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 289,
@@ -6816,7 +8085,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 292,
@@ -6833,7 +8105,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 117,
@@ -6850,7 +8125,10 @@
    "en_camino": false,
    "prestado": true,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 119,
@@ -6867,7 +8145,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 371,
@@ -6884,7 +8165,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 370,
@@ -6901,7 +8185,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 373,
@@ -6918,7 +8205,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 372,
@@ -6935,7 +8225,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 106,
@@ -6952,7 +8245,10 @@
    "en_camino": false,
    "prestado": true,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 154,
@@ -6969,7 +8265,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 396,
@@ -6986,7 +8285,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 146,
@@ -7003,7 +8305,10 @@
    "en_camino": false,
    "prestado": true,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 297,
@@ -7020,7 +8325,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 87,
@@ -7037,7 +8345,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 271,
@@ -7054,7 +8365,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 374,
@@ -7071,7 +8385,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 382,
@@ -7088,7 +8405,14 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": 246,
+   "padre": {
+    "id": 246,
+    "nombre": "¡Virus!",
+    "imagen": "246.png"
+   },
+   "expansiones": []
   },
   {
    "id": 273,
@@ -7105,7 +8429,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 136,
@@ -7122,7 +8449,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 85,
@@ -7139,7 +8469,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 42,
@@ -7156,7 +8489,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 6,
@@ -7173,7 +8509,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 214,
@@ -7190,7 +8529,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 376,
@@ -7207,7 +8549,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 259,
@@ -7224,7 +8569,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   },
   {
    "id": 246,
@@ -7241,7 +8589,16 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": [
+    {
+     "id": 382,
+     "nombre": "Virus! Halloween",
+     "imagen": "382.png"
+    }
+   ]
   },
   {
    "id": 190,
@@ -7258,7 +8615,10 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
   }
  ],
  "categorias": [

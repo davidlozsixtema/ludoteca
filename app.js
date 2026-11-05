@@ -94,12 +94,34 @@ function construir() {
     ].filter(Boolean).join(' · ');
     const ubi = ubicacionDe[j.id]
       ? `<div class="ubi">📍 ${ubicacionDe[j.id]}</div>` : '';
+    // expansiones: la expansion muestra el thumb de su juego base;
+    // el juego base muestra los thumbs de sus expansiones (max 3 + "+N")
+    const miniExp = (m, titulo) =>
+      `<img class="th" loading="lazy" alt="" data-nom="${m.nombre.replace(/"/g, '&quot;')}"
+          title="${titulo}: ${m.nombre.replace(/"/g, '&quot;')}"
+          src="${urlImagen(m.imagen)}" onerror="this.remove()">`;
+    let exp = '';
+    if (j.padre)
+      exp = `<div class="exp" title="Expansion">${miniExp(j.padre, 'Expansion de')}</div>`;
+    else if (j.expansiones && j.expansiones.length) {
+      const extra = j.expansiones.length - 3;
+      exp = `<div class="exp" title="Expansiones: ${j.expansiones.map(e => e.nombre).join(', ')}">` +
+        j.expansiones.slice(0, 3).map(e => miniExp(e, 'Expansion')).join('') +
+        (extra > 0 ? `<span class="mas">+${extra}</span>` : '') + '</div>';
+    }
     d.innerHTML =
-      `${badge}<img loading="lazy" alt="" src="${urlImagen(j.imagen)}"
+      `${badge}${exp}<img loading="lazy" alt="" src="${urlImagen(j.imagen)}"
           onerror="this.onerror=null;this.src='${PLACEHOLDER}'">
        <div class="cuerpo"><h3>${j.nombre}</h3>
         <div class="chips">${chips}</div>
         <div class="meta">${meta}</div>${ubi}</div>`;
+    // tap en un thumb -> filtra por ese juego (en movil no hay hover)
+    d.querySelectorAll('.exp img.th').forEach(im =>
+      im.onclick = ev => {
+        ev.stopPropagation();
+        sel('f-buscar').value = im.dataset.nom;
+        pagina = 0; aleatorio = null; pintar();
+      });
     rejilla.appendChild(d);
     return d;
   });
