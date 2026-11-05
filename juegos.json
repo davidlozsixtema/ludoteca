@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05T12:55:25+00:00",
+ "generado": "2026-11-05T15:48:07+00:00",
  "juegos": [
   {
    "id": 175,
@@ -1168,7 +1168,7 @@
    "deseado": false,
    "en_camino": false,
    "prestado": false,
-   "otra_ludoteca": false,
+   "otra_ludoteca": true,
    "fuera_coleccion": false
   },
   {
@@ -2213,7 +2213,7 @@
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
-   "fuera_coleccion": false
+   "fuera_coleccion": true
   },
   {
    "id": 233,
@@ -6892,19 +6892,124 @@
    "id": 11,
    "nombre_ubicacion": "Pasillo",
    "numero_balda": 2,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 318,
+     "bgg_id": 41302,
+     "nombre": "Primer Frutal",
+     "imagen": "41302.png"
+    },
+    {
+     "id": 301,
+     "bgg_id": 170969,
+     "nombre": "Gigamon",
+     "imagen": "170969.png"
+    },
+    {
+     "id": 307,
+     "bgg_id": 365534,
+     "nombre": "Spy Guy: El Pequeño Detective",
+     "imagen": "365534.png"
+    }
+   ]
   },
   {
    "id": 12,
    "nombre_ubicacion": "Pasillo",
    "numero_balda": 3,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 304,
+     "bgg_id": 203788,
+     "nombre": "Candy Time",
+     "imagen": "203788.png"
+    },
+    {
+     "id": 279,
+     "bgg_id": 41916,
+     "nombre": "El Laberinto Mágico",
+     "imagen": "41916.png"
+    },
+    {
+     "id": 299,
+     "bgg_id": 310695,
+     "nombre": "Pozimus",
+     "imagen": "310695.png"
+    },
+    {
+     "id": 311,
+     "bgg_id": 12346,
+     "nombre": "La Escalera Encantada",
+     "imagen": "12346.png"
+    },
+    {
+     "id": 310,
+     "bgg_id": 17329,
+     "nombre": "Animal sobre Animal",
+     "imagen": "17329.png"
+    },
+    {
+     "id": 286,
+     "bgg_id": 191538,
+     "nombre": "Leo va al Barbero",
+     "imagen": "191538.png"
+    },
+    {
+     "id": 315,
+     "bgg_id": 159566,
+     "nombre": "Unicornio Destello",
+     "imagen": "159566.png"
+    },
+    {
+     "id": 308,
+     "bgg_id": 234439,
+     "nombre": "Karuba Junior",
+     "imagen": "234439.png"
+    },
+    {
+     "id": 290,
+     "bgg_id": 430083,
+     "nombre": "Raptor Race",
+     "imagen": "430083.png"
+    }
+   ]
   },
   {
    "id": 13,
    "nombre_ubicacion": "Pasillo",
    "numero_balda": 4,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 296,
+     "bgg_id": 257967,
+     "nombre": "Speed Cups 6",
+     "imagen": "257967.png"
+    },
+    {
+     "id": 274,
+     "bgg_id": 409481,
+     "nombre": "Operación Granja",
+     "imagen": "409481.png"
+    },
+    {
+     "id": 215,
+     "bgg_id": 2379,
+     "nombre": "Gestos",
+     "imagen": "2379.png"
+    },
+    {
+     "id": 233,
+     "bgg_id": 436219,
+     "nombre": "Experimento 626",
+     "imagen": "436219.png"
+    },
+    {
+     "id": 267,
+     "bgg_id": 358690,
+     "nombre": "Mantis",
+     "imagen": "358690.png"
+    }
+   ]
   },
   {
    "id": 14,
@@ -6916,7 +7021,32 @@
    "id": 15,
    "nombre_ubicacion": "Pasillo",
    "numero_balda": 6,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 54,
+     "bgg_id": 15431,
+     "nombre": "Trivial Mapa Mundo",
+     "imagen": "15431.png"
+    },
+    {
+     "id": 4,
+     "bgg_id": 1299,
+     "nombre": "Trivial Pursuit",
+     "imagen": "1299.png"
+    },
+    {
+     "id": 5,
+     "bgg_id": 94941,
+     "nombre": "Trivial Pursuit: Genus Edición II",
+     "imagen": "94941.png"
+    },
+    {
+     "id": 319,
+     "bgg_id": 74098,
+     "nombre": "Trivial Pursuit: Años 90",
+     "imagen": "74098.png"
+    }
+   ]
   },
   {
    "id": 16,
@@ -6934,7 +7064,26 @@
    "id": 18,
    "nombre_ubicacion": "Hueco pared",
    "numero_balda": 2,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 289,
+     "bgg_id": 327056,
+     "nombre": "Unlock! Kids: Detective Stories",
+     "imagen": "327056.png"
+    },
+    {
+     "id": 292,
+     "bgg_id": 373835,
+     "nombre": "Unlock! Kids: Stories from the Past",
+     "imagen": "373835.png"
+    },
+    {
+     "id": 182,
+     "bgg_id": 342736,
+     "nombre": "Detecteam Family: Un Robo Delicioso",
+     "imagen": "342736.png"
+    }
+   ]
   },
   {
    "id": 19,
@@ -6942,10 +7091,148 @@
    "numero_balda": 3,
    "juegos": [
     {
+     "id": 86,
+     "bgg_id": 269968,
+     "nombre": "EXIT: La Feria Terrorífica",
+     "imagen": "269968.png"
+    },
+    {
+     "id": 73,
+     "bgg_id": 203416,
+     "nombre": "EXIT: La Tumba del Faraón",
+     "imagen": "203416.png"
+    },
+    {
+     "id": 47,
+     "bgg_id": 226522,
+     "nombre": "EXIT: Muerte en el Orient Express",
+     "imagen": "226522.png"
+    },
+    {
+     "id": 55,
+     "bgg_id": 283934,
+     "nombre": "EXIT: Robo en el Misisipi",
+     "imagen": "283934.png"
+    },
+    {
+     "id": 105,
+     "bgg_id": 394735,
+     "nombre": "EXIT: Calendario de Adviento – La estrella desaparecida",
+     "imagen": "394735.png"
+    },
+    {
+     "id": 64,
+     "bgg_id": 215840,
+     "nombre": "EXIT: El Castillo Prohibido",
+     "imagen": "215840.png"
+    },
+    {
+     "id": 67,
+     "bgg_id": 295945,
+     "nombre": "EXIT: El Cementerio de las Tinieblas",
+     "imagen": "295945.png"
+    },
+    {
+     "id": 60,
+     "bgg_id": 356313,
+     "nombre": "EXIT: El Legado del Profesor",
+     "imagen": "356313.png"
+    },
+    {
+     "id": 112,
+     "bgg_id": 341573,
+     "nombre": "EXIT: El Señor de los Anillos – Sombras sobre la Tierra Media",
+     "imagen": "341573.png"
+    },
+    {
+     "id": 122,
+     "bgg_id": 226518,
+     "nombre": "EXIT: El tesoro hudido",
+     "imagen": "226518.png"
+    },
+    {
+     "id": 133,
+     "bgg_id": 376477,
+     "nombre": "EXIT: La Academia de las Artes Mágicas",
+     "imagen": "376477.png"
+    },
+    {
+     "id": 57,
+     "bgg_id": 203420,
+     "nombre": "EXIT: La Cabaña Abandonada",
+     "imagen": "203420.png"
+    },
+    {
+     "id": 66,
+     "bgg_id": 366318,
+     "nombre": "EXIT: La Desaparición de Sherlock Holmes",
+     "imagen": "366318.png"
+    },
+    {
+     "id": 62,
+     "bgg_id": 215842,
+     "nombre": "EXIT: La Estación Polar",
+     "imagen": "215842.png"
+    },
+    {
+     "id": 81,
+     "bgg_id": 324853,
+     "nombre": "EXIT: Secuestro en Fortune City",
+     "imagen": "324853.png"
+    },
+    {
+     "id": 119,
+     "bgg_id": 368037,
+     "nombre": "Unlock! Miniaventuras: El Despertar de la Momia",
+     "imagen": "368037.png"
+    },
+    {
+     "id": 69,
+     "bgg_id": 226520,
+     "nombre": "EXIT: La Mansión Siniestra",
+     "imagen": "226520.png"
+    },
+    {
+     "id": 110,
+     "bgg_id": 226519,
+     "nombre": "EXIT: La Casa de los Enigmas",
+     "imagen": "226519.png"
+    },
+    {
      "id": 306,
      "bgg_id": 366316,
      "nombre": "EXIT Kids: Acertijos en la Jungla",
      "imagen": "366316.png"
+    },
+    {
+     "id": 65,
+     "bgg_id": 295944,
+     "nombre": "EXIT: El Bosque Encantado",
+     "imagen": "295944.png"
+    },
+    {
+     "id": 58,
+     "bgg_id": 203417,
+     "nombre": "EXIT: El Laboratorio Secreto",
+     "imagen": "203417.png"
+    },
+    {
+     "id": 63,
+     "bgg_id": 215841,
+     "nombre": "EXIT: La Isla Olvidada",
+     "imagen": "215841.png"
+    },
+    {
+     "id": 1,
+     "bgg_id": 255675,
+     "nombre": "EXIT: Las Catacumbas del Terror",
+     "imagen": "255675.png"
+    },
+    {
+     "id": 71,
+     "bgg_id": 341583,
+     "nombre": "EXIT: Regreso a la Cabaña Abandonada",
+     "imagen": "341583.png"
     }
    ]
   },
@@ -6953,19 +7240,160 @@
    "id": 20,
    "nombre_ubicacion": "Hueco pared",
    "numero_balda": 4,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 78,
+     "bgg_id": 68425,
+     "nombre": "Eminent Domain: Microcosm",
+     "imagen": "68425.png"
+    },
+    {
+     "id": 90,
+     "bgg_id": 307002,
+     "nombre": "Regicide",
+     "imagen": "307002.png"
+    },
+    {
+     "id": 178,
+     "bgg_id": 397227,
+     "nombre": "Deductio",
+     "imagen": "397227.png"
+    },
+    {
+     "id": 174,
+     "bgg_id": 172235,
+     "nombre": "Los Gatos de Schrödinger",
+     "imagen": "172235.png"
+    },
+    {
+     "id": 214,
+     "bgg_id": 394127,
+     "nombre": "Yokai Pagoda",
+     "imagen": "394127.png"
+    },
+    {
+     "id": 2,
+     "bgg_id": 267814,
+     "nombre": "Adventure Games: Monocromo S.A.",
+     "imagen": "267814.png"
+    },
+    {
+     "id": 248,
+     "bgg_id": 217475,
+     "nombre": "Twenty One",
+     "imagen": "217475.png"
+    },
+    {
+     "id": 40,
+     "bgg_id": 96345,
+     "nombre": "Black Stories: 50 Misterios Reales - Muertes Ridículas",
+     "imagen": "96345.png"
+    },
+    {
+     "id": 141,
+     "bgg_id": 233961,
+     "nombre": "Claim",
+     "imagen": "233961.png"
+    },
+    {
+     "id": 114,
+     "bgg_id": 249763,
+     "nombre": "Claim 2",
+     "imagen": "249763.png"
+    }
+   ]
   },
   {
    "id": 21,
    "nombre_ubicacion": "Hueco pared",
    "numero_balda": 5,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 269,
+     "bgg_id": 400205,
+     "nombre": "5 Torres",
+     "imagen": "400205.png"
+    },
+    {
+     "id": 278,
+     "bgg_id": 285885,
+     "nombre": "Fórmula",
+     "imagen": "285885.png"
+    },
+    {
+     "id": 165,
+     "bgg_id": 278824,
+     "nombre": "Lock & Roll",
+     "imagen": "278824.png"
+    },
+    {
+     "id": 210,
+     "bgg_id": 287228,
+     "nombre": "Mal Trago",
+     "imagen": "287228.png"
+    },
+    {
+     "id": 312,
+     "bgg_id": 224986,
+     "nombre": "Mascotas",
+     "imagen": "224986.png"
+    },
+    {
+     "id": 92,
+     "bgg_id": 246761,
+     "nombre": "Misión Cumplida",
+     "imagen": "246761.png"
+    },
+    {
+     "id": 206,
+     "bgg_id": 323236,
+     "nombre": "Penalties: Animal Cup",
+     "imagen": "323236.png"
+    },
+    {
+     "id": 305,
+     "bgg_id": 174988,
+     "nombre": "4 en Letras",
+     "imagen": "174988.png"
+    },
+    {
+     "id": 259,
+     "bgg_id": 12942,
+     "nombre": "¡No Gracias!",
+     "imagen": "12942.png"
+    },
+    {
+     "id": 246,
+     "bgg_id": 180020,
+     "nombre": "¡Virus!",
+     "imagen": "180020.png"
+    },
+    {
+     "id": 226,
+     "bgg_id": 147768,
+     "nombre": "5 Pepinos",
+     "imagen": "147768.png"
+    },
+    {
+     "id": 213,
+     "bgg_id": 63706,
+     "nombre": "Toma 11!",
+     "imagen": "63706.png"
+    }
+   ]
   },
   {
    "id": 22,
    "nombre_ubicacion": "Hueco pared",
    "numero_balda": 6,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 154,
+     "bgg_id": 350636,
+     "nombre": "Unlock!: Game Adventures",
+     "imagen": "350636.png"
+    }
+   ]
   },
   {
    "id": 23,
@@ -6979,10 +7407,64 @@
      "imagen": "369880.png"
     },
     {
+     "id": 198,
+     "bgg_id": 242742,
+     "nombre": "Las Llaves del Castillo",
+     "imagen": "242742.png"
+    },
+    {
      "id": 264,
      "bgg_id": 822,
      "nombre": "Carcassonne",
      "imagen": "822.png"
+    },
+    {
+     "id": 12,
+     "bgg_id": 351538,
+     "nombre": "Bamboo",
+     "imagen": "351538.png"
+    },
+    {
+     "id": 160,
+     "bgg_id": 343899,
+     "nombre": "Coral",
+     "imagen": "343899.png"
+    },
+    {
+     "id": 127,
+     "bgg_id": 386436,
+     "nombre": "House of Cats",
+     "imagen": "386436.png"
+    },
+    {
+     "id": 88,
+     "bgg_id": 295948,
+     "nombre": "Aqualin",
+     "imagen": "295948.png"
+    },
+    {
+     "id": 137,
+     "bgg_id": 290236,
+     "nombre": "Canvas",
+     "imagen": "290236.png"
+    },
+    {
+     "id": 41,
+     "bgg_id": 121041,
+     "nombre": "Twins",
+     "imagen": "121041.png"
+    },
+    {
+     "id": 265,
+     "bgg_id": 251412,
+     "nombre": "On Tour",
+     "imagen": "251412.png"
+    },
+    {
+     "id": 118,
+     "bgg_id": 202977,
+     "nombre": "Cytosis",
+     "imagen": "202977.png"
     },
     {
      "id": 24,
@@ -6996,7 +7478,32 @@
    "id": 24,
    "nombre_ubicacion": "Armario blanco",
    "numero_balda": 2,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 258,
+     "bgg_id": 256509,
+     "nombre": "Los 100 Torii",
+     "imagen": "256509.png"
+    },
+    {
+     "id": 227,
+     "bgg_id": 274349,
+     "nombre": "Pakal",
+     "imagen": "274349.png"
+    },
+    {
+     "id": 96,
+     "bgg_id": 257582,
+     "nombre": "Periodic: El Juego de los Elementos",
+     "imagen": "257582.png"
+    },
+    {
+     "id": 16,
+     "bgg_id": 306481,
+     "nombre": "Tawantinsuyu",
+     "imagen": "306481.png"
+    }
+   ]
   },
   {
    "id": 25,
@@ -7004,10 +7511,154 @@
    "numero_balda": 3,
    "juegos": [
     {
+     "id": 104,
+     "bgg_id": 288424,
+     "nombre": "BananAzul",
+     "imagen": "288424.png"
+    },
+    {
+     "id": 144,
+     "bgg_id": 227466,
+     "nombre": "Break the Code",
+     "imagen": "227466.png"
+    },
+    {
      "id": 235,
      "bgg_id": 163412,
      "nombre": "Patchwork",
      "imagen": "163412.png"
+    },
+    {
+     "id": 309,
+     "bgg_id": 355927,
+     "nombre": "Medio Monstruo",
+     "imagen": "355927.png"
+    },
+    {
+     "id": 303,
+     "bgg_id": 91514,
+     "nombre": "Rhino Hero",
+     "imagen": "91514.png"
+    },
+    {
+     "id": 205,
+     "bgg_id": 253664,
+     "nombre": "Taco Gato Cabra Queso Pizza",
+     "imagen": "253664.png"
+    },
+    {
+     "id": 287,
+     "bgg_id": 335994,
+     "nombre": "Trending Kittens",
+     "imagen": "335994.png"
+    },
+    {
+     "id": 298,
+     "bgg_id": 322677,
+     "nombre": "Bom Bar Dum!",
+     "imagen": "322677.png"
+    },
+    {
+     "id": 316,
+     "bgg_id": 213421,
+     "nombre": "Monster Kit",
+     "imagen": "213421.png"
+    },
+    {
+     "id": 87,
+     "bgg_id": 261614,
+     "nombre": "Unánimo Party",
+     "imagen": "261614.png"
+    },
+    {
+     "id": 230,
+     "bgg_id": 15818,
+     "nombre": "Piko Piko el Gusanito",
+     "imagen": "15818.png"
+    },
+    {
+     "id": 254,
+     "bgg_id": 204583,
+     "nombre": "Kingdomino",
+     "imagen": "204583.png"
+    },
+    {
+     "id": 291,
+     "bgg_id": 20545,
+     "nombre": "Rory's Story Cubes: Classic",
+     "imagen": "20545.png"
+    },
+    {
+     "id": 159,
+     "bgg_id": 368109,
+     "nombre": "Armadillo",
+     "imagen": "368109.png"
+    },
+    {
+     "id": 197,
+     "bgg_id": 5782,
+     "nombre": "Coloretto",
+     "imagen": "5782.png"
+    },
+    {
+     "id": 145,
+     "bgg_id": 17027,
+     "nombre": "Tiro al Pato",
+     "imagen": "17027.png"
+    },
+    {
+     "id": 195,
+     "bgg_id": 244522,
+     "nombre": "Optimus",
+     "imagen": "244522.png"
+    },
+    {
+     "id": 263,
+     "bgg_id": 326908,
+     "nombre": "La Morada Maldita",
+     "imagen": "326908.png"
+    },
+    {
+     "id": 251,
+     "bgg_id": 206931,
+     "nombre": "Plenus",
+     "imagen": "206931.png"
+    },
+    {
+     "id": 273,
+     "bgg_id": 300936,
+     "nombre": "Vía Mágica",
+     "imagen": "300936.png"
+    },
+    {
+     "id": 103,
+     "bgg_id": 302260,
+     "nombre": "Alcachofas ¡No, gracias!",
+     "imagen": "302260.png"
+    },
+    {
+     "id": 212,
+     "bgg_id": 42206,
+     "nombre": "Alto Voltaje",
+     "imagen": "42206.png"
+    },
+    {
+     "id": 237,
+     "bgg_id": 339214,
+     "nombre": "Pelusas",
+     "imagen": "339214.png"
+    },
+    {
+     "id": 317,
+     "bgg_id": 91512,
+     "nombre": "Bellaflor",
+     "imagen": "91512.png"
+    },
+    {
+     "id": 302,
+     "bgg_id": 252990,
+     "nombre": "Fiesta de Regalos",
+     "imagen": "252990.png"
     }
    ]
   },
@@ -7015,7 +7666,68 @@
    "id": 26,
    "nombre_ubicacion": "Armario blanco",
    "numero_balda": 4,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 18,
+     "bgg_id": 387565,
+     "nombre": "Secret Number",
+     "imagen": "387565.png"
+    },
+    {
+     "id": 253,
+     "bgg_id": 247730,
+     "nombre": "POC!",
+     "imagen": "247730.png"
+    },
+    {
+     "id": 240,
+     "bgg_id": 235922,
+     "nombre": "El Rey de los Dados",
+     "imagen": "235922.png"
+    },
+    {
+     "id": 314,
+     "bgg_id": 274651,
+     "nombre": "Jungle Speed Kids",
+     "imagen": "274651.png"
+    },
+    {
+     "id": 297,
+     "bgg_id": 2223,
+     "nombre": "UNO",
+     "imagen": "2223.png"
+    },
+    {
+     "id": 294,
+     "bgg_id": 220778,
+     "nombre": "Sticky Chameleons",
+     "imagen": "220778.png"
+    },
+    {
+     "id": 280,
+     "bgg_id": 242546,
+     "nombre": "Bichos",
+     "imagen": "242546.png"
+    },
+    {
+     "id": 313,
+     "bgg_id": 117995,
+     "nombre": "Dobble Kids",
+     "imagen": "117995.png"
+    },
+    {
+     "id": 192,
+     "bgg_id": 131493,
+     "nombre": "Código Secreto 13+4",
+     "imagen": "131493.png"
+    },
+    {
+     "id": 220,
+     "bgg_id": 381429,
+     "nombre": "Dobble Connect",
+     "imagen": "381429.png"
+    }
+   ]
   },
   {
    "id": 27,
