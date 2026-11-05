@@ -12,9 +12,9 @@ let datos = null;          // juegos.json entero
 let cards = [];            // elementos .juego ya creados
 let ubicacionDe = {};      // juego_id -> "Nombre · Balda N"
 let pagina = 0, aleatorio = null;
-// coleccion real = fuera deseados, en camino y juegos de otra ludoteca
+// coleccion real = fuera deseados, en camino, otra ludoteca y fuera de coleccion
 const coleccion = () =>
-  datos.juegos.filter(j => !(j.deseado || j.en_camino || j.otra_ludoteca));
+  datos.juegos.filter(j => !(j.deseado || j.en_camino || j.otra_ludoteca || j.fuera_coleccion));
 
 /* ==================== descarga de datos ==================== */
 
@@ -74,12 +74,15 @@ function construir() {
       jug: j.jugadores || '', edad: j.edad || '', dur: j.duracion || '',
       pub: j.publicacion || '', des: j.deseado ? '1' : '', cam: j.en_camino ? '1' : '',
       pre: j.prestado ? '1' : '', otr: j.otra_ludoteca ? '1' : '',
+      fue: j.fuera_coleccion ? '1' : '', img: j.imagen || '',
+      ubi: ubicacionDe[j.id] ? '1' : '',
     });
     // estados disjuntos: un solo icono arriba a la izquierda
     const badge =
       j.deseado ? '<span class="badge" title="Lista de deseos">❤️</span>' :
       j.en_camino ? '<span class="badge" title="En camino">🚚</span>' :
       j.otra_ludoteca ? '<span class="badge" title="De otra ludoteca">📤</span>' :
+      j.fuera_coleccion ? '<span class="badge" title="Fuera de la coleccion">📦</span>' :
       j.prestado ? '<span class="badge" title="Prestado">🤝</span>' : '';
     const chips = [CAT[j.categoria_id], MEC[j.mecanica_id], TEM[j.tematica_id]]
       .filter(Boolean).map(v => `<span class="chip">${v}</span>`).join('');
@@ -107,9 +110,17 @@ function construir() {
 function pasa(c) {
   const t = sel('f-buscar').value.toLowerCase();
   if (t && !c.dataset.nombre.includes(t)) return false;
-  if (sel('f-cat').value && c.dataset.cat !== sel('f-cat').value) return false;
-  if (sel('f-mec').value && c.dataset.mec !== sel('f-mec').value) return false;
-  if (sel('f-tem').value && c.dataset.tem !== sel('f-tem').value) return false;
+  const fc = sel('f-cat').value;
+  if (fc && (fc === 'sin' ? c.dataset.cat !== '' : c.dataset.cat !== fc)) return false;
+  const fm = sel('f-mec').value;
+  if (fm && (fm === 'sin' ? c.dataset.mec !== '' : c.dataset.mec !== fm)) return false;
+  const ft = sel('f-tem').value;
+  if (ft && (ft === 'sin' ? c.dataset.tem !== '' : c.dataset.tem !== ft)) return false;
+  if (sel('f-foto').checked && c.dataset.img) return false;
+  // sin ubicar = juego fisico propio sin balda (fuera prestado/deseado/etc.)
+  if (sel('f-ubi').checked &&
+      (c.dataset.ubi || c.dataset.des || c.dataset.cam || c.dataset.otr ||
+       c.dataset.pre || c.dataset.fue)) return false;
   const n = parseInt(sel('f-jug').value);
   if (!isNaN(n)) {
     const r = rangoTxt(c.dataset.jug);
@@ -122,11 +133,12 @@ function pasa(c) {
   }
   if (sel('f-edad').value && c.dataset.edad !== sel('f-edad').value) return false;
   const w = sel('f-col').value;
-  if (w === 'propietario' && (c.dataset.des || c.dataset.cam || c.dataset.otr || c.dataset.pre)) return false;
+  if (w === 'propietario' && (c.dataset.des || c.dataset.cam || c.dataset.otr || c.dataset.pre || c.dataset.fue)) return false;
   if (w === 'otra' && c.dataset.otr !== '1') return false;
   if (w === 'camino' && c.dataset.cam !== '1') return false;
   if (w === 'deseado' && c.dataset.des !== '1') return false;
   if (w === 'prestado' && c.dataset.pre !== '1') return false;
+  if (w === 'fuera' && c.dataset.fue !== '1') return false;
   return true;
 }
 
@@ -151,12 +163,16 @@ function ordenar() {
 const FILTROS = ['f-buscar','f-cat','f-jug','f-dur','f-edad','f-mec','f-tem','f-col','f-orden'];
 function guardarFiltros() {
   FILTROS.forEach(id => sessionStorage.setItem('flt.' + id, sel(id).value));
+  sessionStorage.setItem('flt.f-foto', sel('f-foto').checked ? '1' : '');
+  sessionStorage.setItem('flt.f-ubi', sel('f-ubi').checked ? '1' : '');
 }
 function restaurarFiltros() {
   FILTROS.forEach(id => {
     const v = sessionStorage.getItem('flt.' + id);
     if (v != null) sel(id).value = v;
   });
+  sel('f-foto').checked = sessionStorage.getItem('flt.f-foto') === '1';
+  sel('f-ubi').checked = sessionStorage.getItem('flt.f-ubi') === '1';
 }
 
 const porPagina = () =>
@@ -167,7 +183,8 @@ function pintar() {
   const vis = cards.filter(pasa);
   sel('cuenta').textContent = vis.length === cards.length
     ? '' : `· ${vis.length} coinciden con los filtros`;
-  const set = aleatorio ? vis.filter(c => aleatorio.has(c)) : vis;
+  let set = aleatorio ? vis.filter(c => aleatorio.has(c)) : vis;
+  if (aleatorio && !set.length) { aleatorio = null; set = vis; }   // sorteo vacio -> vista normal
   const por = porPagina();
   const paginas = Math.max(1, Math.ceil(set.length / por));
   pagina = Math.min(pagina, paginas - 1);
@@ -227,7 +244,7 @@ function pintarMapa() {
         '</div></div>').join('');
     div.appendChild(card);
   });
-  const sin = coleccion().filter(j => !ubicacionDe[j.id]).length;
+  const sin = coleccion().filter(j => !ubicacionDe[j.id] && !j.prestado).length;
   sel('sin-ubicar').textContent =
     sin ? `🧺 ${sin} juegos sin ubicar.` : '';
 }
@@ -326,6 +343,8 @@ sel('b-ale').onclick = () => {
 };
 sel('b-limpiar').onclick = () => {
   FILTROS.forEach(id => sel(id).value = '');
+  sel('f-foto').checked = false;
+  sel('f-ubi').checked = false;
   ordenar(); pagina = 0; aleatorio = null; pintar();
 };
 sel('b-sync').onclick = async () => {
@@ -345,6 +364,8 @@ FILTROS.forEach(id => {
   else
     sel(id).addEventListener('input', () => { pagina = 0; aleatorio = null; pintar(); });
 });
+sel('f-foto').addEventListener('input', () => { pagina = 0; aleatorio = null; pintar(); });
+sel('f-ubi').addEventListener('input', () => { pagina = 0; aleatorio = null; pintar(); });
 
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {
   navigator.serviceWorker.register('sw.js').catch(() => {});

@@ -28,12 +28,15 @@
         <input id="f-buscar" type="search" placeholder="🔍 Buscar juegos...">
         <select id="f-cat" title="Publico objetivo / estilo del juego">
           <option value="">Categoria</option>
+          <option value="sin">— Sin asignar —</option>
         </select>
         <select id="f-mec" title="Mecanica: como se juega">
           <option value="">Mecanica</option>
+          <option value="sin">— Sin asignar —</option>
         </select>
         <select id="f-tem" title="Tematica: ambientacion del juego">
           <option value="">Tematica</option>
+          <option value="sin">— Sin asignar —</option>
         </select>
         <input id="f-jug" type="number" min="1" max="99" placeholder="Jugadores"
                title="Numero de jugadores (casa con el rango del juego)">
@@ -49,6 +52,7 @@
           <option value="camino">En camino</option>
           <option value="deseado">Deseado</option>
           <option value="prestado">Prestado</option>
+          <option value="fuera">Fuera de coleccion</option>
         </select>
         <select id="f-orden" title="Ordenar">
           <option value="">Orden: aleatorio</option>
@@ -59,6 +63,8 @@
           <option value="dur-asc">Duracion: cortos</option>
           <option value="dur-desc">Duracion: largos</option>
         </select>
+        <label class="check" title="Solo juegos sin caratula"><input type="checkbox" id="f-foto"> Sin foto</label>
+        <label class="check" title="Solo juegos de la coleccion sin balda asignada"><input type="checkbox" id="f-ubi"> Sin ubicar</label>
         <button class="btn sec" id="b-ale" title="3 juegos al azar">🎲 3 al azar</button>
         <button class="btn sec" id="b-limpiar" type="button" title="Quitar todos los filtros">✖ Limpiar</button>
       </div>

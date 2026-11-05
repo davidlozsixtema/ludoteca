@@ -1,6 +1,6 @@
 // Service worker: app shell cache-first, juegos.json network-first.
 // Sin Drive: todo se sirve desde el propio origen (GitHub Pages).
-const CACHE = 'ludoteca-v11';
+const CACHE = 'ludoteca-v14';
 const SHELL = [
   '.', 'index.html', 'estilos.css', 'app.js',
   'manifest.webmanifest', 'icono.svg',
