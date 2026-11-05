@@ -244,6 +244,14 @@ function pintar() {
 function pintarMapa() {
   const div = sel('mapa');
   div.innerHTML = '';
+  // familias: padre y expansiones van juntos en la misma balda
+  const porId = {};
+  datos.juegos.forEach(j => porId[j.id] = j);
+  const raiz = j => j.expansion_de ? (porId[j.expansion_de]?.nombre || j.nombre) : j.nombre;
+  const porFamilia = (a, b) =>
+    raiz(a).localeCompare(raiz(b), 'es') ||
+    (!!a.expansion_de) - (!!b.expansion_de) ||          // padre primero
+    a.nombre.localeCompare(b.nombre, 'es');
   // agrupa por nombre de ubicacion: cada una puede tener varias baldas
   const grupos = {};
   datos.ubicaciones.forEach(u => {
@@ -259,7 +267,7 @@ function pintarMapa() {
        <div class="hueco">${total} juegos</div>` +
       filas.map(u =>
         `<div class="balda"><b>Balda ${u.numero_balda} · ${u.juegos.length}</b><div class="juegos">` +
-        u.juegos.map(j =>
+        u.juegos.slice().sort(porFamilia).map(j =>
           `<span class="mini"><img loading="lazy" src="${urlImagen(j.imagen)}"
              alt="" onerror="this.parentNode.classList.add('sin-img');this.remove()">` +
           `<span class="nom">${j.nombre}</span></span>`).join('') +
