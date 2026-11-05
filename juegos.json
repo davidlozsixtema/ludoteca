@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05T20:47:50+00:00",
+ "generado": "2026-11-05T23:09:34+00:00",
  "juegos": [
   {
    "id": 175,
@@ -393,6 +393,23 @@
    "fuera_coleccion": false
   },
   {
+   "id": 414,
+   "nombre": "Azul: Pabellón Acristalado",
+   "imagen": "414.png",
+   "categoria_id": 8,
+   "mecanica_id": 12,
+   "tematica_id": 4,
+   "jugadores": "2-4",
+   "edad": "+8",
+   "duracion": "30-45",
+   "publicacion": 2020,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 225,
    "nombre": "Azul: Pabellón de verano",
    "imagen": null,
@@ -648,6 +665,23 @@
    "fuera_coleccion": false
   },
   {
+   "id": 415,
+   "nombre": "Boom",
+   "imagen": "415.png",
+   "categoria_id": 4,
+   "mecanica_id": 10,
+   "tematica_id": 6,
+   "jugadores": "1-7",
+   "edad": "+8",
+   "duracion": "5-15",
+   "publicacion": 2014,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 327,
    "nombre": "Boomie Busters",
    "imagen": null,
@@ -658,6 +692,23 @@
    "edad": "+8",
    "duracion": "20-20",
    "publicacion": 2024,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 397,
+   "nombre": "BrainBox: Los Pequeñines",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 7,
+   "jugadores": "1-8",
+   "edad": "+4",
+   "duracion": "10-10",
+   "publicacion": 2013,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -726,6 +777,23 @@
    "edad": "+8",
    "duracion": "30-45",
    "publicacion": 2018,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 426,
+   "nombre": "Camino",
+   "imagen": "426.png",
+   "categoria_id": 8,
+   "mecanica_id": 1,
+   "tematica_id": 10,
+   "jugadores": "2-4",
+   "edad": "+6",
+   "duracion": "30-30",
+   "publicacion": 2010,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -803,7 +871,7 @@
   {
    "id": 328,
    "nombre": "Carcassonne: Posadas y Catedrales",
-   "imagen": null,
+   "imagen": "328.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 4,
@@ -828,6 +896,23 @@
    "edad": "+10",
    "duracion": "45-75",
    "publicacion": 2018,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 398,
+   "nombre": "Carrera de Cerditos",
+   "imagen": "398.png",
+   "categoria_id": 5,
+   "mecanica_id": 7,
+   "tematica_id": 7,
+   "jugadores": "2-7",
+   "edad": "+4",
+   "duracion": "15-20",
+   "publicacion": 2001,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -905,7 +990,7 @@
   {
    "id": 378,
    "nombre": "Catan: 5-6 Player Extension",
-   "imagen": null,
+   "imagen": "378.png",
    "categoria_id": null,
    "mecanica_id": null,
    "tematica_id": null,
@@ -913,6 +998,23 @@
    "edad": "+10",
    "duracion": "120-120",
    "publicacion": 1996,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": true,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 399,
+   "nombre": "Catch It!",
+   "imagen": "399.png",
+   "categoria_id": 5,
+   "mecanica_id": 7,
+   "tematica_id": 7,
+   "jugadores": "2-4",
+   "edad": "+6",
+   "duracion": "15-15",
+   "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -1107,6 +1209,176 @@
    "fuera_coleccion": false
   },
   {
+   "id": 384,
+   "nombre": "Club A: Adri el inventor",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 2,
+   "jugadores": "1-3",
+   "edad": "+8",
+   "duracion": "10-15",
+   "publicacion": 2021,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 385,
+   "nombre": "Club A: Amy la compositora",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 10,
+   "tematica_id": 10,
+   "jugadores": "1-6",
+   "edad": "+8",
+   "duracion": "20-20",
+   "publicacion": 2021,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 386,
+   "nombre": "Club A: Bob el explorador",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 10,
+   "jugadores": "1-4",
+   "edad": "+8",
+   "duracion": "10-15",
+   "publicacion": 2020,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 387,
+   "nombre": "Club A: Jessi the tourist",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 10,
+   "jugadores": "1-4",
+   "edad": "+8",
+   "duracion": "10-15",
+   "publicacion": 2020,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 388,
+   "nombre": "Club A: Juan el arquitecto",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 4,
+   "jugadores": "1-3",
+   "edad": "+8",
+   "duracion": "15-15",
+   "publicacion": 2023,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 389,
+   "nombre": "Club A: Max el detective",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 10,
+   "jugadores": "2-4",
+   "edad": "+4",
+   "duracion": "10-20",
+   "publicacion": 2021,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 390,
+   "nombre": "Club A: Renata la pirata",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 10,
+   "jugadores": "1-4",
+   "edad": "+8",
+   "duracion": "10-15",
+   "publicacion": 2021,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 391,
+   "nombre": "Club A: Rocío la recolectora",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 7,
+   "jugadores": "1-4",
+   "edad": "+6",
+   "duracion": "10-15",
+   "publicacion": 2023,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 392,
+   "nombre": "Club A: Rogelio el fantasma",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 6,
+   "jugadores": "1-3",
+   "edad": "+8",
+   "duracion": "10-15",
+   "publicacion": 2023,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 393,
+   "nombre": "Club A: Willy el robot",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 8,
+   "tematica_id": 2,
+   "jugadores": "2-4",
+   "edad": "+4",
+   "duracion": "10-20",
+   "publicacion": 2020,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 201,
    "nombre": "Cluedo",
    "imagen": "201.png",
@@ -1219,6 +1491,23 @@
    "edad": "+10",
    "duracion": "40",
    "publicacion": 2013,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 400,
+   "nombre": "Conecta 4",
+   "imagen": "400.png",
+   "categoria_id": 8,
+   "mecanica_id": 1,
+   "tematica_id": 8,
+   "jugadores": "2-2",
+   "edad": "+6",
+   "duracion": "10-10",
+   "publicacion": 1974,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -1583,6 +1872,23 @@
    "fuera_coleccion": false
   },
   {
+   "id": 422,
+   "nombre": "Dobble XXL",
+   "imagen": "422.png",
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 7,
+   "jugadores": "2-8",
+   "edad": "+6",
+   "duracion": "10-15",
+   "publicacion": 2021,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 333,
    "nombre": "DorfRomantik: Sakura",
    "imagen": null,
@@ -1593,6 +1899,23 @@
    "edad": "+10",
    "duracion": "30-90",
    "publicacion": 2024,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 401,
+   "nombre": "Doña Buitre: Cuidado con los Huevos",
+   "imagen": "401.png",
+   "categoria_id": 5,
+   "mecanica_id": 7,
+   "tematica_id": 7,
+   "jugadores": "2-4",
+   "edad": "+4",
+   "duracion": "15-15",
+   "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -1636,7 +1959,7 @@
   {
    "id": 335,
    "nombre": "Draftosaurus: Aerial Show",
-   "imagen": null,
+   "imagen": "335.png",
    "categoria_id": 3,
    "mecanica_id": 12,
    "tematica_id": 7,
@@ -1653,7 +1976,7 @@
   {
    "id": 336,
    "nombre": "Draftosaurus: Marina",
-   "imagen": null,
+   "imagen": "336.png",
    "categoria_id": 3,
    "mecanica_id": 12,
    "tematica_id": 7,
@@ -1678,6 +2001,23 @@
    "edad": "+8",
    "duracion": "30-45",
    "publicacion": 2017,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 402,
+   "nombre": "El Caso del Museo",
+   "imagen": "402.png",
+   "categoria_id": 5,
+   "mecanica_id": 6,
+   "tematica_id": 10,
+   "jugadores": "2-4",
+   "edad": "+7",
+   "duracion": "20-20",
+   "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -1889,6 +2229,23 @@
    "fuera_coleccion": false
   },
   {
+   "id": 416,
+   "nombre": "Enigmas: Cuerpo Humano",
+   "imagen": "416.png",
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 7,
+   "jugadores": "2-6",
+   "edad": "+7",
+   "duracion": "20-20",
+   "publicacion": 2014,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 229,
    "nombre": "ERA: Edad Media",
    "imagen": "229.png",
@@ -1936,6 +2293,23 @@
    "deseado": false,
    "en_camino": false,
    "prestado": true,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 417,
+   "nombre": "Escape Room: El Tren del Salvaje Oeste",
+   "imagen": "417.png",
+   "categoria_id": 3,
+   "mecanica_id": 10,
+   "tematica_id": 4,
+   "jugadores": "1-5",
+   "edad": "+12",
+   "duracion": "60-60",
+   "publicacion": 2021,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false
   },
@@ -2809,7 +3183,7 @@
   {
    "id": 379,
    "nombre": "Galileo Galilei: Edmond Halley Promo",
-   "imagen": null,
+   "imagen": "379.png",
    "categoria_id": null,
    "mecanica_id": null,
    "tematica_id": null,
@@ -3164,6 +3538,40 @@
    "fuera_coleccion": false
   },
   {
+   "id": 403,
+   "nombre": "IQ Fit",
+   "imagen": "403.png",
+   "categoria_id": 8,
+   "mecanica_id": 1,
+   "tematica_id": 2,
+   "jugadores": "1-1",
+   "edad": "+6",
+   "duracion": "10-30",
+   "publicacion": 2012,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 404,
+   "nombre": "IQ Stixx",
+   "imagen": "404.png",
+   "categoria_id": 8,
+   "mecanica_id": 1,
+   "tematica_id": 2,
+   "jugadores": "1-1",
+   "edad": "+7",
+   "duracion": "10-30",
+   "publicacion": 2022,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 183,
    "nombre": "Isla Calavera",
    "imagen": "183.png",
@@ -3334,6 +3742,40 @@
    "fuera_coleccion": false
   },
   {
+   "id": 394,
+   "nombre": "La Fallera Calavera Deluxe",
+   "imagen": "394.png",
+   "categoria_id": 4,
+   "mecanica_id": 4,
+   "tematica_id": 6,
+   "jugadores": "2-5",
+   "edad": "+10",
+   "duracion": "25-30",
+   "publicacion": 2024,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 405,
+   "nombre": "La Fiesta de las Letras",
+   "imagen": "405.png",
+   "categoria_id": 5,
+   "mecanica_id": 4,
+   "tematica_id": 1,
+   "jugadores": "2-6",
+   "edad": "+4",
+   "duracion": "15-15",
+   "publicacion": 2019,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 263,
    "nombre": "La Morada Maldita",
    "imagen": "263.png",
@@ -3463,6 +3905,23 @@
    "edad": "+6",
    "duracion": "30",
    "publicacion": 2016,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 406,
+   "nombre": "Lince",
+   "imagen": "406.png",
+   "categoria_id": 3,
+   "mecanica_id": 4,
+   "tematica_id": 7,
+   "jugadores": "2-6",
+   "edad": "+4",
+   "duracion": "10-15",
+   "publicacion": 1996,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -3617,6 +4076,23 @@
    "duracion": "25",
    "publicacion": 2017,
    "deseado": true,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 407,
+   "nombre": "Los Tres Cerditos Deluxe",
+   "imagen": "407.png",
+   "categoria_id": 5,
+   "mecanica_id": 1,
+   "tematica_id": 1,
+   "jugadores": "1-1",
+   "edad": "+3",
+   "duracion": "10-15",
+   "publicacion": 2015,
+   "deseado": false,
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
@@ -3878,6 +4354,23 @@
    "fuera_coleccion": false
   },
   {
+   "id": 418,
+   "nombre": "Mi Primera Aventura: Viaje por las Tierras Ocres",
+   "imagen": null,
+   "categoria_id": 5,
+   "mecanica_id": 10,
+   "tematica_id": 10,
+   "jugadores": "1-5",
+   "edad": "+4",
+   "duracion": "10-20",
+   "publicacion": 2020,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 43,
    "nombre": "MicroMacro: Crime City",
    "imagen": "43.png",
@@ -4065,6 +4558,23 @@
    "fuera_coleccion": false
   },
   {
+   "id": 408,
+   "nombre": "Mémo Il était une fois",
+   "imagen": "408.png",
+   "categoria_id": 5,
+   "mecanica_id": 8,
+   "tematica_id": 1,
+   "jugadores": "1-4",
+   "edad": "+3",
+   "duracion": "10-15",
+   "publicacion": 2018,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 155,
    "nombre": "Naga Raja",
    "imagen": "155.png",
@@ -4150,6 +4660,23 @@
    "fuera_coleccion": false
   },
   {
+   "id": 409,
+   "nombre": "Nuts",
+   "imagen": "409.png",
+   "categoria_id": 7,
+   "mecanica_id": 4,
+   "tematica_id": 7,
+   "jugadores": "2-4",
+   "edad": "+6",
+   "duracion": "10-15",
+   "publicacion": 2016,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 355,
    "nombre": "Obsession",
    "imagen": null,
@@ -4160,6 +4687,23 @@
    "edad": "+14",
    "duracion": "30-90",
    "publicacion": 2018,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 423,
+   "nombre": "Océanos de Papel",
+   "imagen": "423.png",
+   "categoria_id": 7,
+   "mecanica_id": 8,
+   "tematica_id": 7,
+   "jugadores": "2-4",
+   "edad": "+8",
+   "duracion": "30-30",
+   "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -4211,6 +4755,23 @@
    "edad": "+6",
    "duracion": "20",
    "publicacion": 2023,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 410,
+   "nombre": "Opposites",
+   "imagen": "410.png",
+   "categoria_id": 5,
+   "mecanica_id": 8,
+   "tematica_id": 7,
+   "jugadores": "1-4",
+   "edad": "+3",
+   "duracion": "10-15",
+   "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -4677,6 +5238,23 @@
    "fuera_coleccion": false
   },
   {
+   "id": 411,
+   "nombre": "Pulpito Calmario",
+   "imagen": "411.png",
+   "categoria_id": 5,
+   "mecanica_id": 10,
+   "tematica_id": 7,
+   "jugadores": "2-4",
+   "edad": "+4",
+   "duracion": "10-15",
+   "publicacion": 2023,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 138,
    "nombre": "Pócimas y Brebajes",
    "imagen": "138.png",
@@ -4704,6 +5282,23 @@
    "edad": "+7",
    "duracion": "15-15",
    "publicacion": 2025,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 412,
+   "nombre": "Quién, Por Qué",
+   "imagen": "412.png",
+   "categoria_id": 5,
+   "mecanica_id": 6,
+   "tematica_id": 10,
+   "jugadores": "2-4",
+   "edad": "+4",
+   "duracion": "15-20",
+   "publicacion": 2015,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -4796,6 +5391,23 @@
    "fuera_coleccion": false
   },
   {
+   "id": 427,
+   "nombre": "Revive",
+   "imagen": "427.png",
+   "categoria_id": 1,
+   "mecanica_id": 2,
+   "tematica_id": 2,
+   "jugadores": "1-4",
+   "edad": "+14",
+   "duracion": "90-120",
+   "publicacion": 2022,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 303,
    "nombre": "Rhino Hero",
    "imagen": "303.png",
@@ -4849,7 +5461,7 @@
   {
    "id": 381,
    "nombre": "Roll to the Top!: Special Challenges Pack",
-   "imagen": null,
+   "imagen": "381.png",
    "categoria_id": null,
    "mecanica_id": null,
    "tematica_id": null,
@@ -5034,6 +5646,40 @@
    "fuera_coleccion": false
   },
   {
+   "id": 419,
+   "nombre": "Serpentina",
+   "imagen": "419.png",
+   "categoria_id": 5,
+   "mecanica_id": 1,
+   "tematica_id": 7,
+   "jugadores": "2-5",
+   "edad": "+4",
+   "duracion": "15-15",
+   "publicacion": 2002,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 420,
+   "nombre": "SET",
+   "imagen": "420.png",
+   "categoria_id": 8,
+   "mecanica_id": 8,
+   "tematica_id": 2,
+   "jugadores": "1-20",
+   "edad": "+6",
+   "duracion": "20-20",
+   "publicacion": 1988,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 262,
    "nombre": "Sherlock Express",
    "imagen": "262.png",
@@ -5061,6 +5707,23 @@
    "edad": "+13",
    "duracion": "60-120",
    "publicacion": 1981,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 395,
+   "nombre": "Simbiosis",
+   "imagen": "395.png",
+   "categoria_id": 3,
+   "mecanica_id": 12,
+   "tematica_id": 7,
+   "jugadores": "2-4",
+   "edad": "+8",
+   "duracion": "10-20",
+   "publicacion": 2025,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -5102,6 +5765,40 @@
    "fuera_coleccion": false
   },
   {
+   "id": 428,
+   "nombre": "SmartGames: Escapa de Atlantis",
+   "imagen": "428.png",
+   "categoria_id": 8,
+   "mecanica_id": 1,
+   "tematica_id": 9,
+   "jugadores": "1-1",
+   "edad": "+8",
+   "duracion": "10-30",
+   "publicacion": 2018,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 413,
+   "nombre": "SmartGames: Gatos y Cajas",
+   "imagen": "413.png",
+   "categoria_id": 8,
+   "mecanica_id": 1,
+   "tematica_id": 7,
+   "jugadores": "1-1",
+   "edad": "+7",
+   "duracion": "10-30",
+   "publicacion": 2022,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 113,
    "nombre": "Smiles & Daggers",
    "imagen": "113.png",
@@ -5129,6 +5826,23 @@
    "edad": "+14",
    "duracion": "90",
    "publicacion": 2011,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 421,
+   "nombre": "Something Wild!",
+   "imagen": "421.png",
+   "categoria_id": 7,
+   "mecanica_id": 8,
+   "tematica_id": 1,
+   "jugadores": "2-4",
+   "edad": "+6",
+   "duracion": "20-20",
+   "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -5799,6 +6513,23 @@
    "fuera_coleccion": false
   },
   {
+   "id": 424,
+   "nombre": "Trek 12",
+   "imagen": "424.png",
+   "categoria_id": 3,
+   "mecanica_id": 7,
+   "tematica_id": 10,
+   "jugadores": "1-50",
+   "edad": "+8",
+   "duracion": "15-30",
+   "publicacion": 2020,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 287,
    "nombre": "Trending Kittens",
    "imagen": "287.png",
@@ -5826,6 +6557,23 @@
    "edad": "+6",
    "duracion": "15-15",
    "publicacion": 2021,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 425,
+   "nombre": "Triominos",
+   "imagen": "425.png",
+   "categoria_id": 8,
+   "mecanica_id": 1,
+   "tematica_id": 8,
+   "jugadores": "1-4",
+   "edad": "+6",
+   "duracion": "20-20",
+   "publicacion": 1965,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -6224,6 +6972,23 @@
    "fuera_coleccion": false
   },
   {
+   "id": 396,
+   "nombre": "Unlock!: Supernatural Adventures",
+   "imagen": "396.png",
+   "categoria_id": 3,
+   "mecanica_id": 10,
+   "tematica_id": 1,
+   "jugadores": "1-6",
+   "edad": "+10",
+   "duracion": "30-60",
+   "publicacion": 2023,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 146,
    "nombre": "Unlock!: Timeless Adventures",
    "imagen": "146.png",
@@ -6311,7 +7076,7 @@
   {
    "id": 382,
    "nombre": "Virus! Halloween",
-   "imagen": null,
+   "imagen": "382.png",
    "categoria_id": null,
    "mecanica_id": null,
    "tematica_id": null,
@@ -6793,6 +7558,16 @@
    "numero_balda": 1,
    "juegos": [
     {
+     "id": 426,
+     "nombre": "Camino",
+     "imagen": "426.png"
+    },
+    {
+     "id": 427,
+     "nombre": "Revive",
+     "imagen": "427.png"
+    },
+    {
      "id": 323,
      "nombre": "Alquimistas",
      "imagen": null
@@ -6806,6 +7581,11 @@
      "id": 355,
      "nombre": "Obsession",
      "imagen": null
+    },
+    {
+     "id": 379,
+     "nombre": "Galileo Galilei: Edmond Halley Promo",
+     "imagen": "379.png"
     },
     {
      "id": 91,
@@ -6839,6 +7619,56 @@
    "nombre_ubicacion": "Vitrina pared",
    "numero_balda": 1,
    "juegos": [
+    {
+     "id": 384,
+     "nombre": "Club A: Adri el inventor",
+     "imagen": null
+    },
+    {
+     "id": 385,
+     "nombre": "Club A: Amy la compositora",
+     "imagen": null
+    },
+    {
+     "id": 386,
+     "nombre": "Club A: Bob el explorador",
+     "imagen": null
+    },
+    {
+     "id": 387,
+     "nombre": "Club A: Jessi the tourist",
+     "imagen": null
+    },
+    {
+     "id": 388,
+     "nombre": "Club A: Juan el arquitecto",
+     "imagen": null
+    },
+    {
+     "id": 389,
+     "nombre": "Club A: Max el detective",
+     "imagen": null
+    },
+    {
+     "id": 390,
+     "nombre": "Club A: Renata la pirata",
+     "imagen": null
+    },
+    {
+     "id": 391,
+     "nombre": "Club A: Rocío la recolectora",
+     "imagen": null
+    },
+    {
+     "id": 392,
+     "nombre": "Club A: Rogelio el fantasma",
+     "imagen": null
+    },
+    {
+     "id": 393,
+     "nombre": "Club A: Willy el robot",
+     "imagen": null
+    },
     {
      "id": 28,
      "nombre": "La Búsqueda del Planeta X",
@@ -6917,6 +7747,11 @@
      "imagen": "255.png"
     },
     {
+     "id": 272,
+     "nombre": "Ubongo mini",
+     "imagen": "272.png"
+    },
+    {
      "id": 17,
      "nombre": "Sombra sobre Londres",
      "imagen": "17.png"
@@ -6982,11 +7817,6 @@
      "imagen": "261.png"
     },
     {
-     "id": 272,
-     "nombre": "Ubongo mini",
-     "imagen": "272.png"
-    },
-    {
      "id": 236,
      "nombre": "Santorini",
      "imagen": "236.png"
@@ -6999,9 +7829,24 @@
    "numero_balda": 3,
    "juegos": [
     {
+     "id": 423,
+     "nombre": "Océanos de Papel",
+     "imagen": "423.png"
+    },
+    {
+     "id": 424,
+     "nombre": "Trek 12",
+     "imagen": "424.png"
+    },
+    {
+     "id": 425,
+     "nombre": "Triominos",
+     "imagen": "425.png"
+    },
+    {
      "id": 336,
      "nombre": "Draftosaurus: Marina",
-     "imagen": null
+     "imagen": "336.png"
     },
     {
      "id": 340,
@@ -7019,13 +7864,13 @@
      "imagen": null
     },
     {
-     "id": 329,
-     "nombre": "Caza Manzanas",
-     "imagen": null
-    },
-    {
      "id": 335,
      "nombre": "Draftosaurus: Aerial Show",
+     "imagen": "335.png"
+    },
+    {
+     "id": 329,
+     "nombre": "Caza Manzanas",
      "imagen": null
     },
     {
@@ -7269,6 +8114,11 @@
      "id": 99,
      "nombre": "El Enigma de los Templos",
      "imagen": "99.png"
+    },
+    {
+     "id": 381,
+     "nombre": "Roll to the Top!: Special Challenges Pack",
+     "imagen": "381.png"
     },
     {
      "id": 157,
@@ -7530,6 +8380,11 @@
    "numero_balda": 6,
    "juegos": [
     {
+     "id": 414,
+     "nombre": "Azul: Pabellón Acristalado",
+     "imagen": "414.png"
+    },
+    {
      "id": 325,
      "nombre": "Azul: Mosaico de Cristal",
      "imagen": null
@@ -7610,13 +8465,44 @@
    "id": 10,
    "nombre_ubicacion": "Pasillo",
    "numero_balda": 1,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 398,
+     "nombre": "Carrera de Cerditos",
+     "imagen": "398.png"
+    }
+   ]
   },
   {
    "id": 11,
    "nombre_ubicacion": "Pasillo",
    "numero_balda": 2,
    "juegos": [
+    {
+     "id": 406,
+     "nombre": "Lince",
+     "imagen": "406.png"
+    },
+    {
+     "id": 401,
+     "nombre": "Doña Buitre: Cuidado con los Huevos",
+     "imagen": "401.png"
+    },
+    {
+     "id": 405,
+     "nombre": "La Fiesta de las Letras",
+     "imagen": "405.png"
+    },
+    {
+     "id": 407,
+     "nombre": "Los Tres Cerditos Deluxe",
+     "imagen": "407.png"
+    },
+    {
+     "id": 409,
+     "nombre": "Nuts",
+     "imagen": "409.png"
+    },
     {
      "id": 321,
      "nombre": "Abracada Broom",
@@ -7644,6 +8530,41 @@
    "nombre_ubicacion": "Pasillo",
    "numero_balda": 3,
    "juegos": [
+    {
+     "id": 399,
+     "nombre": "Catch It!",
+     "imagen": "399.png"
+    },
+    {
+     "id": 404,
+     "nombre": "IQ Stixx",
+     "imagen": "404.png"
+    },
+    {
+     "id": 397,
+     "nombre": "BrainBox: Los Pequeñines",
+     "imagen": null
+    },
+    {
+     "id": 403,
+     "nombre": "IQ Fit",
+     "imagen": "403.png"
+    },
+    {
+     "id": 408,
+     "nombre": "Mémo Il était une fois",
+     "imagen": "408.png"
+    },
+    {
+     "id": 411,
+     "nombre": "Pulpito Calmario",
+     "imagen": "411.png"
+    },
+    {
+     "id": 410,
+     "nombre": "Opposites",
+     "imagen": "410.png"
+    },
     {
      "id": 304,
      "nombre": "Candy Time",
@@ -7697,6 +8618,21 @@
    "numero_balda": 4,
    "juegos": [
     {
+     "id": 400,
+     "nombre": "Conecta 4",
+     "imagen": "400.png"
+    },
+    {
+     "id": 402,
+     "nombre": "El Caso del Museo",
+     "imagen": "402.png"
+    },
+    {
+     "id": 412,
+     "nombre": "Quién, Por Qué",
+     "imagen": "412.png"
+    },
+    {
      "id": 375,
      "nombre": "Carrera de Letras",
      "imagen": null
@@ -7744,6 +8680,16 @@
    "numero_balda": 5,
    "juegos": [
     {
+     "id": 413,
+     "nombre": "SmartGames: Gatos y Cajas",
+     "imagen": "413.png"
+    },
+    {
+     "id": 428,
+     "nombre": "SmartGames: Escapa de Atlantis",
+     "imagen": "428.png"
+    },
+    {
      "id": 342,
      "nombre": "Batalla de Genios Original",
      "imagen": null
@@ -7787,7 +8733,13 @@
    "id": 17,
    "nombre_ubicacion": "Hueco pared",
    "numero_balda": 1,
-   "juegos": []
+   "juegos": [
+    {
+     "id": 422,
+     "nombre": "Dobble XXL",
+     "imagen": "422.png"
+    }
+   ]
   },
   {
    "id": 18,
@@ -7994,6 +8946,11 @@
      "imagen": "78.png"
     },
     {
+     "id": 395,
+     "nombre": "Simbiosis",
+     "imagen": "395.png"
+    },
+    {
      "id": 90,
      "nombre": "Regicide",
      "imagen": "90.png"
@@ -8051,6 +9008,11 @@
    "numero_balda": 5,
    "juegos": [
     {
+     "id": 394,
+     "nombre": "La Fallera Calavera Deluxe",
+     "imagen": "394.png"
+    },
+    {
      "id": 269,
      "nombre": "5 Torres",
      "imagen": "269.png"
@@ -8069,6 +9031,11 @@
      "id": 210,
      "nombre": "Mal Trago",
      "imagen": "210.png"
+    },
+    {
+     "id": 382,
+     "nombre": "Virus! Halloween",
+     "imagen": "382.png"
     },
     {
      "id": 246,
@@ -8118,6 +9085,11 @@
    "numero_balda": 6,
    "juegos": [
     {
+     "id": 396,
+     "nombre": "Unlock!: Supernatural Adventures",
+     "imagen": "396.png"
+    },
+    {
      "id": 154,
      "nombre": "Unlock!: Game Adventures",
      "imagen": "154.png"
@@ -8133,6 +9105,11 @@
      "id": 98,
      "nombre": "Cerveza y Pan",
      "imagen": "98.png"
+    },
+    {
+     "id": 415,
+     "nombre": "Boom",
+     "imagen": "415.png"
     },
     {
      "id": 198,
@@ -8162,7 +9139,7 @@
     {
      "id": 328,
      "nombre": "Carcassonne: Posadas y Catedrales",
-     "imagen": null
+     "imagen": "328.png"
     },
     {
      "id": 324,
@@ -8217,6 +9194,11 @@
      "imagen": "258.png"
     },
     {
+     "id": 417,
+     "nombre": "Escape Room: El Tren del Salvaje Oeste",
+     "imagen": "417.png"
+    },
+    {
      "id": 227,
      "nombre": "Pakal",
      "imagen": "227.png"
@@ -8257,6 +9239,11 @@
      "id": 309,
      "nombre": "Medio Monstruo",
      "imagen": "309.png"
+    },
+    {
+     "id": 419,
+     "nombre": "Serpentina",
+     "imagen": "419.png"
     },
     {
      "id": 104,
@@ -8400,6 +9387,26 @@
    "nombre_ubicacion": "Armario blanco",
    "numero_balda": 4,
    "juegos": [
+    {
+     "id": 420,
+     "nombre": "SET",
+     "imagen": "420.png"
+    },
+    {
+     "id": 418,
+     "nombre": "Mi Primera Aventura: Viaje por las Tierras Ocres",
+     "imagen": null
+    },
+    {
+     "id": 421,
+     "nombre": "Something Wild!",
+     "imagen": "421.png"
+    },
+    {
+     "id": 416,
+     "nombre": "Enigmas: Cuerpo Humano",
+     "imagen": "416.png"
+    },
     {
      "id": 253,
      "nombre": "POC!",
