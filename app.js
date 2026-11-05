@@ -12,6 +12,9 @@ let datos = null;          // juegos.json entero
 let cards = [];            // elementos .juego ya creados
 let ubicacionDe = {};      // juego_id -> "Nombre · Balda N"
 let pagina = 0, aleatorio = null;
+// coleccion real = fuera deseados, en camino y juegos de otra ludoteca
+const coleccion = () =>
+  datos.juegos.filter(j => !(j.deseado || j.en_camino || j.otra_ludoteca));
 
 /* ==================== descarga de datos ==================== */
 
@@ -70,12 +73,14 @@ function construir() {
       cat: j.categoria_id || '', mec: j.mecanica_id || '', tem: j.tematica_id || '',
       jug: j.jugadores || '', edad: j.edad || '', dur: j.duracion || '',
       pub: j.publicacion || '', des: j.deseado ? '1' : '', cam: j.en_camino ? '1' : '',
-      pre: j.prestado ? '1' : '',
+      pre: j.prestado ? '1' : '', otr: j.otra_ludoteca ? '1' : '',
     });
-    const badges =
-      (j.deseado ? '<span class="badge b-deseado" title="Lista de deseos">❤️</span>' : '') +
-      (j.en_camino ? '<span class="badge b-camino" title="En camino">🚚</span>' : '') +
-      (j.prestado ? '<span class="badge b-prestado" title="Prestado">🤝</span>' : '');
+    // estados disjuntos: un solo icono arriba a la izquierda
+    const badge =
+      j.deseado ? '<span class="badge" title="Lista de deseos">❤️</span>' :
+      j.en_camino ? '<span class="badge" title="En camino">🚚</span>' :
+      j.otra_ludoteca ? '<span class="badge" title="De otra ludoteca">📤</span>' :
+      j.prestado ? '<span class="badge" title="Prestado">🤝</span>' : '';
     const chips = [CAT[j.categoria_id], MEC[j.mecanica_id], TEM[j.tematica_id]]
       .filter(Boolean).map(v => `<span class="chip">${v}</span>`).join('');
     const meta = [
@@ -87,7 +92,7 @@ function construir() {
     const ubi = ubicacionDe[j.id]
       ? `<div class="ubi">📍 ${ubicacionDe[j.id]}</div>` : '';
     d.innerHTML =
-      `${badges}<img loading="lazy" alt="" src="${urlImagen(j.imagen)}"
+      `${badge}<img loading="lazy" alt="" src="${urlImagen(j.imagen)}"
           onerror="this.onerror=null;this.src='${PLACEHOLDER}'">
        <div class="cuerpo"><h3>${j.nombre}</h3>
         <div class="chips">${chips}</div>
@@ -116,9 +121,12 @@ function pasa(c) {
     if (!r || d < r[0] || d > r[1]) return false;
   }
   if (sel('f-edad').value && c.dataset.edad !== sel('f-edad').value) return false;
-  const w = sel('f-des').value;
-  if (w === '1' && c.dataset.des !== '1') return false;
-  if (w === '0' && c.dataset.des === '1') return false;
+  const w = sel('f-col').value;
+  if (w === 'propietario' && (c.dataset.des || c.dataset.cam || c.dataset.otr || c.dataset.pre)) return false;
+  if (w === 'otra' && c.dataset.otr !== '1') return false;
+  if (w === 'camino' && c.dataset.cam !== '1') return false;
+  if (w === 'deseado' && c.dataset.des !== '1') return false;
+  if (w === 'prestado' && c.dataset.pre !== '1') return false;
   return true;
 }
 
@@ -140,7 +148,7 @@ function ordenar() {
   }
 }
 
-const FILTROS = ['f-buscar','f-cat','f-jug','f-dur','f-edad','f-mec','f-tem','f-des','f-orden'];
+const FILTROS = ['f-buscar','f-cat','f-jug','f-dur','f-edad','f-mec','f-tem','f-col','f-orden'];
 function guardarFiltros() {
   FILTROS.forEach(id => sessionStorage.setItem('flt.' + id, sel(id).value));
 }
@@ -170,13 +178,25 @@ function pintar() {
   const pagin = sel('pagin');
   pagin.innerHTML = '';
   if (paginas > 1) {
-    for (let i = 0; i < paginas; i++) {
+    const flecha = (txt, dest) => {
+      const b = document.createElement('button');
+      b.className = 'btn sec';
+      b.textContent = txt;
+      b.disabled = dest < 0 || dest >= paginas;
+      b.onclick = () => { pagina = dest; pintar(); };
+      pagin.appendChild(b);
+    };
+    flecha('‹', pagina - 1);
+    // ventana de 8 numeros deslizando alrededor de la pagina actual
+    const ini = Math.max(0, Math.min(pagina - 3, paginas - 8));
+    for (let i = ini; i < Math.min(ini + 8, paginas); i++) {
       const b = document.createElement('button');
       b.className = 'btn ' + (i === pagina ? '' : 'sec');
       b.textContent = i + 1;
       b.onclick = () => { pagina = i; pintar(); };
       pagin.appendChild(b);
     }
+    flecha('›', pagina + 1);
   }
 }
 
@@ -207,7 +227,7 @@ function pintarMapa() {
         '</div></div>').join('');
     div.appendChild(card);
   });
-  const sin = datos.juegos.filter(j => !ubicacionDe[j.id]).length;
+  const sin = coleccion().filter(j => !ubicacionDe[j.id]).length;
   sel('sin-ubicar').textContent =
     sin ? `🧺 ${sin} juegos sin ubicar.` : '';
 }
@@ -235,7 +255,7 @@ function pintarResumen() {
   const tabla = { c: CAT, m: MEC, t: TEM };
   const porId = (campo, dict) => {
     const cont = {};
-    datos.juegos.forEach(j => { cont[j[campo] || 0] = (cont[j[campo] || 0] || 0) + 1; });
+    coleccion().forEach(j => { cont[j[campo] || 0] = (cont[j[campo] || 0] || 0) + 1; });
     return Object.entries(cont)
       .map(([k, n]) => [k === '0' ? 'Sin asignar' : (dict[k] || k), n])
       .sort((a, b) => b[1] - a[1]);
@@ -286,7 +306,9 @@ async function iniciar() {
   }
   sel('cargando').classList.add('oculto');
 
-  sel('total').textContent = `${datos.juegos.length} juegos en la coleccion`;
+  const nDeseados = datos.juegos.filter(j => j.deseado).length;
+  sel('total').textContent =
+    `${coleccion().length} juegos en la coleccion · ${nDeseados} deseados`;
   rellenarSelects();
   construir();
   restaurarFiltros();

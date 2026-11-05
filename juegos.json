@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-04T20:38:47+00:00",
+ "generado": "2026-11-05T09:11:54+00:00",
  "juegos": [
   {
    "id": 175,
@@ -15,7 +15,8 @@
    "publicacion": 2008,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 305,
@@ -31,7 +32,8 @@
    "publicacion": 2014,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 226,
@@ -47,7 +49,8 @@
    "publicacion": 2013,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 269,
@@ -63,7 +66,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 177,
@@ -79,7 +83,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 2,
@@ -95,7 +100,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 9,
@@ -111,7 +117,8 @@
    "publicacion": 2014,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 53,
@@ -127,7 +134,8 @@
    "publicacion": 2007,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 103,
@@ -143,7 +151,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 212,
@@ -159,7 +168,8 @@
    "publicacion": 2009,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 310,
@@ -175,7 +185,8 @@
    "publicacion": 2005,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 88,
@@ -191,7 +202,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 10,
@@ -207,7 +219,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 159,
@@ -223,7 +236,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 27,
@@ -239,7 +253,8 @@
    "publicacion": 2012,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 166,
@@ -255,7 +270,8 @@
    "publicacion": 2005,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 224,
@@ -271,7 +287,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 100,
@@ -287,7 +304,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 225,
@@ -303,7 +321,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 12,
@@ -319,7 +338,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 104,
@@ -335,7 +355,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 218,
@@ -351,7 +372,8 @@
    "publicacion": 2002,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 13,
@@ -367,7 +389,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 187,
@@ -383,7 +406,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 14,
@@ -399,7 +423,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 317,
@@ -415,7 +440,8 @@
    "publicacion": 2011,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 280,
@@ -431,7 +457,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 40,
@@ -447,7 +474,8 @@
    "publicacion": 2011,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 97,
@@ -463,7 +491,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 298,
@@ -479,7 +508,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 44,
@@ -495,7 +525,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 144,
@@ -511,7 +542,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 275,
@@ -527,7 +559,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 111,
@@ -543,7 +576,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 170,
@@ -559,7 +593,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 304,
@@ -575,7 +610,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 137,
@@ -591,7 +627,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 179,
@@ -607,7 +644,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 264,
@@ -623,7 +661,8 @@
    "publicacion": 2000,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 89,
@@ -639,7 +678,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 101,
@@ -655,7 +695,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 36,
@@ -671,7 +712,8 @@
    "publicacion": 2011,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 151,
@@ -687,7 +729,8 @@
    "publicacion": 1995,
    "deseado": false,
    "en_camino": false,
-   "prestado": true
+   "prestado": false,
+   "otra_ludoteca": true
   },
   {
    "id": 84,
@@ -703,13 +746,14 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 98,
    "bgg_id": 369880,
    "nombre": "Cerveza y Pan",
-   "imagen": null,
+   "imagen": "369880.png",
    "categoria_id": 1,
    "mecanica_id": 4,
    "tematica_id": 8,
@@ -719,7 +763,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 238,
@@ -735,7 +780,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 24,
@@ -751,7 +797,8 @@
    "publicacion": 2024,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 147,
@@ -767,7 +814,8 @@
    "publicacion": 2000,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 141,
@@ -783,7 +831,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 114,
@@ -799,7 +848,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 46,
@@ -815,13 +865,14 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 135,
    "bgg_id": 313963,
    "nombre": "Cloud City",
-   "imagen": null,
+   "imagen": "313963.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 1,
@@ -831,7 +882,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 201,
@@ -847,7 +899,8 @@
    "publicacion": 1949,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 197,
@@ -863,7 +916,8 @@
    "publicacion": 2003,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 185,
@@ -879,7 +933,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 152,
@@ -895,7 +950,8 @@
    "publicacion": 2014,
    "deseado": true,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 277,
@@ -911,13 +967,14 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 124,
    "bgg_id": 348096,
    "nombre": "Cometas",
-   "imagen": null,
+   "imagen": "348096.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 7,
@@ -927,7 +984,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 140,
@@ -943,7 +1001,8 @@
    "publicacion": 2013,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 70,
@@ -959,7 +1018,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 160,
@@ -975,7 +1035,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 162,
@@ -991,7 +1052,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 184,
@@ -1007,7 +1069,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 186,
@@ -1023,7 +1086,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 118,
@@ -1039,7 +1103,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 192,
@@ -1055,7 +1120,8 @@
    "publicacion": 2012,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 178,
@@ -1071,7 +1137,8 @@
    "publicacion": 2024,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 182,
@@ -1087,7 +1154,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 295,
@@ -1103,7 +1171,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 250,
@@ -1119,7 +1188,8 @@
    "publicacion": 2008,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 82,
@@ -1135,7 +1205,8 @@
    "publicacion": 2011,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 293,
@@ -1151,13 +1222,14 @@
    "publicacion": 2009,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 220,
    "bgg_id": 381429,
    "nombre": "Dobble Connect",
-   "imagen": null,
+   "imagen": "381429.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": null,
@@ -1167,7 +1239,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 313,
@@ -1183,7 +1256,8 @@
    "publicacion": 2012,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 194,
@@ -1199,7 +1273,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 221,
@@ -1215,7 +1290,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 211,
@@ -1231,7 +1307,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 285,
@@ -1247,7 +1324,8 @@
    "publicacion": 2017,
    "deseado": true,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 244,
@@ -1263,7 +1341,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 99,
@@ -1279,7 +1358,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 209,
@@ -1295,7 +1375,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 239,
@@ -1311,7 +1392,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 279,
@@ -1327,7 +1409,8 @@
    "publicacion": 2009,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 76,
@@ -1343,13 +1426,14 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 240,
    "bgg_id": 235922,
    "nombre": "El Rey de los Dados",
-   "imagen": null,
+   "imagen": "235922.png",
    "categoria_id": 5,
    "mecanica_id": 7,
    "tematica_id": 10,
@@ -1359,7 +1443,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 77,
@@ -1375,7 +1460,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 78,
@@ -1391,7 +1477,8 @@
    "publicacion": 2011,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 15,
@@ -1407,7 +1494,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 48,
@@ -1423,13 +1511,14 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 229,
    "bgg_id": 270971,
    "nombre": "ERA: Edad Media",
-   "imagen": null,
+   "imagen": "270971.png",
    "categoria_id": 1,
    "mecanica_id": 7,
    "tematica_id": 4,
@@ -1439,7 +1528,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 231,
@@ -1455,7 +1545,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 61,
@@ -1471,7 +1562,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": true
+   "prestado": true,
+   "otra_ludoteca": false
   },
   {
    "id": 300,
@@ -1487,7 +1579,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 21,
@@ -1503,7 +1596,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 79,
@@ -1519,7 +1613,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 306,
@@ -1535,7 +1630,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 105,
@@ -1551,7 +1647,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 65,
@@ -1567,7 +1664,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 64,
@@ -1583,7 +1681,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 67,
@@ -1599,7 +1698,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 59,
@@ -1615,7 +1715,8 @@
    "publicacion": 2020,
    "deseado": true,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 83,
@@ -1631,7 +1732,8 @@
    "publicacion": 2021,
    "deseado": true,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 58,
@@ -1647,7 +1749,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 60,
@@ -1663,7 +1766,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 116,
@@ -1679,7 +1783,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 112,
@@ -1695,7 +1800,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 80,
@@ -1711,7 +1817,8 @@
    "publicacion": 2020,
    "deseado": true,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 122,
@@ -1727,7 +1834,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 133,
@@ -1743,7 +1851,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 57,
@@ -1759,7 +1868,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 110,
@@ -1775,7 +1885,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 66,
@@ -1791,7 +1902,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 62,
@@ -1807,7 +1919,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 86,
@@ -1823,7 +1936,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 63,
@@ -1839,7 +1953,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 69,
@@ -1855,7 +1970,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 73,
@@ -1871,13 +1987,14 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 1,
    "bgg_id": 255675,
    "nombre": "EXIT: Las Catacumbas del Terror",
-   "imagen": null,
+   "imagen": "255675.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 6,
@@ -1887,7 +2004,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 47,
@@ -1903,7 +2021,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 71,
@@ -1919,7 +2038,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 55,
@@ -1935,7 +2055,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 81,
@@ -1951,7 +2072,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 56,
@@ -1967,7 +2089,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 233,
@@ -1983,7 +2106,8 @@
    "publicacion": 2025,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 266,
@@ -1999,7 +2123,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 171,
@@ -2015,7 +2140,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 168,
@@ -2031,7 +2157,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 249,
@@ -2047,7 +2174,8 @@
    "publicacion": 2010,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 130,
@@ -2063,7 +2191,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 302,
@@ -2079,7 +2208,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 134,
@@ -2095,7 +2225,8 @@
    "publicacion": 2025,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 33,
@@ -2111,13 +2242,14 @@
    "publicacion": 2014,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 142,
    "bgg_id": 336986,
    "nombre": "Flamecraft",
-   "imagen": null,
+   "imagen": "336986.png",
    "categoria_id": 3,
    "mecanica_id": 2,
    "tematica_id": 1,
@@ -2127,7 +2259,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 52,
@@ -2143,7 +2276,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 148,
@@ -2159,7 +2293,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 128,
@@ -2175,13 +2310,14 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 278,
    "bgg_id": 285885,
    "nombre": "Fórmula",
-   "imagen": null,
+   "imagen": "285885.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 10,
@@ -2191,7 +2327,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 51,
@@ -2207,13 +2344,14 @@
    "publicacion": 2024,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 102,
    "bgg_id": 341245,
    "nombre": "Garden Nation",
-   "imagen": null,
+   "imagen": "341245.png",
    "categoria_id": 3,
    "mecanica_id": 5,
    "tematica_id": 1,
@@ -2223,7 +2361,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 215,
@@ -2239,13 +2378,14 @@
    "publicacion": 1990,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 169,
    "bgg_id": 320275,
    "nombre": "Ghost at Home",
-   "imagen": null,
+   "imagen": "320275.png",
    "categoria_id": 5,
    "mecanica_id": 10,
    "tematica_id": 6,
@@ -2255,13 +2395,14 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 301,
    "bgg_id": 170969,
    "nombre": "Gigamon",
-   "imagen": null,
+   "imagen": "170969.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": 1,
@@ -2271,7 +2412,8 @@
    "publicacion": 2014,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 121,
@@ -2285,9 +2427,10 @@
    "edad": "+10",
    "duracion": "20",
    "publicacion": 2021,
-   "deseado": true,
+   "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": true
   },
   {
    "id": 268,
@@ -2303,13 +2446,14 @@
    "publicacion": 2012,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 241,
    "bgg_id": 290357,
    "nombre": "Hanabi",
-   "imagen": null,
+   "imagen": "290357.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 10,
@@ -2319,13 +2463,14 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 200,
    "bgg_id": 325414,
    "nombre": "Happy Little Dinosaurs",
-   "imagen": null,
+   "imagen": "325414.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -2335,13 +2480,14 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 123,
    "bgg_id": 414317,
    "nombre": "Harmonies",
-   "imagen": null,
+   "imagen": "414317.png",
    "categoria_id": 3,
    "mecanica_id": 8,
    "tematica_id": 7,
@@ -2351,7 +2497,8 @@
    "publicacion": 2024,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 125,
@@ -2365,9 +2512,10 @@
    "edad": "+10",
    "duracion": "30-45",
    "publicacion": 2020,
-   "deseado": true,
+   "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": true
   },
   {
    "id": 3,
@@ -2383,7 +2531,8 @@
    "publicacion": 2024,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 127,
@@ -2399,7 +2548,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 72,
@@ -2415,7 +2565,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 129,
@@ -2431,7 +2582,8 @@
    "publicacion": 2024,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 183,
@@ -2447,7 +2599,8 @@
    "publicacion": 2012,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 203,
@@ -2463,7 +2616,8 @@
    "publicacion": 2007,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 49,
@@ -2479,7 +2633,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 270,
@@ -2495,7 +2650,8 @@
    "publicacion": 1997,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 314,
@@ -2511,7 +2667,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 131,
@@ -2527,7 +2684,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 308,
@@ -2543,7 +2701,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 254,
@@ -2559,7 +2718,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 28,
@@ -2575,13 +2735,14 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 311,
    "bgg_id": 12346,
    "nombre": "La Escalera Encantada",
-   "imagen": null,
+   "imagen": "12346.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": 1,
@@ -2591,7 +2752,8 @@
    "publicacion": 2003,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 263,
@@ -2607,7 +2769,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 26,
@@ -2623,7 +2786,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 288,
@@ -2639,7 +2803,8 @@
    "publicacion": 2024,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 198,
@@ -2655,7 +2820,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 45,
@@ -2671,7 +2837,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 286,
@@ -2687,7 +2854,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 165,
@@ -2703,7 +2871,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 164,
@@ -2719,7 +2888,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 258,
@@ -2735,7 +2905,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 174,
@@ -2751,7 +2922,8 @@
    "publicacion": 2015,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 139,
@@ -2767,7 +2939,8 @@
    "publicacion": 2017,
    "deseado": true,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 243,
@@ -2783,7 +2956,8 @@
    "publicacion": 2012,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 167,
@@ -2799,7 +2973,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 25,
@@ -2815,7 +2990,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 283,
@@ -2831,7 +3007,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 208,
@@ -2847,7 +3024,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 210,
@@ -2863,7 +3041,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 143,
@@ -2879,7 +3058,8 @@
    "publicacion": 2025,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 281,
@@ -2895,7 +3075,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 267,
@@ -2911,7 +3092,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 312,
@@ -2927,7 +3109,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 222,
@@ -2943,7 +3126,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 309,
@@ -2959,7 +3143,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 228,
@@ -2975,7 +3160,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 232,
@@ -2991,7 +3177,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 234,
@@ -3007,7 +3194,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 43,
@@ -3023,7 +3211,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 149,
@@ -3039,7 +3228,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 32,
@@ -3055,7 +3245,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 92,
@@ -3071,7 +3262,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 252,
@@ -3087,7 +3279,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 316,
@@ -3103,7 +3296,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 153,
@@ -3119,7 +3313,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 93,
@@ -3135,7 +3330,8 @@
    "publicacion": 2015,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 155,
@@ -3151,7 +3347,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 126,
@@ -3167,7 +3364,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 108,
@@ -3183,13 +3381,14 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 276,
    "bgg_id": 33088,
    "nombre": "No sin mi gato",
-   "imagen": null,
+   "imagen": "33088.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -3199,7 +3398,8 @@
    "publicacion": 2007,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 94,
@@ -3215,7 +3415,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 265,
@@ -3231,7 +3432,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 223,
@@ -3247,7 +3449,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 274,
@@ -3263,7 +3466,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 195,
@@ -3279,7 +3483,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 227,
@@ -3295,7 +3500,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 95,
@@ -3311,13 +3517,14 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 23,
    "bgg_id": 314040,
    "nombre": "Pandemic Legacy: Temporada 0",
-   "imagen": null,
+   "imagen": "314040.png",
    "categoria_id": 1,
    "mecanica_id": 9,
    "tematica_id": 4,
@@ -3327,13 +3534,14 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 172,
    "bgg_id": 248584,
    "nombre": "Pantone: The Game",
-   "imagen": null,
+   "imagen": "248584.png",
    "categoria_id": 4,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -3343,7 +3551,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": true
   },
   {
    "id": 132,
@@ -3359,7 +3568,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 107,
@@ -3375,7 +3585,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 235,
@@ -3391,7 +3602,8 @@
    "publicacion": 2014,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 237,
@@ -3407,7 +3619,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 206,
@@ -3423,7 +3636,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 22,
@@ -3439,7 +3653,8 @@
    "publicacion": 2015,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 96,
@@ -3455,7 +3670,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 191,
@@ -3471,7 +3687,8 @@
    "publicacion": 1800,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 109,
@@ -3487,7 +3704,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 247,
@@ -3503,7 +3721,8 @@
    "publicacion": 2013,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 245,
@@ -3519,7 +3738,8 @@
    "publicacion": 2014,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 176,
@@ -3535,7 +3755,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 230,
@@ -3551,7 +3772,8 @@
    "publicacion": 2005,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 251,
@@ -3567,7 +3789,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 253,
@@ -3583,7 +3806,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 255,
@@ -3599,7 +3823,8 @@
    "publicacion": 2015,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 299,
@@ -3615,7 +3840,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 91,
@@ -3631,7 +3857,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 257,
@@ -3647,7 +3874,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 318,
@@ -3663,7 +3891,8 @@
    "publicacion": 2009,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 38,
@@ -3679,7 +3908,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 138,
@@ -3695,7 +3925,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 290,
@@ -3711,7 +3942,8 @@
    "publicacion": 2024,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 34,
@@ -3727,7 +3959,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 157,
@@ -3743,7 +3976,8 @@
    "publicacion": 2014,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 90,
@@ -3759,7 +3993,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 188,
@@ -3775,7 +4010,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 303,
@@ -3791,7 +4027,8 @@
    "publicacion": 2011,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 189,
@@ -3807,7 +4044,8 @@
    "publicacion": 2008,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 156,
@@ -3823,7 +4061,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 20,
@@ -3839,7 +4078,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 291,
@@ -3855,7 +4095,8 @@
    "publicacion": 2005,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 158,
@@ -3871,7 +4112,8 @@
    "publicacion": 1950,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 219,
@@ -3887,7 +4129,8 @@
    "publicacion": 2004,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 199,
@@ -3903,7 +4146,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 180,
@@ -3919,7 +4163,8 @@
    "publicacion": 2012,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 236,
@@ -3935,7 +4180,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 19,
@@ -3951,7 +4197,8 @@
    "publicacion": 2012,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 18,
@@ -3967,7 +4214,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 262,
@@ -3983,7 +4231,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 31,
@@ -3999,7 +4248,8 @@
    "publicacion": 1981,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 30,
@@ -4015,13 +4265,14 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 120,
    "bgg_id": 241590,
    "nombre": "Smart 10",
-   "imagen": null,
+   "imagen": "241590.png",
    "categoria_id": 4,
    "mecanica_id": 4,
    "tematica_id": 4,
@@ -4031,7 +4282,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 113,
@@ -4047,7 +4299,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 17,
@@ -4063,7 +4316,8 @@
    "publicacion": 2011,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 75,
@@ -4079,7 +4333,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 115,
@@ -4095,13 +4350,14 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 296,
    "bgg_id": 257967,
    "nombre": "Speed Cups 6",
-   "imagen": null,
+   "imagen": "257967.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -4111,7 +4367,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 29,
@@ -4127,7 +4384,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 150,
@@ -4143,7 +4401,8 @@
    "publicacion": 2014,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 307,
@@ -4159,7 +4418,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 217,
@@ -4175,7 +4435,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 294,
@@ -4191,7 +4452,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 39,
@@ -4207,7 +4469,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 193,
@@ -4223,7 +4486,8 @@
    "publicacion": 2013,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 205,
@@ -4239,7 +4503,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 196,
@@ -4255,7 +4520,8 @@
    "publicacion": 2011,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 242,
@@ -4271,13 +4537,14 @@
    "publicacion": 2024,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 16,
    "bgg_id": 306481,
    "nombre": "Tawantinsuyu",
-   "imagen": null,
+   "imagen": "306481.png",
    "categoria_id": 1,
    "mecanica_id": 2,
    "tematica_id": 4,
@@ -4287,13 +4554,14 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 74,
    "bgg_id": 167791,
    "nombre": "Terraforming Mars",
-   "imagen": null,
+   "imagen": "167791.png",
    "categoria_id": 1,
    "mecanica_id": 4,
    "tematica_id": 3,
@@ -4303,7 +4571,8 @@
    "publicacion": 2016,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 173,
@@ -4319,7 +4588,8 @@
    "publicacion": 1982,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 181,
@@ -4335,7 +4605,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 50,
@@ -4351,7 +4622,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 11,
@@ -4367,7 +4639,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 320,
@@ -4383,7 +4656,8 @@
    "publicacion": 2007,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 37,
@@ -4399,7 +4673,8 @@
    "publicacion": 2008,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 68,
@@ -4415,7 +4690,8 @@
    "publicacion": 2006,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 35,
@@ -4431,7 +4707,8 @@
    "publicacion": 2004,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 256,
@@ -4447,7 +4724,8 @@
    "publicacion": 2010,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 260,
@@ -4463,7 +4741,8 @@
    "publicacion": 2012,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 145,
@@ -4479,7 +4758,8 @@
    "publicacion": 2005,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 216,
@@ -4495,7 +4775,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 213,
@@ -4511,7 +4792,8 @@
    "publicacion": 2010,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 282,
@@ -4527,7 +4809,8 @@
    "publicacion": 2014,
    "deseado": true,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 204,
@@ -4543,7 +4826,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 284,
@@ -4559,13 +4843,14 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 202,
    "bgg_id": 288513,
    "nombre": "Tranquilidad",
-   "imagen": null,
+   "imagen": "288513.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 10,
@@ -4575,7 +4860,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 163,
@@ -4591,7 +4877,8 @@
    "publicacion": 2015,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 287,
@@ -4607,7 +4894,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 161,
@@ -4623,7 +4911,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 54,
@@ -4639,7 +4928,8 @@
    "publicacion": 2002,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 4,
@@ -4655,7 +4945,8 @@
    "publicacion": 1996,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 319,
@@ -4671,7 +4962,8 @@
    "publicacion": 2005,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 5,
@@ -4687,7 +4979,8 @@
    "publicacion": 1984,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 207,
@@ -4703,7 +4996,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 8,
@@ -4719,7 +5013,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 248,
@@ -4735,7 +5030,8 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 41,
@@ -4751,7 +5047,8 @@
    "publicacion": 2012,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 261,
@@ -4767,7 +5064,8 @@
    "publicacion": 2015,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 272,
@@ -4783,7 +5081,8 @@
    "publicacion": 2007,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 7,
@@ -4799,7 +5098,8 @@
    "publicacion": 2020,
    "deseado": true,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 315,
@@ -4815,7 +5115,8 @@
    "publicacion": 2014,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 289,
@@ -4831,7 +5132,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 292,
@@ -4847,7 +5149,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 117,
@@ -4863,7 +5166,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 119,
@@ -4879,7 +5183,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 106,
@@ -4895,7 +5200,8 @@
    "publicacion": 2025,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 154,
@@ -4911,7 +5217,8 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 146,
@@ -4927,7 +5234,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 297,
@@ -4943,7 +5251,8 @@
    "publicacion": 1971,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 87,
@@ -4959,7 +5268,8 @@
    "publicacion": 2018,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 271,
@@ -4975,13 +5285,14 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 273,
    "bgg_id": 300936,
    "nombre": "Vía Mágica",
-   "imagen": null,
+   "imagen": "300936.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 1,
@@ -4991,7 +5302,8 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 136,
@@ -5007,13 +5319,14 @@
    "publicacion": 2021,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 85,
    "bgg_id": 266192,
    "nombre": "Wingspan",
-   "imagen": null,
+   "imagen": "266192.png",
    "categoria_id": 1,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -5023,7 +5336,8 @@
    "publicacion": 2019,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 42,
@@ -5039,7 +5353,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 6,
@@ -5055,7 +5370,8 @@
    "publicacion": 2024,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 214,
@@ -5071,7 +5387,8 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 259,
@@ -5087,7 +5404,8 @@
    "publicacion": 2004,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 246,
@@ -5103,7 +5421,8 @@
    "publicacion": 2015,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   },
   {
    "id": 190,
@@ -5119,7 +5438,8 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
-   "prestado": false
+   "prestado": false,
+   "otra_ludoteca": false
   }
  ],
  "categorias": [
@@ -5291,15 +5611,15 @@
      "imagen": "383607.png"
     },
     {
-     "id": 48,
-     "bgg_id": 305096,
-     "nombre": "Endless Winter: Paleoamericanos",
-     "imagen": "305096.png"
-    },
-    {
      "id": 45,
      "bgg_id": 312484,
      "nombre": "Las ruinas perdidas de Arnak",
+     "imagen": null
+    },
+    {
+     "id": 30,
+     "bgg_id": 255984,
+     "nombre": "Sleeping Gods",
      "imagen": null
     },
     {
@@ -5315,22 +5635,22 @@
      "imagen": null
     },
     {
-     "id": 19,
-     "bgg_id": 108745,
-     "nombre": "Seasons",
-     "imagen": "108745.png"
-    },
-    {
-     "id": 30,
-     "bgg_id": 255984,
-     "nombre": "Sleeping Gods",
-     "imagen": null
-    },
-    {
      "id": 29,
      "bgg_id": 162886,
      "nombre": "Spirit Island",
      "imagen": "162886.png"
+    },
+    {
+     "id": 48,
+     "bgg_id": 305096,
+     "nombre": "Endless Winter: Paleoamericanos",
+     "imagen": "305096.png"
+    },
+    {
+     "id": 19,
+     "bgg_id": 108745,
+     "nombre": "Seasons",
+     "imagen": "108745.png"
     }
    ]
   },
@@ -5340,57 +5660,27 @@
    "numero_balda": 2,
    "juegos": [
     {
-     "id": 10,
-     "bgg_id": 342942,
-     "nombre": "Ark Nova",
-     "imagen": "342942.png"
-    },
-    {
      "id": 44,
      "bgg_id": 304420,
      "nombre": "Bonfire",
      "imagen": null
     },
     {
-     "id": 89,
-     "bgg_id": 245934,
-     "nombre": "Carpe Diem",
-     "imagen": "245934.png"
-    },
-    {
-     "id": 21,
-     "bgg_id": 366683,
-     "nombre": "Escuela de robots",
-     "imagen": "366683.png"
-    },
-    {
-     "id": 79,
-     "bgg_id": 199792,
-     "nombre": "Everdell",
-     "imagen": null
-    },
-    {
-     "id": 134,
-     "bgg_id": 436126,
-     "nombre": "Finspan",
-     "imagen": "436126.png"
-    },
-    {
-     "id": 142,
-     "bgg_id": 336986,
-     "nombre": "Flamecraft",
-     "imagen": null
-    },
-    {
-     "id": 129,
-     "bgg_id": 422126,
-     "nombre": "Intarsia",
-     "imagen": "422126.png"
-    },
-    {
      "id": 23,
      "bgg_id": 314040,
      "nombre": "Pandemic Legacy: Temporada 0",
+     "imagen": "314040.png"
+    },
+    {
+     "id": 85,
+     "bgg_id": 266192,
+     "nombre": "Wingspan",
+     "imagen": "266192.png"
+    },
+    {
+     "id": 11,
+     "bgg_id": 351913,
+     "nombre": "Tiletum",
      "imagen": null
     },
     {
@@ -5400,34 +5690,64 @@
      "imagen": null
     },
     {
-     "id": 74,
-     "bgg_id": 167791,
-     "nombre": "Terraforming Mars",
-     "imagen": null
-    },
-    {
-     "id": 11,
-     "bgg_id": 351913,
-     "nombre": "Tiletum",
-     "imagen": null
-    },
-    {
-     "id": 85,
-     "bgg_id": 266192,
-     "nombre": "Wingspan",
-     "imagen": null
-    },
-    {
      "id": 42,
      "bgg_id": 355093,
      "nombre": "Woodcraft",
      "imagen": null
     },
     {
+     "id": 79,
+     "bgg_id": 199792,
+     "nombre": "Everdell",
+     "imagen": null
+    },
+    {
+     "id": 89,
+     "bgg_id": 245934,
+     "nombre": "Carpe Diem",
+     "imagen": "245934.png"
+    },
+    {
+     "id": 10,
+     "bgg_id": 342942,
+     "nombre": "Ark Nova",
+     "imagen": "342942.png"
+    },
+    {
      "id": 6,
      "bgg_id": 410201,
      "nombre": "Wyrmspan",
      "imagen": "410201.png"
+    },
+    {
+     "id": 134,
+     "bgg_id": 436126,
+     "nombre": "Finspan",
+     "imagen": "436126.png"
+    },
+    {
+     "id": 129,
+     "bgg_id": 422126,
+     "nombre": "Intarsia",
+     "imagen": "422126.png"
+    },
+    {
+     "id": 74,
+     "bgg_id": 167791,
+     "nombre": "Terraforming Mars",
+     "imagen": "167791.png"
+    },
+    {
+     "id": 21,
+     "bgg_id": 366683,
+     "nombre": "Escuela de robots",
+     "imagen": "366683.png"
+    },
+    {
+     "id": 142,
+     "bgg_id": 336986,
+     "nombre": "Flamecraft",
+     "imagen": "336986.png"
     }
    ]
   },
@@ -5437,16 +5757,10 @@
    "numero_balda": 1,
    "juegos": [
     {
-     "id": 51,
-     "bgg_id": 393333,
-     "nombre": "Galileo Galilei",
-     "imagen": "393333.png"
-    },
-    {
-     "id": 277,
-     "bgg_id": 289601,
-     "nombre": "Combo Color",
-     "imagen": "289601.png"
+     "id": 91,
+     "bgg_id": 314491,
+     "nombre": "Pradera",
+     "imagen": null
     },
     {
      "id": 15,
@@ -5458,13 +5772,19 @@
      "id": 229,
      "bgg_id": 270971,
      "nombre": "ERA: Edad Media",
-     "imagen": null
+     "imagen": "270971.png"
     },
     {
-     "id": 91,
-     "bgg_id": 314491,
-     "nombre": "Pradera",
-     "imagen": null
+     "id": 51,
+     "bgg_id": 393333,
+     "nombre": "Galileo Galilei",
+     "imagen": "393333.png"
+    },
+    {
+     "id": 277,
+     "bgg_id": 289601,
+     "nombre": "Combo Color",
+     "imagen": "289601.png"
     }
    ]
   },
@@ -5480,15 +5800,9 @@
      "imagen": null
     },
     {
-     "id": 140,
-     "bgg_id": 147151,
-     "nombre": "Concept",
-     "imagen": null
-    },
-    {
-     "id": 250,
-     "bgg_id": 39856,
-     "nombre": "Dixit",
+     "id": 242,
+     "bgg_id": 373636,
+     "nombre": "Takenokolor",
      "imagen": null
     },
     {
@@ -5498,9 +5812,9 @@
      "imagen": null
     },
     {
-     "id": 217,
-     "bgg_id": 329845,
-     "nombre": "Stella: Dixit Universe",
+     "id": 140,
+     "bgg_id": 147151,
+     "nombre": "Concept",
      "imagen": null
     },
     {
@@ -5510,9 +5824,15 @@
      "imagen": null
     },
     {
-     "id": 242,
-     "bgg_id": 373636,
-     "nombre": "Takenokolor",
+     "id": 217,
+     "bgg_id": 329845,
+     "nombre": "Stella: Dixit Universe",
+     "imagen": null
+    },
+    {
+     "id": 250,
+     "bgg_id": 39856,
+     "nombre": "Dixit",
      "imagen": null
     }
    ]
@@ -5523,16 +5843,28 @@
    "numero_balda": 2,
    "juegos": [
     {
+     "id": 163,
+     "bgg_id": 182189,
+     "nombre": "Treasure Hunters",
+     "imagen": "182189.png"
+    },
+    {
      "id": 166,
      "bgg_id": 14996,
      "nombre": "Aventureros al Tren: Europa",
      "imagen": "14996.png"
     },
     {
-     "id": 221,
-     "bgg_id": 232219,
-     "nombre": "Dragon Castle",
-     "imagen": "232219.png"
+     "id": 181,
+     "bgg_id": 307450,
+     "nombre": "The number",
+     "imagen": null
+    },
+    {
+     "id": 173,
+     "bgg_id": 2653,
+     "nombre": "The Island",
+     "imagen": null
     },
     {
      "id": 43,
@@ -5541,15 +5873,15 @@
      "imagen": "318977.png"
     },
     {
-     "id": 93,
-     "bgg_id": 181304,
-     "nombre": "Mysterium",
-     "imagen": "181304.png"
+     "id": 75,
+     "bgg_id": 296626,
+     "nombre": "Sonora",
+     "imagen": "296626.png"
     },
     {
-     "id": 138,
-     "bgg_id": 244521,
-     "nombre": "Pócimas y Brebajes",
+     "id": 216,
+     "bgg_id": 261901,
+     "nombre": "Tokyo Highway",
      "imagen": null
     },
     {
@@ -5559,9 +5891,9 @@
      "imagen": null
     },
     {
-     "id": 236,
-     "bgg_id": 194655,
-     "nombre": "Santorini",
+     "id": 138,
+     "bgg_id": 244521,
+     "nombre": "Pócimas y Brebajes",
      "imagen": null
     },
     {
@@ -5571,39 +5903,9 @@
      "imagen": null
     },
     {
-     "id": 75,
-     "bgg_id": 296626,
-     "nombre": "Sonora",
-     "imagen": "296626.png"
-    },
-    {
-     "id": 173,
-     "bgg_id": 2653,
-     "nombre": "The Island",
-     "imagen": null
-    },
-    {
-     "id": 216,
-     "bgg_id": 261901,
-     "nombre": "Tokyo Highway",
-     "imagen": null
-    },
-    {
-     "id": 163,
-     "bgg_id": 182189,
-     "nombre": "Treasure Hunters",
-     "imagen": "182189.png"
-    },
-    {
-     "id": 261,
-     "bgg_id": 314402,
-     "nombre": "Ubongo",
-     "imagen": "314402.png"
-    },
-    {
-     "id": 272,
-     "bgg_id": 28258,
-     "nombre": "Ubongo mini",
+     "id": 236,
+     "bgg_id": 194655,
+     "nombre": "Santorini",
      "imagen": null
     },
     {
@@ -5613,10 +5915,28 @@
      "imagen": "337784.png"
     },
     {
-     "id": 181,
-     "bgg_id": 307450,
-     "nombre": "The number",
+     "id": 93,
+     "bgg_id": 181304,
+     "nombre": "Mysterium",
+     "imagen": "181304.png"
+    },
+    {
+     "id": 272,
+     "bgg_id": 28258,
+     "nombre": "Ubongo mini",
      "imagen": null
+    },
+    {
+     "id": 221,
+     "bgg_id": 232219,
+     "nombre": "Dragon Castle",
+     "imagen": "232219.png"
+    },
+    {
+     "id": 261,
+     "bgg_id": 314402,
+     "nombre": "Ubongo",
+     "imagen": "314402.png"
     }
    ]
   },
@@ -5626,33 +5946,21 @@
    "numero_balda": 3,
    "juegos": [
     {
-     "id": 190,
-     "bgg_id": 371544,
-     "nombre": "¿Friegas tú?",
+     "id": 107,
+     "bgg_id": 359892,
+     "nombre": "Paren la Nave que me Bajo",
      "imagen": null
     },
     {
-     "id": 27,
-     "bgg_id": 128882,
-     "nombre": "Avalon",
+     "id": 113,
+     "bgg_id": 254103,
+     "nombre": "Smiles & Daggers",
      "imagen": null
     },
     {
-     "id": 187,
-     "bgg_id": 399011,
-     "nombre": "Barrio",
-     "imagen": null
-    },
-    {
-     "id": 97,
-     "bgg_id": 351605,
-     "nombre": "Bohnanza",
-     "imagen": null
-    },
-    {
-     "id": 238,
-     "bgg_id": 226454,
-     "nombre": "Chawai",
+     "id": 136,
+     "bgg_id": 339789,
+     "nombre": "Welcome to the Moon",
      "imagen": null
     },
     {
@@ -5662,52 +5970,40 @@
      "imagen": "478.png"
     },
     {
-     "id": 162,
-     "bgg_id": 237629,
-     "nombre": "Cortex 2",
-     "imagen": null
-    },
-    {
-     "id": 186,
-     "bgg_id": 245476,
-     "nombre": "CuBirds",
-     "imagen": null
-    },
-    {
-     "id": 194,
-     "bgg_id": 264055,
-     "nombre": "Draftosaurus",
-     "imagen": null
-    },
-    {
      "id": 168,
      "bgg_id": 288775,
      "nombre": "Fairy Trails",
      "imagen": null
     },
     {
-     "id": 200,
-     "bgg_id": 325414,
-     "nombre": "Happy Little Dinosaurs",
+     "id": 97,
+     "bgg_id": 351605,
+     "nombre": "Bohnanza",
      "imagen": null
     },
     {
-     "id": 183,
-     "bgg_id": 117663,
-     "nombre": "Isla Calavera",
+     "id": 207,
+     "bgg_id": 270168,
+     "nombre": "Tuki",
      "imagen": null
+    },
+    {
+     "id": 199,
+     "bgg_id": 367220,
+     "nombre": "Salton Sea",
+     "imagen": null
+    },
+    {
+     "id": 202,
+     "bgg_id": 288513,
+     "nombre": "Tranquilidad",
+     "imagen": "288513.png"
     },
     {
      "id": 164,
      "bgg_id": 317299,
      "nombre": "Loco Momo",
      "imagen": "317299.png"
-    },
-    {
-     "id": 243,
-     "bgg_id": 118247,
-     "nombre": "Lucky Numbers",
-     "imagen": null
     },
     {
      "id": 143,
@@ -5722,27 +6018,33 @@
      "imagen": null
     },
     {
-     "id": 252,
-     "bgg_id": 322282,
-     "nombre": "Momiji",
+     "id": 186,
+     "bgg_id": 245476,
+     "nombre": "CuBirds",
      "imagen": null
     },
     {
-     "id": 276,
-     "bgg_id": 33088,
-     "nombre": "No sin mi gato",
+     "id": 27,
+     "bgg_id": 128882,
+     "nombre": "Avalon",
      "imagen": null
     },
     {
-     "id": 223,
-     "bgg_id": 345641,
-     "nombre": "One Finger!",
+     "id": 162,
+     "bgg_id": 237629,
+     "nombre": "Cortex 2",
      "imagen": null
     },
     {
-     "id": 107,
-     "bgg_id": 359892,
-     "nombre": "Paren la Nave que me Bajo",
+     "id": 183,
+     "bgg_id": 117663,
+     "nombre": "Isla Calavera",
+     "imagen": null
+    },
+    {
+     "id": 187,
+     "bgg_id": 399011,
+     "nombre": "Barrio",
      "imagen": null
     },
     {
@@ -5752,21 +6054,15 @@
      "imagen": null
     },
     {
-     "id": 219,
-     "bgg_id": 9220,
-     "nombre": "Saboteur",
-     "imagen": "9220.png"
-    },
-    {
-     "id": 199,
-     "bgg_id": 367220,
-     "nombre": "Salton Sea",
+     "id": 190,
+     "bgg_id": 371544,
+     "nombre": "¿Friegas tú?",
      "imagen": null
     },
     {
-     "id": 113,
-     "bgg_id": 254103,
-     "nombre": "Smiles & Daggers",
+     "id": 194,
+     "bgg_id": 264055,
+     "nombre": "Draftosaurus",
      "imagen": null
     },
     {
@@ -5776,9 +6072,27 @@
      "imagen": null
     },
     {
-     "id": 202,
-     "bgg_id": 288513,
-     "nombre": "Tranquilidad",
+     "id": 223,
+     "bgg_id": 345641,
+     "nombre": "One Finger!",
+     "imagen": null
+    },
+    {
+     "id": 238,
+     "bgg_id": 226454,
+     "nombre": "Chawai",
+     "imagen": null
+    },
+    {
+     "id": 243,
+     "bgg_id": 118247,
+     "nombre": "Lucky Numbers",
+     "imagen": null
+    },
+    {
+     "id": 252,
+     "bgg_id": 322282,
+     "nombre": "Momiji",
      "imagen": null
     },
     {
@@ -5788,16 +6102,22 @@
      "imagen": "386728.png"
     },
     {
-     "id": 207,
-     "bgg_id": 270168,
-     "nombre": "Tuki",
-     "imagen": null
+     "id": 219,
+     "bgg_id": 9220,
+     "nombre": "Saboteur",
+     "imagen": "9220.png"
     },
     {
-     "id": 136,
-     "bgg_id": 339789,
-     "nombre": "Welcome to the Moon",
-     "imagen": null
+     "id": 276,
+     "bgg_id": 33088,
+     "nombre": "No sin mi gato",
+     "imagen": "33088.png"
+    },
+    {
+     "id": 200,
+     "bgg_id": 325414,
+     "nombre": "Happy Little Dinosaurs",
+     "imagen": "325414.png"
     }
    ]
   },
@@ -5807,22 +6127,112 @@
    "numero_balda": 4,
    "juegos": [
     {
+     "id": 171,
+     "bgg_id": 300993,
+     "nombre": "Extinción",
+     "imagen": "300993.png"
+    },
+    {
+     "id": 320,
+     "bgg_id": 33495,
+     "nombre": "Time's Up! Celebrity 3",
+     "imagen": null
+    },
+    {
+     "id": 260,
+     "bgg_id": 131325,
+     "nombre": "Timeline: Multitemático",
+     "imagen": "131325.png"
+    },
+    {
+     "id": 268,
+     "bgg_id": 118410,
+     "nombre": "Guarro Pig",
+     "imagen": "118410.png"
+    },
+    {
+     "id": 32,
+     "bgg_id": 299249,
+     "nombre": "Mint Control",
+     "imagen": null
+    },
+    {
+     "id": 77,
+     "bgg_id": 307170,
+     "nombre": "El Valle Secreto",
+     "imagen": null
+    },
+    {
+     "id": 108,
+     "bgg_id": 218556,
+     "nombre": "No Game Over",
+     "imagen": null
+    },
+    {
+     "id": 131,
+     "bgg_id": 310301,
+     "nombre": "Kapadokya",
+     "imagen": "310301.png"
+    },
+    {
+     "id": 76,
+     "bgg_id": 241760,
+     "nombre": "El Mortal",
+     "imagen": "241760.png"
+    },
+    {
+     "id": 157,
+     "bgg_id": 161417,
+     "nombre": "Red7",
+     "imagen": "161417.png"
+    },
+    {
+     "id": 130,
+     "bgg_id": 385761,
+     "nombre": "Faraway",
+     "imagen": "385761.png"
+    },
+    {
+     "id": 228,
+     "bgg_id": 355801,
+     "nombre": "Mediterráneo",
+     "imagen": null
+    },
+    {
+     "id": 204,
+     "bgg_id": 287038,
+     "nombre": "Traffic Jam",
+     "imagen": null
+    },
+    {
+     "id": 245,
+     "bgg_id": 153225,
+     "nombre": "Pick a Foca",
+     "imagen": null
+    },
+    {
+     "id": 271,
+     "bgg_id": 358805,
+     "nombre": "Vagoneta Infernal",
+     "imagen": null
+    },
+    {
+     "id": 247,
+     "bgg_id": 145186,
+     "nombre": "Pica al Oso Polar",
+     "imagen": "145186.png"
+    },
+    {
+     "id": 283,
+     "bgg_id": 246203,
+     "nombre": "Magic Mandala",
+     "imagen": null
+    },
+    {
      "id": 9,
      "bgg_id": 155695,
      "nombre": "Age of War",
      "imagen": "155695.png"
-    },
-    {
-     "id": 218,
-     "bgg_id": 3955,
-     "nombre": "BANG!",
-     "imagen": "3955.png"
-    },
-    {
-     "id": 275,
-     "bgg_id": 305985,
-     "nombre": "Cabras Montesas",
-     "imagen": "305985.png"
     },
     {
      "id": 179,
@@ -5837,9 +6247,51 @@
      "imagen": "377646.png"
     },
     {
-     "id": 124,
-     "bgg_id": 348096,
-     "nombre": "Cometas",
+     "id": 169,
+     "bgg_id": 320275,
+     "nombre": "Ghost at Home",
+     "imagen": "320275.png"
+    },
+    {
+     "id": 35,
+     "bgg_id": 230262,
+     "nombre": "Time's Up! Party",
+     "imagen": null
+    },
+    {
+     "id": 180,
+     "bgg_id": 128667,
+     "nombre": "Samurai Sword",
+     "imagen": "128667.png"
+    },
+    {
+     "id": 191,
+     "bgg_id": 45,
+     "nombre": "Perudo",
+     "imagen": null
+    },
+    {
+     "id": 218,
+     "bgg_id": 3955,
+     "nombre": "BANG!",
+     "imagen": "3955.png"
+    },
+    {
+     "id": 99,
+     "bgg_id": 234691,
+     "nombre": "El Enigma de los Templos",
+     "imagen": null
+    },
+    {
+     "id": 156,
+     "bgg_id": 240225,
+     "nombre": "Roll to the Top",
+     "imagen": "240225.png"
+    },
+    {
+     "id": 37,
+     "bgg_id": 38713,
+     "nombre": "Time's Up! Edición Amarilla",
      "imagen": null
     },
     {
@@ -5849,33 +6301,27 @@
      "imagen": null
     },
     {
-     "id": 293,
-     "bgg_id": 63268,
-     "nombre": "Dobble",
-     "imagen": null
-    },
-    {
      "id": 244,
      "bgg_id": 367568,
      "nombre": "El Embustero",
      "imagen": "367568.png"
     },
     {
-     "id": 99,
-     "bgg_id": 234691,
-     "nombre": "El Enigma de los Templos",
-     "imagen": null
+     "id": 124,
+     "bgg_id": 348096,
+     "nombre": "Cometas",
+     "imagen": "348096.png"
     },
     {
-     "id": 76,
-     "bgg_id": 241760,
-     "nombre": "El Mortal",
-     "imagen": "241760.png"
+     "id": 270,
+     "bgg_id": 8098,
+     "nombre": "Jungle Speed",
+     "imagen": "8098.png"
     },
     {
-     "id": 77,
-     "bgg_id": 307170,
-     "nombre": "El Valle Secreto",
+     "id": 193,
+     "bgg_id": 133473,
+     "nombre": "Sushi Go!",
      "imagen": null
     },
     {
@@ -5885,57 +6331,9 @@
      "imagen": null
     },
     {
-     "id": 171,
-     "bgg_id": 300993,
-     "nombre": "Extinción",
-     "imagen": "300993.png"
-    },
-    {
-     "id": 249,
-     "bgg_id": 83195,
-     "nombre": "Fantasma Blitz",
-     "imagen": "83195.png"
-    },
-    {
-     "id": 130,
-     "bgg_id": 385761,
-     "nombre": "Faraway",
-     "imagen": "385761.png"
-    },
-    {
-     "id": 169,
-     "bgg_id": 320275,
-     "nombre": "Ghost at Home",
-     "imagen": null
-    },
-    {
-     "id": 268,
-     "bgg_id": 118410,
-     "nombre": "Guarro Pig",
-     "imagen": "118410.png"
-    },
-    {
-     "id": 270,
-     "bgg_id": 8098,
-     "nombre": "Jungle Speed",
-     "imagen": "8098.png"
-    },
-    {
-     "id": 131,
-     "bgg_id": 310301,
-     "nombre": "Kapadokya",
-     "imagen": "310301.png"
-    },
-    {
-     "id": 288,
-     "bgg_id": 414790,
-     "nombre": "Laia",
-     "imagen": null
-    },
-    {
-     "id": 283,
-     "bgg_id": 246203,
-     "nombre": "Magic Mandala",
+     "id": 262,
+     "bgg_id": 271774,
+     "nombre": "Sherlock Express",
      "imagen": null
     },
     {
@@ -5945,94 +6343,22 @@
      "imagen": null
     },
     {
-     "id": 228,
-     "bgg_id": 355801,
-     "nombre": "Mediterráneo",
+     "id": 288,
+     "bgg_id": 414790,
+     "nombre": "Laia",
      "imagen": null
     },
     {
-     "id": 32,
-     "bgg_id": 299249,
-     "nombre": "Mint Control",
+     "id": 293,
+     "bgg_id": 63268,
+     "nombre": "Dobble",
      "imagen": null
     },
     {
-     "id": 108,
-     "bgg_id": 218556,
-     "nombre": "No Game Over",
-     "imagen": null
-    },
-    {
-     "id": 22,
-     "bgg_id": 163967,
-     "nombre": "Pequeñas Grandes Galaxias",
-     "imagen": "163967.png"
-    },
-    {
-     "id": 191,
-     "bgg_id": 45,
-     "nombre": "Perudo",
-     "imagen": null
-    },
-    {
-     "id": 247,
-     "bgg_id": 145186,
-     "nombre": "Pica al Oso Polar",
-     "imagen": "145186.png"
-    },
-    {
-     "id": 245,
-     "bgg_id": 153225,
-     "nombre": "Pick a Foca",
-     "imagen": null
-    },
-    {
-     "id": 176,
-     "bgg_id": 318328,
-     "nombre": "Picnic",
-     "imagen": "318328.png"
-    },
-    {
-     "id": 157,
-     "bgg_id": 161417,
-     "nombre": "Red7",
-     "imagen": "161417.png"
-    },
-    {
-     "id": 188,
-     "bgg_id": 353684,
-     "nombre": "Remolacha",
-     "imagen": "353684.png"
-    },
-    {
-     "id": 156,
-     "bgg_id": 240225,
-     "nombre": "Roll to the Top",
-     "imagen": "240225.png"
-    },
-    {
-     "id": 180,
-     "bgg_id": 128667,
-     "nombre": "Samurai Sword",
-     "imagen": "128667.png"
-    },
-    {
-     "id": 262,
-     "bgg_id": 271774,
-     "nombre": "Sherlock Express",
-     "imagen": null
-    },
-    {
-     "id": 115,
-     "bgg_id": 369679,
-     "nombre": "Spanta",
-     "imagen": "369679.png"
-    },
-    {
-     "id": 193,
-     "bgg_id": 133473,
-     "nombre": "Sushi Go!",
-     "imagen": null
+     "id": 249,
+     "bgg_id": 83195,
+     "nombre": "Fantasma Blitz",
+     "imagen": "83195.png"
     },
     {
      "id": 256,
@@ -6041,46 +6367,40 @@
      "imagen": "85256.png"
     },
     {
-     "id": 260,
-     "bgg_id": 131325,
-     "nombre": "Timeline: Multitemático",
-     "imagen": "131325.png"
+     "id": 275,
+     "bgg_id": 305985,
+     "nombre": "Cabras Montesas",
+     "imagen": "305985.png"
     },
     {
-     "id": 320,
-     "bgg_id": 33495,
-     "nombre": "Time's Up! Celebrity 3",
-     "imagen": null
+     "id": 176,
+     "bgg_id": 318328,
+     "nombre": "Picnic",
+     "imagen": "318328.png"
     },
     {
-     "id": 37,
-     "bgg_id": 38713,
-     "nombre": "Time's Up! Edición Amarilla",
-     "imagen": null
+     "id": 22,
+     "bgg_id": 163967,
+     "nombre": "Pequeñas Grandes Galaxias",
+     "imagen": "163967.png"
+    },
+    {
+     "id": 188,
+     "bgg_id": 353684,
+     "nombre": "Remolacha",
+     "imagen": "353684.png"
+    },
+    {
+     "id": 115,
+     "bgg_id": 369679,
+     "nombre": "Spanta",
+     "imagen": "369679.png"
     },
     {
      "id": 68,
      "bgg_id": 57660,
      "nombre": "Time's Up! Edición Azul",
      "imagen": "57660.png"
-    },
-    {
-     "id": 35,
-     "bgg_id": 230262,
-     "nombre": "Time's Up! Party",
-     "imagen": null
-    },
-    {
-     "id": 204,
-     "bgg_id": 287038,
-     "nombre": "Traffic Jam",
-     "imagen": null
-    },
-    {
-     "id": 271,
-     "bgg_id": 358805,
-     "nombre": "Vagoneta Infernal",
-     "imagen": null
     }
    ]
   },
@@ -6090,39 +6410,21 @@
    "numero_balda": 5,
    "juegos": [
     {
-     "id": 36,
-     "bgg_id": 84876,
-     "nombre": "Castillos de Borgoña",
-     "imagen": "84876.png"
+     "id": 20,
+     "bgg_id": 237182,
+     "nombre": "Root",
+     "imagen": null
+    },
+    {
+     "id": 25,
+     "bgg_id": 319392,
+     "nombre": "Luna Maris",
+     "imagen": null
     },
     {
      "id": 84,
      "bgg_id": 320819,
      "nombre": "Cena en París",
-     "imagen": null
-    },
-    {
-     "id": 70,
-     "bgg_id": 269511,
-     "nombre": "Cooper Island",
-     "imagen": "269511.png"
-    },
-    {
-     "id": 231,
-     "bgg_id": 341286,
-     "nombre": "Eriantys",
-     "imagen": "341286.png"
-    },
-    {
-     "id": 102,
-     "bgg_id": 341245,
-     "nombre": "Garden Nation",
-     "imagen": null
-    },
-    {
-     "id": 203,
-     "bgg_id": 28023,
-     "nombre": "Jamaica",
      "imagen": null
     },
     {
@@ -6138,10 +6440,34 @@
      "imagen": null
     },
     {
-     "id": 25,
-     "bgg_id": 319392,
-     "nombre": "Luna Maris",
+     "id": 102,
+     "bgg_id": 341245,
+     "nombre": "Garden Nation",
+     "imagen": "341245.png"
+    },
+    {
+     "id": 203,
+     "bgg_id": 28023,
+     "nombre": "Jamaica",
      "imagen": null
+    },
+    {
+     "id": 70,
+     "bgg_id": 269511,
+     "nombre": "Cooper Island",
+     "imagen": "269511.png"
+    },
+    {
+     "id": 39,
+     "bgg_id": 323156,
+     "nombre": "Stroganov",
+     "imagen": null
+    },
+    {
+     "id": 231,
+     "bgg_id": 341286,
+     "nombre": "Eriantys",
+     "imagen": "341286.png"
     },
     {
      "id": 232,
@@ -6150,16 +6476,10 @@
      "imagen": "300683.png"
     },
     {
-     "id": 20,
-     "bgg_id": 237182,
-     "nombre": "Root",
-     "imagen": null
-    },
-    {
-     "id": 39,
-     "bgg_id": 323156,
-     "nombre": "Stroganov",
-     "imagen": null
+     "id": 36,
+     "bgg_id": 84876,
+     "nombre": "Castillos de Borgoña",
+     "imagen": "84876.png"
     }
    ]
   },
@@ -6168,6 +6488,18 @@
    "nombre_ubicacion": "Vitrina pared",
    "numero_balda": 6,
    "juegos": [
+    {
+     "id": 46,
+     "bgg_id": 322623,
+     "nombre": "Clockworker",
+     "imagen": "322623.png"
+    },
+    {
+     "id": 111,
+     "bgg_id": 283155,
+     "nombre": "Calico",
+     "imagen": null
+    },
     {
      "id": 53,
      "bgg_id": 31260,
@@ -6181,22 +6513,16 @@
      "imagen": "230802.png"
     },
     {
-     "id": 100,
-     "bgg_id": 346965,
-     "nombre": "Azul: Jardín de la Reina",
-     "imagen": "346965.png"
-    },
-    {
      "id": 225,
      "bgg_id": 287954,
      "nombre": "Azul: Pabellón de Verano",
      "imagen": "287954.png"
     },
     {
-     "id": 111,
-     "bgg_id": 283155,
-     "nombre": "Calico",
-     "imagen": null
+     "id": 135,
+     "bgg_id": 313963,
+     "nombre": "Cloud City",
+     "imagen": "313963.png"
     },
     {
      "id": 101,
@@ -6205,27 +6531,9 @@
      "imagen": "295947.png"
     },
     {
-     "id": 46,
-     "bgg_id": 322623,
-     "nombre": "Clockworker",
-     "imagen": "322623.png"
-    },
-    {
-     "id": 135,
-     "bgg_id": 313963,
-     "nombre": "Cloud City",
-     "imagen": null
-    },
-    {
-     "id": 241,
-     "bgg_id": 290357,
-     "nombre": "Hanabi",
-     "imagen": null
-    },
-    {
-     "id": 123,
-     "bgg_id": 414317,
-     "nombre": "Harmonies",
+     "id": 8,
+     "bgg_id": 356123,
+     "nombre": "Turing Machine",
      "imagen": null
     },
     {
@@ -6235,10 +6543,22 @@
      "imagen": "371942.png"
     },
     {
-     "id": 8,
-     "bgg_id": 356123,
-     "nombre": "Turing Machine",
-     "imagen": null
+     "id": 100,
+     "bgg_id": 346965,
+     "nombre": "Azul: Jardín de la Reina",
+     "imagen": "346965.png"
+    },
+    {
+     "id": 241,
+     "bgg_id": 290357,
+     "nombre": "Hanabi",
+     "imagen": "290357.png"
+    },
+    {
+     "id": 123,
+     "bgg_id": 414317,
+     "nombre": "Harmonies",
+     "imagen": "414317.png"
     }
    ]
   },
@@ -6369,42 +6689,6 @@
    "numero_balda": 7,
    "juegos": [
     {
-     "id": 184,
-     "bgg_id": 304051,
-     "nombre": "Creature Comforts",
-     "imagen": null
-    },
-    {
-     "id": 295,
-     "bgg_id": 299933,
-     "nombre": "Dice Flick",
-     "imagen": null
-    },
-    {
-     "id": 209,
-     "bgg_id": 283584,
-     "nombre": "El Gran Bosque",
-     "imagen": "283584.png"
-    },
-    {
-     "id": 239,
-     "bgg_id": 298635,
-     "nombre": "El Jardín de Alicia",
-     "imagen": "298635.png"
-    },
-    {
-     "id": 167,
-     "bgg_id": 323613,
-     "nombre": "Luna Capital",
-     "imagen": null
-    },
-    {
-     "id": 208,
-     "bgg_id": 209778,
-     "nombre": "Magic Maze",
-     "imagen": "209778.png"
-    },
-    {
      "id": 155,
      "bgg_id": 244191,
      "nombre": "Naga Raja",
@@ -6417,22 +6701,58 @@
      "imagen": null
     },
     {
-     "id": 257,
-     "bgg_id": 318183,
-     "nombre": "Prehistorias",
-     "imagen": "318183.png"
+     "id": 295,
+     "bgg_id": 299933,
+     "nombre": "Dice Flick",
+     "imagen": null
     },
     {
-     "id": 120,
-     "bgg_id": 241590,
-     "nombre": "Smart 10",
-     "imagen": null
+     "id": 239,
+     "bgg_id": 298635,
+     "nombre": "El Jardín de Alicia",
+     "imagen": "298635.png"
     },
     {
      "id": 150,
      "bgg_id": 148228,
      "nombre": "Splendor",
      "imagen": null
+    },
+    {
+     "id": 167,
+     "bgg_id": 323613,
+     "nombre": "Luna Capital",
+     "imagen": null
+    },
+    {
+     "id": 184,
+     "bgg_id": 304051,
+     "nombre": "Creature Comforts",
+     "imagen": null
+    },
+    {
+     "id": 257,
+     "bgg_id": 318183,
+     "nombre": "Prehistorias",
+     "imagen": "318183.png"
+    },
+    {
+     "id": 209,
+     "bgg_id": 283584,
+     "nombre": "El Gran Bosque",
+     "imagen": "283584.png"
+    },
+    {
+     "id": 208,
+     "bgg_id": 209778,
+     "nombre": "Magic Maze",
+     "imagen": "209778.png"
+    },
+    {
+     "id": 120,
+     "bgg_id": 241590,
+     "nombre": "Smart 10",
+     "imagen": "241590.png"
     }
    ]
   },
@@ -6442,27 +6762,9 @@
    "numero_balda": 8,
    "juegos": [
     {
-     "id": 175,
-     "bgg_id": 35610,
-     "nombre": "3x4=Zas!",
-     "imagen": "35610.png"
-    },
-    {
-     "id": 177,
-     "bgg_id": 346703,
-     "nombre": "7 Wonders Architects",
-     "imagen": "346703.png"
-    },
-    {
-     "id": 170,
-     "bgg_id": 260605,
-     "nombre": "Camel Up",
-     "imagen": "260605.png"
-    },
-    {
-     "id": 201,
-     "bgg_id": 1294,
-     "nombre": "Cluedo",
+     "id": 126,
+     "bgg_id": 300877,
+     "nombre": "New York Zoo",
      "imagen": null
     },
     {
@@ -6472,9 +6774,57 @@
      "imagen": null
     },
     {
+     "id": 177,
+     "bgg_id": 346703,
+     "nombre": "7 Wonders Architects",
+     "imagen": "346703.png"
+    },
+    {
+     "id": 201,
+     "bgg_id": 1294,
+     "nombre": "Cluedo",
+     "imagen": null
+    },
+    {
      "id": 33,
      "bgg_id": 157354,
      "nombre": "Five Tribes",
+     "imagen": null
+    },
+    {
+     "id": 72,
+     "bgg_id": 188866,
+     "nombre": "Incómodos Invitados",
+     "imagen": null
+    },
+    {
+     "id": 148,
+     "bgg_id": 258308,
+     "nombre": "Fuji",
+     "imagen": "258308.png"
+    },
+    {
+     "id": 95,
+     "bgg_id": 300531,
+     "nombre": "Paleo",
+     "imagen": null
+    },
+    {
+     "id": 3,
+     "bgg_id": 424280,
+     "nombre": "Hitster Bingo",
+     "imagen": "424280.png"
+    },
+    {
+     "id": 31,
+     "bgg_id": 2511,
+     "nombre": "Sherlock Holmes: Detective Asesor",
+     "imagen": "2511.png"
+    },
+    {
+     "id": 234,
+     "bgg_id": 262477,
+     "nombre": "Mercado de Lisboa",
      "imagen": null
     },
     {
@@ -6484,34 +6834,16 @@
      "imagen": "240357.png"
     },
     {
-     "id": 148,
-     "bgg_id": 258308,
-     "nombre": "Fuji",
-     "imagen": "258308.png"
-    },
-    {
      "id": 128,
      "bgg_id": 353150,
      "nombre": "Fyfe",
      "imagen": "353150.png"
     },
     {
-     "id": 3,
-     "bgg_id": 424280,
-     "nombre": "Hitster Bingo",
-     "imagen": "424280.png"
-    },
-    {
-     "id": 72,
-     "bgg_id": 188866,
-     "nombre": "Incómodos Invitados",
-     "imagen": null
-    },
-    {
-     "id": 234,
-     "bgg_id": 262477,
-     "nombre": "Mercado de Lisboa",
-     "imagen": null
+     "id": 170,
+     "bgg_id": 260605,
+     "nombre": "Camel Up",
+     "imagen": "260605.png"
     },
     {
      "id": 153,
@@ -6520,34 +6852,22 @@
      "imagen": null
     },
     {
-     "id": 126,
-     "bgg_id": 300877,
-     "nombre": "New York Zoo",
-     "imagen": null
-    },
-    {
-     "id": 95,
-     "bgg_id": 300531,
-     "nombre": "Paleo",
-     "imagen": null
-    },
-    {
-     "id": 34,
-     "bgg_id": 387780,
-     "nombre": "Ratas de Wistar",
-     "imagen": "387780.png"
-    },
-    {
      "id": 158,
      "bgg_id": 811,
      "nombre": "Rummikub Classic",
      "imagen": null
     },
     {
-     "id": 31,
-     "bgg_id": 2511,
-     "nombre": "Sherlock Holmes: Detective Asesor",
-     "imagen": "2511.png"
+     "id": 175,
+     "bgg_id": 35610,
+     "nombre": "3x4=Zas!",
+     "imagen": "35610.png"
+    },
+    {
+     "id": 34,
+     "bgg_id": 387780,
+     "nombre": "Ratas de Wistar",
+     "imagen": "387780.png"
     }
    ]
   }
