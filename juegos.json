@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05T10:33:05+00:00",
+ "generado": "2026-11-05T12:55:25+00:00",
  "juegos": [
   {
    "id": 175,
@@ -95,7 +95,7 @@
    "id": 2,
    "bgg_id": 267814,
    "nombre": "Adventure Games: Monocromo S.A.",
-   "imagen": null,
+   "imagen": "267814.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 10,
@@ -167,7 +167,7 @@
    "id": 212,
    "bgg_id": 42206,
    "nombre": "Alto Voltaje",
-   "imagen": null,
+   "imagen": "42206.png",
    "categoria_id": 7,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -419,7 +419,7 @@
    "id": 187,
    "bgg_id": 399011,
    "nombre": "Barrio",
-   "imagen": null,
+   "imagen": "399011.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 8,
@@ -437,7 +437,7 @@
    "id": 14,
    "bgg_id": 248761,
    "nombre": "Bat Cup",
-   "imagen": null,
+   "imagen": "248761.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": 10,
@@ -455,7 +455,7 @@
    "id": 317,
    "bgg_id": 91512,
    "nombre": "Bellaflor",
-   "imagen": null,
+   "imagen": "91512.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -473,7 +473,7 @@
    "id": 280,
    "bgg_id": 242546,
    "nombre": "Bichos",
-   "imagen": null,
+   "imagen": "242546.png",
    "categoria_id": 5,
    "mecanica_id": 7,
    "tematica_id": 7,
@@ -491,7 +491,7 @@
    "id": 40,
    "bgg_id": 96345,
    "nombre": "Black Stories: 50 Misterios Reales - Muertes Ridículas",
-   "imagen": null,
+   "imagen": "96345.png",
    "categoria_id": 4,
    "mecanica_id": 10,
    "tematica_id": 6,
@@ -527,7 +527,7 @@
    "id": 298,
    "bgg_id": 322677,
    "nombre": "Bom Bar Dum!",
-   "imagen": null,
+   "imagen": "322677.png",
    "categoria_id": 4,
    "mecanica_id": 7,
    "tematica_id": 10,
@@ -545,7 +545,7 @@
    "id": 44,
    "bgg_id": 304420,
    "nombre": "Bonfire",
-   "imagen": null,
+   "imagen": "304420.png",
    "categoria_id": 1,
    "mecanica_id": 1,
    "tematica_id": 1,
@@ -599,7 +599,7 @@
    "id": 111,
    "bgg_id": 283155,
    "nombre": "Calico",
-   "imagen": null,
+   "imagen": "283155.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 7,
@@ -635,7 +635,7 @@
    "id": 304,
    "bgg_id": 203788,
    "nombre": "Candy Time",
-   "imagen": null,
+   "imagen": "203788.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -653,7 +653,7 @@
    "id": 137,
    "bgg_id": 290236,
    "nombre": "Canvas",
-   "imagen": null,
+   "imagen": "290236.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -689,7 +689,7 @@
    "id": 264,
    "bgg_id": 822,
    "nombre": "Carcassonne",
-   "imagen": null,
+   "imagen": "822.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 4,
@@ -941,7 +941,7 @@
    "id": 201,
    "bgg_id": 1294,
    "nombre": "Cluedo",
-   "imagen": null,
+   "imagen": "1294.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 10,
@@ -1049,7 +1049,7 @@
    "id": 140,
    "bgg_id": 147151,
    "nombre": "Concept",
-   "imagen": null,
+   "imagen": "147151.png",
    "categoria_id": 4,
    "mecanica_id": 10,
    "tematica_id": null,
@@ -1103,7 +1103,7 @@
    "id": 162,
    "bgg_id": 237629,
    "nombre": "Cortex 2",
-   "imagen": null,
+   "imagen": "237629.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -1121,7 +1121,7 @@
    "id": 184,
    "bgg_id": 304051,
    "nombre": "Creature Comforts",
-   "imagen": null,
+   "imagen": "304051.png",
    "categoria_id": 3,
    "mecanica_id": 2,
    "tematica_id": 7,
@@ -1139,7 +1139,7 @@
    "id": 186,
    "bgg_id": 245476,
    "nombre": "CuBirds",
-   "imagen": null,
+   "imagen": "245476.png",
    "categoria_id": 3,
    "mecanica_id": 8,
    "tematica_id": 7,
@@ -1147,6 +1147,24 @@
    "edad": "+8",
    "duracion": "20",
    "publicacion": 2018,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
+   "id": 211,
+   "bgg_id": 356115,
+   "nombre": "Cuentos de buenas noches para niñas rebeldes",
+   "imagen": "356115.png",
+   "categoria_id": 5,
+   "mecanica_id": 10,
+   "tematica_id": 4,
+   "jugadores": "2-99",
+   "edad": "+8",
+   "duracion": "20",
+   "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -1193,7 +1211,7 @@
    "id": 178,
    "bgg_id": 397227,
    "nombre": "Deductio",
-   "imagen": null,
+   "imagen": "397227.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -1247,7 +1265,7 @@
    "id": 250,
    "bgg_id": 39856,
    "nombre": "Dixit",
-   "imagen": null,
+   "imagen": "39856.png",
    "categoria_id": 4,
    "mecanica_id": 4,
    "tematica_id": 1,
@@ -1283,7 +1301,7 @@
    "id": 293,
    "bgg_id": 63268,
    "nombre": "Dobble",
-   "imagen": null,
+   "imagen": "63268.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -1337,7 +1355,7 @@
    "id": 194,
    "bgg_id": 264055,
    "nombre": "Draftosaurus",
-   "imagen": null,
+   "imagen": "264055.png",
    "categoria_id": 3,
    "mecanica_id": 12,
    "tematica_id": 7,
@@ -1363,24 +1381,6 @@
    "edad": "+8",
    "duracion": "30-45",
    "publicacion": 2017,
-   "deseado": false,
-   "en_camino": false,
-   "prestado": false,
-   "otra_ludoteca": false,
-   "fuera_coleccion": false
-  },
-  {
-   "id": 211,
-   "bgg_id": 356115,
-   "nombre": "Dreams for Rebel Girls",
-   "imagen": null,
-   "categoria_id": 5,
-   "mecanica_id": 10,
-   "tematica_id": 4,
-   "jugadores": "2-99",
-   "edad": "+8",
-   "duracion": "20",
-   "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -1427,7 +1427,7 @@
    "id": 99,
    "bgg_id": 234691,
    "nombre": "El Enigma de los Templos",
-   "imagen": null,
+   "imagen": "234691.png",
    "categoria_id": 3,
    "mecanica_id": 8,
    "tematica_id": 10,
@@ -1535,7 +1535,7 @@
    "id": 77,
    "bgg_id": 307170,
    "nombre": "El Valle Secreto",
-   "imagen": null,
+   "imagen": "307170.png",
    "categoria_id": 1,
    "mecanica_id": 2,
    "tematica_id": 10,
@@ -1553,7 +1553,7 @@
    "id": 78,
    "bgg_id": 68425,
    "nombre": "Eminent Domain: Microcosm",
-   "imagen": null,
+   "imagen": "68425.png",
    "categoria_id": 1,
    "mecanica_id": 3,
    "tematica_id": 3,
@@ -1661,7 +1661,7 @@
    "id": 300,
    "bgg_id": 177524,
    "nombre": "Escuela de Pingüinos",
-   "imagen": null,
+   "imagen": "177524.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -1697,7 +1697,7 @@
    "id": 79,
    "bgg_id": 199792,
    "nombre": "Everdell",
-   "imagen": null,
+   "imagen": "199792.png",
    "categoria_id": 1,
    "mecanica_id": 2,
    "tematica_id": 7,
@@ -2003,7 +2003,7 @@
    "id": 66,
    "bgg_id": 366318,
    "nombre": "EXIT: La Desaparición de Sherlock Holmes",
-   "imagen": null,
+   "imagen": "366318.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 4,
@@ -2021,7 +2021,7 @@
    "id": 62,
    "bgg_id": 215842,
    "nombre": "EXIT: La Estación Polar",
-   "imagen": null,
+   "imagen": "215842.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 10,
@@ -2039,7 +2039,7 @@
    "id": 86,
    "bgg_id": 269968,
    "nombre": "EXIT: La Feria Terrorífica",
-   "imagen": null,
+   "imagen": "269968.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 6,
@@ -2075,7 +2075,7 @@
    "id": 69,
    "bgg_id": 226520,
    "nombre": "EXIT: La Mansión Siniestra",
-   "imagen": null,
+   "imagen": "226520.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 6,
@@ -2093,7 +2093,7 @@
    "id": 73,
    "bgg_id": 203416,
    "nombre": "EXIT: La Tumba del Faraón",
-   "imagen": null,
+   "imagen": "203416.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 4,
@@ -2165,7 +2165,7 @@
    "id": 55,
    "bgg_id": 283934,
    "nombre": "EXIT: Robo en el Misisipi",
-   "imagen": null,
+   "imagen": "283934.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 10,
@@ -2183,7 +2183,7 @@
    "id": 81,
    "bgg_id": 324853,
    "nombre": "EXIT: Secuestro en Fortune City",
-   "imagen": null,
+   "imagen": "324853.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 10,
@@ -2201,7 +2201,7 @@
    "id": 56,
    "bgg_id": 283797,
    "nombre": "EXIT: Vuelo hacia lo Desconocido",
-   "imagen": null,
+   "imagen": "283797.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 10,
@@ -2219,7 +2219,7 @@
    "id": 233,
    "bgg_id": 436219,
    "nombre": "Experimento 626",
-   "imagen": null,
+   "imagen": "436219.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": 2,
@@ -2273,7 +2273,7 @@
    "id": 168,
    "bgg_id": 288775,
    "nombre": "Fairy Trails",
-   "imagen": null,
+   "imagen": "288775.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 1,
@@ -2363,7 +2363,7 @@
    "id": 33,
    "bgg_id": 157354,
    "nombre": "Five Tribes",
-   "imagen": null,
+   "imagen": "157354.png",
    "categoria_id": 1,
    "mecanica_id": 5,
    "tematica_id": 9,
@@ -2702,10 +2702,28 @@
    "fuera_coleccion": false
   },
   {
+   "id": 49,
+   "bgg_id": 371972,
+   "nombre": "Ierusalem: Anno Domini",
+   "imagen": "371972.png",
+   "categoria_id": 1,
+   "mecanica_id": 2,
+   "tematica_id": 4,
+   "jugadores": "1-4",
+   "edad": "+12",
+   "duracion": "90",
+   "publicacion": 2023,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false
+  },
+  {
    "id": 72,
    "bgg_id": 188866,
    "nombre": "Incómodos Invitados",
-   "imagen": null,
+   "imagen": "188866.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 4,
@@ -2741,7 +2759,7 @@
    "id": 183,
    "bgg_id": 117663,
    "nombre": "Isla Calavera",
-   "imagen": null,
+   "imagen": "117663.png",
    "categoria_id": 3,
    "mecanica_id": 7,
    "tematica_id": 10,
@@ -2759,7 +2777,7 @@
    "id": 203,
    "bgg_id": 28023,
    "nombre": "Jamaica",
-   "imagen": null,
+   "imagen": "28023.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 10,
@@ -2767,24 +2785,6 @@
    "edad": "+8",
    "duracion": "30-60",
    "publicacion": 2007,
-   "deseado": false,
-   "en_camino": false,
-   "prestado": false,
-   "otra_ludoteca": false,
-   "fuera_coleccion": false
-  },
-  {
-   "id": 49,
-   "bgg_id": 371972,
-   "nombre": "Jerusalem: Anno Domini",
-   "imagen": null,
-   "categoria_id": 1,
-   "mecanica_id": 2,
-   "tematica_id": 4,
-   "jugadores": "1-4",
-   "edad": "+12",
-   "duracion": "90",
-   "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -2867,7 +2867,7 @@
    "id": 254,
    "bgg_id": 204583,
    "nombre": "Kingdomino",
-   "imagen": null,
+   "imagen": "204583.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 1,
@@ -2921,7 +2921,7 @@
    "id": 263,
    "bgg_id": 326908,
    "nombre": "La Morada Maldita",
-   "imagen": null,
+   "imagen": "326908.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 6,
@@ -3083,7 +3083,7 @@
    "id": 174,
    "bgg_id": 172235,
    "nombre": "Los Gatos de Schrödinger",
-   "imagen": null,
+   "imagen": "172235.png",
    "categoria_id": 4,
    "mecanica_id": 6,
    "tematica_id": 2,
@@ -3119,7 +3119,7 @@
    "id": 243,
    "bgg_id": 118247,
    "nombre": "Lucky Numbers",
-   "imagen": null,
+   "imagen": "118247.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -3137,7 +3137,7 @@
    "id": 167,
    "bgg_id": 323613,
    "nombre": "Luna Capital",
-   "imagen": null,
+   "imagen": "323613.png",
    "categoria_id": 1,
    "mecanica_id": 1,
    "tematica_id": 3,
@@ -3173,7 +3173,7 @@
    "id": 283,
    "bgg_id": 246203,
    "nombre": "Magic Mandala",
-   "imagen": null,
+   "imagen": "246203.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 9,
@@ -3209,7 +3209,7 @@
    "id": 210,
    "bgg_id": 287228,
    "nombre": "Mal Trago",
-   "imagen": null,
+   "imagen": "287228.png",
    "categoria_id": 4,
    "mecanica_id": 7,
    "tematica_id": null,
@@ -3245,7 +3245,7 @@
    "id": 281,
    "bgg_id": 347616,
    "nombre": "Manda Huevos",
-   "imagen": null,
+   "imagen": "347616.png",
    "categoria_id": 4,
    "mecanica_id": 4,
    "tematica_id": 10,
@@ -3263,7 +3263,7 @@
    "id": 267,
    "bgg_id": 358690,
    "nombre": "Mantis",
-   "imagen": null,
+   "imagen": "358690.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -3317,7 +3317,7 @@
    "id": 309,
    "bgg_id": 355927,
    "nombre": "Medio Monstruo",
-   "imagen": null,
+   "imagen": "355927.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -3335,7 +3335,7 @@
    "id": 228,
    "bgg_id": 355801,
    "nombre": "Mediterráneo",
-   "imagen": null,
+   "imagen": "355801.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 4,
@@ -3371,7 +3371,7 @@
    "id": 234,
    "bgg_id": 262477,
    "nombre": "Mercado de Lisboa",
-   "imagen": null,
+   "imagen": "262477.png",
    "categoria_id": 1,
    "mecanica_id": 4,
    "tematica_id": 8,
@@ -3425,7 +3425,7 @@
    "id": 32,
    "bgg_id": 299249,
    "nombre": "Mint Control",
-   "imagen": null,
+   "imagen": "299249.png",
    "categoria_id": 1,
    "mecanica_id": 5,
    "tematica_id": 8,
@@ -3461,7 +3461,7 @@
    "id": 252,
    "bgg_id": 322282,
    "nombre": "Momiji",
-   "imagen": null,
+   "imagen": "322282.png",
    "categoria_id": 3,
    "mecanica_id": 12,
    "tematica_id": 7,
@@ -3479,7 +3479,7 @@
    "id": 316,
    "bgg_id": 213421,
    "nombre": "Monster Kit",
-   "imagen": null,
+   "imagen": "213421.png",
    "categoria_id": 5,
    "mecanica_id": 10,
    "tematica_id": 1,
@@ -3497,7 +3497,7 @@
    "id": 153,
    "bgg_id": 359394,
    "nombre": "My Island",
-   "imagen": null,
+   "imagen": "359394.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 10,
@@ -3533,7 +3533,7 @@
    "id": 155,
    "bgg_id": 244191,
    "nombre": "Naga Raja",
-   "imagen": null,
+   "imagen": "244191.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 10,
@@ -3551,7 +3551,7 @@
    "id": 126,
    "bgg_id": 300877,
    "nombre": "New York Zoo",
-   "imagen": null,
+   "imagen": "300877.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 7,
@@ -3569,7 +3569,7 @@
    "id": 108,
    "bgg_id": 218556,
    "nombre": "No Game Over",
-   "imagen": null,
+   "imagen": "218556.png",
    "categoria_id": 7,
    "mecanica_id": 4,
    "tematica_id": 10,
@@ -3623,7 +3623,7 @@
    "id": 265,
    "bgg_id": 251412,
    "nombre": "On Tour",
-   "imagen": null,
+   "imagen": "251412.png",
    "categoria_id": 3,
    "mecanica_id": 7,
    "tematica_id": 10,
@@ -3641,7 +3641,7 @@
    "id": 223,
    "bgg_id": 345641,
    "nombre": "One Finger!",
-   "imagen": null,
+   "imagen": "345641.png",
    "categoria_id": 4,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -3659,7 +3659,7 @@
    "id": 274,
    "bgg_id": 409481,
    "nombre": "Operación Granja",
-   "imagen": null,
+   "imagen": "409481.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -3713,7 +3713,7 @@
    "id": 95,
    "bgg_id": 300531,
    "nombre": "Paleo",
-   "imagen": null,
+   "imagen": "300531.png",
    "categoria_id": 1,
    "mecanica_id": 10,
    "tematica_id": 4,
@@ -3767,7 +3767,7 @@
    "id": 132,
    "bgg_id": 330517,
    "nombre": "Paradice",
-   "imagen": null,
+   "imagen": "330517.png",
    "categoria_id": 7,
    "mecanica_id": 7,
    "tematica_id": 10,
@@ -3785,7 +3785,7 @@
    "id": 107,
    "bgg_id": 359892,
    "nombre": "Paren la Nave que me Bajo",
-   "imagen": null,
+   "imagen": "359892.png",
    "categoria_id": 4,
    "mecanica_id": 4,
    "tematica_id": 10,
@@ -3875,7 +3875,7 @@
    "id": 96,
    "bgg_id": 257582,
    "nombre": "Periodic: El Juego de los Elementos",
-   "imagen": null,
+   "imagen": "257582.png",
    "categoria_id": 3,
    "mecanica_id": 8,
    "tematica_id": 2,
@@ -3893,7 +3893,7 @@
    "id": 191,
    "bgg_id": 45,
    "nombre": "Perudo",
-   "imagen": null,
+   "imagen": "45.png",
    "categoria_id": 4,
    "mecanica_id": 7,
    "tematica_id": 10,
@@ -3911,7 +3911,7 @@
    "id": 109,
    "bgg_id": 218603,
    "nombre": "Photosynthesis",
-   "imagen": null,
+   "imagen": "218603.png",
    "categoria_id": 1,
    "mecanica_id": 5,
    "tematica_id": 7,
@@ -3947,7 +3947,7 @@
    "id": 245,
    "bgg_id": 153225,
    "nombre": "Pick a Foca",
-   "imagen": null,
+   "imagen": "153225.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -3983,7 +3983,7 @@
    "id": 230,
    "bgg_id": 15818,
    "nombre": "Piko Piko el Gusanito",
-   "imagen": null,
+   "imagen": "15818.png",
    "categoria_id": 3,
    "mecanica_id": 7,
    "tematica_id": 7,
@@ -4001,7 +4001,7 @@
    "id": 251,
    "bgg_id": 206931,
    "nombre": "Plenus",
-   "imagen": null,
+   "imagen": "206931.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -4217,7 +4217,7 @@
    "id": 90,
    "bgg_id": 307002,
    "nombre": "Regicide",
-   "imagen": null,
+   "imagen": "307002.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 1,
@@ -4253,7 +4253,7 @@
    "id": 303,
    "bgg_id": 91514,
    "nombre": "Rhino Hero",
-   "imagen": null,
+   "imagen": "91514.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -4271,7 +4271,7 @@
    "id": 189,
    "bgg_id": 37728,
    "nombre": "Ritmo y Bola",
-   "imagen": null,
+   "imagen": "37728.png",
    "categoria_id": 4,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -4307,7 +4307,7 @@
    "id": 20,
    "bgg_id": 237182,
    "nombre": "Root",
-   "imagen": null,
+   "imagen": "237182.png",
    "categoria_id": 1,
    "mecanica_id": 5,
    "tematica_id": 5,
@@ -4325,7 +4325,7 @@
    "id": 291,
    "bgg_id": 20545,
    "nombre": "Rory's Story Cubes: Classic",
-   "imagen": null,
+   "imagen": "20545.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 1,
@@ -4343,7 +4343,7 @@
    "id": 158,
    "bgg_id": 811,
    "nombre": "Rummikub Classic",
-   "imagen": null,
+   "imagen": "811.png",
    "categoria_id": 8,
    "mecanica_id": 8,
    "tematica_id": null,
@@ -4379,7 +4379,7 @@
    "id": 199,
    "bgg_id": 367220,
    "nombre": "Salton Sea",
-   "imagen": null,
+   "imagen": "367220.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -4415,7 +4415,7 @@
    "id": 236,
    "bgg_id": 194655,
    "nombre": "Santorini",
-   "imagen": null,
+   "imagen": "194655.png",
    "categoria_id": 8,
    "mecanica_id": 5,
    "tematica_id": 9,
@@ -4469,7 +4469,7 @@
    "id": 262,
    "bgg_id": 271774,
    "nombre": "Sherlock Express",
-   "imagen": null,
+   "imagen": "271774.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 10,
@@ -4505,7 +4505,7 @@
    "id": 30,
    "bgg_id": 255984,
    "nombre": "Sleeping Gods",
-   "imagen": null,
+   "imagen": "255984.png",
    "categoria_id": 2,
    "mecanica_id": 10,
    "tematica_id": 10,
@@ -4541,7 +4541,7 @@
    "id": 113,
    "bgg_id": 254103,
    "nombre": "Smiles & Daggers",
-   "imagen": null,
+   "imagen": "254103.png",
    "categoria_id": 4,
    "mecanica_id": 6,
    "tematica_id": 10,
@@ -4559,7 +4559,7 @@
    "id": 17,
    "bgg_id": 59959,
    "nombre": "Sombra sobre Londres",
-   "imagen": null,
+   "imagen": "59959.png",
    "categoria_id": 2,
    "mecanica_id": 6,
    "tematica_id": 4,
@@ -4649,7 +4649,7 @@
    "id": 150,
    "bgg_id": 148228,
    "nombre": "Splendor",
-   "imagen": null,
+   "imagen": "148228.png",
    "categoria_id": 3,
    "mecanica_id": 8,
    "tematica_id": 8,
@@ -4685,7 +4685,7 @@
    "id": 217,
    "bgg_id": 329845,
    "nombre": "Stella: Dixit Universe",
-   "imagen": null,
+   "imagen": "329845.png",
    "categoria_id": 4,
    "mecanica_id": 4,
    "tematica_id": 1,
@@ -4721,7 +4721,7 @@
    "id": 39,
    "bgg_id": 323156,
    "nombre": "Stroganov",
-   "imagen": null,
+   "imagen": "323156.png",
    "categoria_id": 1,
    "mecanica_id": 1,
    "tematica_id": 4,
@@ -4775,7 +4775,7 @@
    "id": 196,
    "bgg_id": 70919,
    "nombre": "Takenoko",
-   "imagen": null,
+   "imagen": "70919.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 7,
@@ -4793,7 +4793,7 @@
    "id": 242,
    "bgg_id": 373636,
    "nombre": "Takenokolor",
-   "imagen": null,
+   "imagen": "373636.png",
    "categoria_id": 3,
    "mecanica_id": 7,
    "tematica_id": 7,
@@ -4865,7 +4865,7 @@
    "id": 181,
    "bgg_id": 307450,
    "nombre": "The number",
-   "imagen": null,
+   "imagen": "307450.png",
    "categoria_id": 7,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -4919,7 +4919,7 @@
    "id": 320,
    "bgg_id": 33495,
    "nombre": "Time's Up! Celebrity 3",
-   "imagen": null,
+   "imagen": "33495.png",
    "categoria_id": 4,
    "mecanica_id": 10,
    "tematica_id": 4,
@@ -4937,7 +4937,7 @@
    "id": 37,
    "bgg_id": 38713,
    "nombre": "Time's Up! Edición Amarilla",
-   "imagen": null,
+   "imagen": "38713.png",
    "categoria_id": 4,
    "mecanica_id": 10,
    "tematica_id": 4,
@@ -4973,7 +4973,7 @@
    "id": 35,
    "bgg_id": 230262,
    "nombre": "Time's Up! Party",
-   "imagen": null,
+   "imagen": "230262.png",
    "categoria_id": 4,
    "mecanica_id": 10,
    "tematica_id": 4,
@@ -5027,7 +5027,7 @@
    "id": 145,
    "bgg_id": 17027,
    "nombre": "Tiro al Pato",
-   "imagen": null,
+   "imagen": "17027.png",
    "categoria_id": 5,
    "mecanica_id": 7,
    "tematica_id": 10,
@@ -5045,7 +5045,7 @@
    "id": 216,
    "bgg_id": 261901,
    "nombre": "Tokyo Highway",
-   "imagen": null,
+   "imagen": "261901.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -5099,7 +5099,7 @@
    "id": 204,
    "bgg_id": 287038,
    "nombre": "Traffic Jam",
-   "imagen": null,
+   "imagen": "287038.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -5117,7 +5117,7 @@
    "id": 284,
    "bgg_id": 256621,
    "nombre": "Train Silvania",
-   "imagen": null,
+   "imagen": "256621.png",
    "categoria_id": 5,
    "mecanica_id": 7,
    "tematica_id": 6,
@@ -5171,7 +5171,7 @@
    "id": 287,
    "bgg_id": 335994,
    "nombre": "Trending Kittens",
-   "imagen": null,
+   "imagen": "335994.png",
    "categoria_id": 5,
    "mecanica_id": 4,
    "tematica_id": 7,
@@ -5207,7 +5207,7 @@
    "id": 54,
    "bgg_id": 15431,
    "nombre": "Trivial Mapa Mundo",
-   "imagen": null,
+   "imagen": "15431.png",
    "categoria_id": 4,
    "mecanica_id": 7,
    "tematica_id": 4,
@@ -5225,7 +5225,7 @@
    "id": 4,
    "bgg_id": 1299,
    "nombre": "Trivial Pursuit",
-   "imagen": null,
+   "imagen": "1299.png",
    "categoria_id": 4,
    "mecanica_id": 7,
    "tematica_id": 4,
@@ -5261,7 +5261,7 @@
    "id": 5,
    "bgg_id": 94941,
    "nombre": "Trivial Pursuit: Genus Edición II",
-   "imagen": null,
+   "imagen": "94941.png",
    "categoria_id": 4,
    "mecanica_id": 7,
    "tematica_id": 4,
@@ -5279,7 +5279,7 @@
    "id": 207,
    "bgg_id": 270168,
    "nombre": "Tuki",
-   "imagen": null,
+   "imagen": "270168.png",
    "categoria_id": 3,
    "mecanica_id": 1,
    "tematica_id": 7,
@@ -5315,7 +5315,7 @@
    "id": 248,
    "bgg_id": 217475,
    "nombre": "Twenty One",
-   "imagen": null,
+   "imagen": "217475.png",
    "categoria_id": 7,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -5369,7 +5369,7 @@
    "id": 272,
    "bgg_id": 28258,
    "nombre": "Ubongo mini",
-   "imagen": null,
+   "imagen": "28258.png",
    "categoria_id": 8,
    "mecanica_id": 1,
    "tematica_id": null,
@@ -5458,8 +5458,8 @@
   {
    "id": 117,
    "bgg_id": 392192,
-   "nombre": "Unlock! Miniaventuras: Asesinato en Birmingham ",
-   "imagen": null,
+   "nombre": "Unlock! Miniaventuras: Asesinato en Birmingham",
+   "imagen": "392192.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 10,
@@ -5469,7 +5469,7 @@
    "publicacion": 2023,
    "deseado": false,
    "en_camino": false,
-   "prestado": false,
+   "prestado": true,
    "otra_ludoteca": false,
    "fuera_coleccion": false
   },
@@ -5477,7 +5477,7 @@
    "id": 119,
    "bgg_id": 368037,
    "nombre": "Unlock! Miniaventuras: El Despertar de la Momia",
-   "imagen": null,
+   "imagen": "368037.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 4,
@@ -5495,7 +5495,7 @@
    "id": 106,
    "bgg_id": 455101,
    "nombre": "Unlock!: Enchanted Adventures",
-   "imagen": null,
+   "imagen": "455101.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 1,
@@ -5505,7 +5505,7 @@
    "publicacion": 2025,
    "deseado": false,
    "en_camino": false,
-   "prestado": false,
+   "prestado": true,
    "otra_ludoteca": false,
    "fuera_coleccion": false
   },
@@ -5513,7 +5513,7 @@
    "id": 154,
    "bgg_id": 350636,
    "nombre": "Unlock!: Game Adventures",
-   "imagen": null,
+   "imagen": "350636.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 10,
@@ -5549,7 +5549,7 @@
    "id": 297,
    "bgg_id": 2223,
    "nombre": "UNO",
-   "imagen": null,
+   "imagen": "2223.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -5567,7 +5567,7 @@
    "id": 87,
    "bgg_id": 261614,
    "nombre": "Unánimo Party",
-   "imagen": null,
+   "imagen": "261614.png",
    "categoria_id": 4,
    "mecanica_id": 10,
    "tematica_id": null,
@@ -5585,7 +5585,7 @@
    "id": 271,
    "bgg_id": 358805,
    "nombre": "Vagoneta Infernal",
-   "imagen": null,
+   "imagen": "358805.png",
    "categoria_id": 3,
    "mecanica_id": 10,
    "tematica_id": 10,
@@ -5621,7 +5621,7 @@
    "id": 136,
    "bgg_id": 339789,
    "nombre": "Welcome to the Moon",
-   "imagen": null,
+   "imagen": "339789.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": 3,
@@ -5657,7 +5657,7 @@
    "id": 42,
    "bgg_id": 355093,
    "nombre": "Woodcraft",
-   "imagen": null,
+   "imagen": "355093.png",
    "categoria_id": 1,
    "mecanica_id": 2,
    "tematica_id": 7,
@@ -5747,7 +5747,7 @@
    "id": 190,
    "bgg_id": 371544,
    "nombre": "¿Friegas tú?",
-   "imagen": null,
+   "imagen": "371544.png",
    "categoria_id": 3,
    "mecanica_id": 4,
    "tematica_id": null,
@@ -5937,22 +5937,22 @@
      "imagen": "312484.png"
     },
     {
-     "id": 13,
-     "bgg_id": 383607,
-     "nombre": "Barcelona",
-     "imagen": "383607.png"
+     "id": 109,
+     "bgg_id": 218603,
+     "nombre": "Photosynthesis",
+     "imagen": "218603.png"
     },
     {
      "id": 30,
      "bgg_id": 255984,
      "nombre": "Sleeping Gods",
-     "imagen": null
+     "imagen": "255984.png"
     },
     {
-     "id": 109,
-     "bgg_id": 218603,
-     "nombre": "Photosynthesis",
-     "imagen": null
+     "id": 13,
+     "bgg_id": 383607,
+     "nombre": "Barcelona",
+     "imagen": "383607.png"
     },
     {
      "id": 29,
@@ -5983,7 +5983,7 @@
      "id": 44,
      "bgg_id": 304420,
      "nombre": "Bonfire",
-     "imagen": null
+     "imagen": "304420.png"
     },
     {
      "id": 23,
@@ -6010,16 +6010,10 @@
      "imagen": "351913.png"
     },
     {
-     "id": 42,
-     "bgg_id": 355093,
-     "nombre": "Woodcraft",
-     "imagen": null
-    },
-    {
      "id": 79,
      "bgg_id": 199792,
      "nombre": "Everdell",
-     "imagen": null
+     "imagen": "199792.png"
     },
     {
      "id": 89,
@@ -6032,6 +6026,12 @@
      "bgg_id": 342942,
      "nombre": "Ark Nova",
      "imagen": "342942.png"
+    },
+    {
+     "id": 42,
+     "bgg_id": 355093,
+     "nombre": "Woodcraft",
+     "imagen": "355093.png"
     },
     {
      "id": 6,
@@ -6120,40 +6120,40 @@
      "imagen": "279537.png"
     },
     {
-     "id": 14,
-     "bgg_id": 248761,
-     "nombre": "Bat Cup",
-     "imagen": null
+     "id": 250,
+     "bgg_id": 39856,
+     "nombre": "Dixit",
+     "imagen": "39856.png"
     },
     {
      "id": 242,
      "bgg_id": 373636,
      "nombre": "Takenokolor",
-     "imagen": null
-    },
-    {
-     "id": 140,
-     "bgg_id": 147151,
-     "nombre": "Concept",
-     "imagen": null
+     "imagen": "373636.png"
     },
     {
      "id": 196,
      "bgg_id": 70919,
      "nombre": "Takenoko",
-     "imagen": null
+     "imagen": "70919.png"
     },
     {
      "id": 217,
      "bgg_id": 329845,
      "nombre": "Stella: Dixit Universe",
-     "imagen": null
+     "imagen": "329845.png"
     },
     {
-     "id": 250,
-     "bgg_id": 39856,
-     "nombre": "Dixit",
-     "imagen": null
+     "id": 14,
+     "bgg_id": 248761,
+     "nombre": "Bat Cup",
+     "imagen": "248761.png"
+    },
+    {
+     "id": 140,
+     "bgg_id": 147151,
+     "nombre": "Concept",
+     "imagen": "147151.png"
     }
    ]
   },
@@ -6169,22 +6169,34 @@
      "imagen": "180974.png"
     },
     {
+     "id": 17,
+     "bgg_id": 59959,
+     "nombre": "Sombra sobre Londres",
+     "imagen": "59959.png"
+    },
+    {
+     "id": 216,
+     "bgg_id": 261901,
+     "nombre": "Tokyo Highway",
+     "imagen": "261901.png"
+    },
+    {
      "id": 163,
      "bgg_id": 182189,
      "nombre": "Treasure Hunters",
      "imagen": "182189.png"
     },
     {
+     "id": 181,
+     "bgg_id": 307450,
+     "nombre": "The number",
+     "imagen": "307450.png"
+    },
+    {
      "id": 166,
      "bgg_id": 14996,
      "nombre": "Aventureros al Tren: Europa",
      "imagen": "14996.png"
-    },
-    {
-     "id": 181,
-     "bgg_id": 307450,
-     "nombre": "The number",
-     "imagen": null
     },
     {
      "id": 43,
@@ -6199,12 +6211,6 @@
      "imagen": "296626.png"
     },
     {
-     "id": 216,
-     "bgg_id": 261901,
-     "nombre": "Tokyo Highway",
-     "imagen": null
-    },
-    {
      "id": 138,
      "bgg_id": 244521,
      "nombre": "Pócimas y Brebajes",
@@ -6215,18 +6221,6 @@
      "bgg_id": 2653,
      "nombre": "The Island",
      "imagen": "2653.png"
-    },
-    {
-     "id": 17,
-     "bgg_id": 59959,
-     "nombre": "Sombra sobre Londres",
-     "imagen": null
-    },
-    {
-     "id": 236,
-     "bgg_id": 194655,
-     "nombre": "Santorini",
-     "imagen": null
     },
     {
      "id": 94,
@@ -6241,12 +6235,6 @@
      "imagen": "181304.png"
     },
     {
-     "id": 272,
-     "bgg_id": 28258,
-     "nombre": "Ubongo mini",
-     "imagen": null
-    },
-    {
      "id": 221,
      "bgg_id": 232219,
      "nombre": "Dragon Castle",
@@ -6257,6 +6245,18 @@
      "bgg_id": 314402,
      "nombre": "Ubongo",
      "imagen": "314402.png"
+    },
+    {
+     "id": 272,
+     "bgg_id": 28258,
+     "nombre": "Ubongo mini",
+     "imagen": "28258.png"
+    },
+    {
+     "id": 236,
+     "bgg_id": 194655,
+     "nombre": "Santorini",
+     "imagen": "194655.png"
     }
    ]
   },
@@ -6266,46 +6266,52 @@
    "numero_balda": 3,
    "juegos": [
     {
+     "id": 284,
+     "bgg_id": 256621,
+     "nombre": "Train Silvania",
+     "imagen": "256621.png"
+    },
+    {
+     "id": 194,
+     "bgg_id": 264055,
+     "nombre": "Draftosaurus",
+     "imagen": "264055.png"
+    },
+    {
+     "id": 189,
+     "bgg_id": 37728,
+     "nombre": "Ritmo y Bola",
+     "imagen": "37728.png"
+    },
+    {
+     "id": 223,
+     "bgg_id": 345641,
+     "nombre": "One Finger!",
+     "imagen": "345641.png"
+    },
+    {
+     "id": 252,
+     "bgg_id": 322282,
+     "nombre": "Momiji",
+     "imagen": "322282.png"
+    },
+    {
      "id": 107,
      "bgg_id": 359892,
      "nombre": "Paren la Nave que me Bajo",
-     "imagen": null
+     "imagen": "359892.png"
     },
     {
      "id": 113,
      "bgg_id": 254103,
      "nombre": "Smiles & Daggers",
-     "imagen": null
-    },
-    {
-     "id": 136,
-     "bgg_id": 339789,
-     "nombre": "Welcome to the Moon",
-     "imagen": null
+     "imagen": "254103.png"
     },
     {
      "id": 147,
      "bgg_id": 478,
      "nombre": "Ciudadelas",
      "imagen": "478.png"
-    },
-    {
-     "id": 168,
-     "bgg_id": 288775,
-     "nombre": "Fairy Trails",
-     "imagen": null
-    },
-    {
-     "id": 207,
-     "bgg_id": 270168,
-     "nombre": "Tuki",
-     "imagen": null
-    },
-    {
-     "id": 199,
-     "bgg_id": 367220,
-     "nombre": "Salton Sea",
-     "imagen": null
     },
     {
      "id": 202,
@@ -6326,82 +6332,46 @@
      "imagen": "432459.png"
     },
     {
-     "id": 281,
-     "bgg_id": 347616,
-     "nombre": "Manda Huevos",
-     "imagen": null
-    },
-    {
-     "id": 186,
-     "bgg_id": 245476,
-     "nombre": "CuBirds",
-     "imagen": null
-    },
-    {
      "id": 97,
      "bgg_id": 351605,
      "nombre": "Bohnanza",
      "imagen": "351605.png"
     },
     {
-     "id": 162,
-     "bgg_id": 237629,
-     "nombre": "Cortex 2",
-     "imagen": null
+     "id": 168,
+     "bgg_id": 288775,
+     "nombre": "Fairy Trails",
+     "imagen": "288775.png"
     },
     {
-     "id": 183,
-     "bgg_id": 117663,
-     "nombre": "Isla Calavera",
-     "imagen": null
+     "id": 199,
+     "bgg_id": 367220,
+     "nombre": "Salton Sea",
+     "imagen": "367220.png"
     },
     {
-     "id": 187,
-     "bgg_id": 399011,
-     "nombre": "Barrio",
-     "imagen": null
+     "id": 136,
+     "bgg_id": 339789,
+     "nombre": "Welcome to the Moon",
+     "imagen": "339789.png"
     },
     {
-     "id": 189,
-     "bgg_id": 37728,
-     "nombre": "Ritmo y Bola",
-     "imagen": null
+     "id": 186,
+     "bgg_id": 245476,
+     "nombre": "CuBirds",
+     "imagen": "245476.png"
     },
     {
-     "id": 190,
-     "bgg_id": 371544,
-     "nombre": "¿Friegas tú?",
-     "imagen": null
+     "id": 281,
+     "bgg_id": 347616,
+     "nombre": "Manda Huevos",
+     "imagen": "347616.png"
     },
     {
-     "id": 194,
-     "bgg_id": 264055,
-     "nombre": "Draftosaurus",
-     "imagen": null
-    },
-    {
-     "id": 284,
-     "bgg_id": 256621,
-     "nombre": "Train Silvania",
-     "imagen": null
-    },
-    {
-     "id": 223,
-     "bgg_id": 345641,
-     "nombre": "One Finger!",
-     "imagen": null
-    },
-    {
-     "id": 243,
-     "bgg_id": 118247,
-     "nombre": "Lucky Numbers",
-     "imagen": null
-    },
-    {
-     "id": 252,
-     "bgg_id": 322282,
-     "nombre": "Momiji",
-     "imagen": null
+     "id": 207,
+     "bgg_id": 270168,
+     "nombre": "Tuki",
+     "imagen": "270168.png"
     },
     {
      "id": 161,
@@ -6432,6 +6402,36 @@
      "bgg_id": 128882,
      "nombre": "Avalon",
      "imagen": "128882.png"
+    },
+    {
+     "id": 162,
+     "bgg_id": 237629,
+     "nombre": "Cortex 2",
+     "imagen": "237629.png"
+    },
+    {
+     "id": 243,
+     "bgg_id": 118247,
+     "nombre": "Lucky Numbers",
+     "imagen": "118247.png"
+    },
+    {
+     "id": 183,
+     "bgg_id": 117663,
+     "nombre": "Isla Calavera",
+     "imagen": "117663.png"
+    },
+    {
+     "id": 190,
+     "bgg_id": 371544,
+     "nombre": "¿Friegas tú?",
+     "imagen": "371544.png"
+    },
+    {
+     "id": 187,
+     "bgg_id": 399011,
+     "nombre": "Barrio",
+     "imagen": "399011.png"
     },
     {
      "id": 200,
@@ -6465,16 +6465,22 @@
      "imagen": "92499.png"
     },
     {
+     "id": 283,
+     "bgg_id": 246203,
+     "nombre": "Magic Mandala",
+     "imagen": "246203.png"
+    },
+    {
+     "id": 99,
+     "bgg_id": 234691,
+     "nombre": "El Enigma de los Templos",
+     "imagen": "234691.png"
+    },
+    {
      "id": 171,
      "bgg_id": 300993,
      "nombre": "Extinción",
      "imagen": "300993.png"
-    },
-    {
-     "id": 320,
-     "bgg_id": 33495,
-     "nombre": "Time's Up! Celebrity 3",
-     "imagen": null
     },
     {
      "id": 260,
@@ -6489,22 +6495,10 @@
      "imagen": "118410.png"
     },
     {
-     "id": 32,
-     "bgg_id": 299249,
-     "nombre": "Mint Control",
-     "imagen": null
-    },
-    {
-     "id": 77,
-     "bgg_id": 307170,
-     "nombre": "El Valle Secreto",
-     "imagen": null
-    },
-    {
-     "id": 108,
-     "bgg_id": 218556,
-     "nombre": "No Game Over",
-     "imagen": null
+     "id": 320,
+     "bgg_id": 33495,
+     "nombre": "Time's Up! Celebrity 3",
+     "imagen": "33495.png"
     },
     {
      "id": 131,
@@ -6519,6 +6513,24 @@
      "imagen": "241760.png"
     },
     {
+     "id": 32,
+     "bgg_id": 299249,
+     "nombre": "Mint Control",
+     "imagen": "299249.png"
+    },
+    {
+     "id": 77,
+     "bgg_id": 307170,
+     "nombre": "El Valle Secreto",
+     "imagen": "307170.png"
+    },
+    {
+     "id": 108,
+     "bgg_id": 218556,
+     "nombre": "No Game Over",
+     "imagen": "218556.png"
+    },
+    {
      "id": 157,
      "bgg_id": 161417,
      "nombre": "Red7",
@@ -6531,40 +6543,10 @@
      "imagen": "385761.png"
     },
     {
-     "id": 228,
-     "bgg_id": 355801,
-     "nombre": "Mediterráneo",
-     "imagen": null
-    },
-    {
-     "id": 204,
-     "bgg_id": 287038,
-     "nombre": "Traffic Jam",
-     "imagen": null
-    },
-    {
-     "id": 245,
-     "bgg_id": 153225,
-     "nombre": "Pick a Foca",
-     "imagen": null
-    },
-    {
-     "id": 271,
-     "bgg_id": 358805,
-     "nombre": "Vagoneta Infernal",
-     "imagen": null
-    },
-    {
      "id": 247,
      "bgg_id": 145186,
      "nombre": "Pica al Oso Polar",
      "imagen": "145186.png"
-    },
-    {
-     "id": 283,
-     "bgg_id": 246203,
-     "nombre": "Magic Mandala",
-     "imagen": null
     },
     {
      "id": 9,
@@ -6591,22 +6573,10 @@
      "imagen": "320275.png"
     },
     {
-     "id": 35,
-     "bgg_id": 230262,
-     "nombre": "Time's Up! Party",
-     "imagen": null
-    },
-    {
      "id": 180,
      "bgg_id": 128667,
      "nombre": "Samurai Sword",
      "imagen": "128667.png"
-    },
-    {
-     "id": 191,
-     "bgg_id": 45,
-     "nombre": "Perudo",
-     "imagen": null
     },
     {
      "id": 218,
@@ -6615,22 +6585,46 @@
      "imagen": "3955.png"
     },
     {
-     "id": 99,
-     "bgg_id": 234691,
-     "nombre": "El Enigma de los Templos",
-     "imagen": null
-    },
-    {
      "id": 156,
      "bgg_id": 240225,
      "nombre": "Roll to the Top",
      "imagen": "240225.png"
     },
     {
-     "id": 37,
-     "bgg_id": 38713,
-     "nombre": "Time's Up! Edición Amarilla",
-     "imagen": null
+     "id": 228,
+     "bgg_id": 355801,
+     "nombre": "Mediterráneo",
+     "imagen": "355801.png"
+    },
+    {
+     "id": 35,
+     "bgg_id": 230262,
+     "nombre": "Time's Up! Party",
+     "imagen": "230262.png"
+    },
+    {
+     "id": 191,
+     "bgg_id": 45,
+     "nombre": "Perudo",
+     "imagen": "45.png"
+    },
+    {
+     "id": 204,
+     "bgg_id": 287038,
+     "nombre": "Traffic Jam",
+     "imagen": "287038.png"
+    },
+    {
+     "id": 271,
+     "bgg_id": 358805,
+     "nombre": "Vagoneta Infernal",
+     "imagen": "358805.png"
+    },
+    {
+     "id": 245,
+     "bgg_id": 153225,
+     "nombre": "Pick a Foca",
+     "imagen": "153225.png"
     },
     {
      "id": 244,
@@ -6649,18 +6643,6 @@
      "bgg_id": 8098,
      "nombre": "Jungle Speed",
      "imagen": "8098.png"
-    },
-    {
-     "id": 262,
-     "bgg_id": 271774,
-     "nombre": "Sherlock Express",
-     "imagen": null
-    },
-    {
-     "id": 293,
-     "bgg_id": 63268,
-     "nombre": "Dobble",
-     "imagen": null
     },
     {
      "id": 249,
@@ -6721,6 +6703,24 @@
      "bgg_id": 192185,
      "nombre": "Matrioskka",
      "imagen": "192185.png"
+    },
+    {
+     "id": 293,
+     "bgg_id": 63268,
+     "nombre": "Dobble",
+     "imagen": "63268.png"
+    },
+    {
+     "id": 37,
+     "bgg_id": 38713,
+     "nombre": "Time's Up! Edición Amarilla",
+     "imagen": "38713.png"
+    },
+    {
+     "id": 262,
+     "bgg_id": 271774,
+     "nombre": "Sherlock Express",
+     "imagen": "271774.png"
     }
    ]
   },
@@ -6729,6 +6729,12 @@
    "nombre_ubicacion": "Vitrina pared",
    "numero_balda": 5,
    "juegos": [
+    {
+     "id": 203,
+     "bgg_id": 28023,
+     "nombre": "Jamaica",
+     "imagen": "28023.png"
+    },
     {
      "id": 84,
      "bgg_id": 320819,
@@ -6751,13 +6757,13 @@
      "id": 20,
      "bgg_id": 237182,
      "nombre": "Root",
-     "imagen": null
+     "imagen": "237182.png"
     },
     {
      "id": 49,
      "bgg_id": 371972,
-     "nombre": "Jerusalem: Anno Domini",
-     "imagen": null
+     "nombre": "Ierusalem: Anno Domini",
+     "imagen": "371972.png"
     },
     {
      "id": 102,
@@ -6766,22 +6772,10 @@
      "imagen": "341245.png"
     },
     {
-     "id": 203,
-     "bgg_id": 28023,
-     "nombre": "Jamaica",
-     "imagen": null
-    },
-    {
      "id": 70,
      "bgg_id": 269511,
      "nombre": "Cooper Island",
      "imagen": "269511.png"
-    },
-    {
-     "id": 39,
-     "bgg_id": 323156,
-     "nombre": "Stroganov",
-     "imagen": null
     },
     {
      "id": 231,
@@ -6800,6 +6794,12 @@
      "bgg_id": 84876,
      "nombre": "Castillos de Borgoña",
      "imagen": "84876.png"
+    },
+    {
+     "id": 39,
+     "bgg_id": 323156,
+     "nombre": "Stroganov",
+     "imagen": "323156.png"
     }
    ]
   },
@@ -6818,7 +6818,7 @@
      "id": 111,
      "bgg_id": 283155,
      "nombre": "Calico",
-     "imagen": null
+     "imagen": "283155.png"
     },
     {
      "id": 53,
@@ -6982,7 +6982,7 @@
      "id": 264,
      "bgg_id": 822,
      "nombre": "Carcassonne",
-     "imagen": null
+     "imagen": "822.png"
     },
     {
      "id": 24,
@@ -7041,40 +7041,28 @@
      "imagen": "299933.png"
     },
     {
-     "id": 155,
-     "bgg_id": 244191,
-     "nombre": "Naga Raja",
-     "imagen": null
+     "id": 184,
+     "bgg_id": 304051,
+     "nombre": "Creature Comforts",
+     "imagen": "304051.png"
     },
     {
      "id": 132,
      "bgg_id": 330517,
      "nombre": "Paradice",
-     "imagen": null
+     "imagen": "330517.png"
+    },
+    {
+     "id": 155,
+     "bgg_id": 244191,
+     "nombre": "Naga Raja",
+     "imagen": "244191.png"
     },
     {
      "id": 239,
      "bgg_id": 298635,
      "nombre": "El Jardín de Alicia",
      "imagen": "298635.png"
-    },
-    {
-     "id": 150,
-     "bgg_id": 148228,
-     "nombre": "Splendor",
-     "imagen": null
-    },
-    {
-     "id": 167,
-     "bgg_id": 323613,
-     "nombre": "Luna Capital",
-     "imagen": null
-    },
-    {
-     "id": 184,
-     "bgg_id": 304051,
-     "nombre": "Creature Comforts",
-     "imagen": null
     },
     {
      "id": 257,
@@ -7099,6 +7087,18 @@
      "bgg_id": 241590,
      "nombre": "Smart 10",
      "imagen": "241590.png"
+    },
+    {
+     "id": 167,
+     "bgg_id": 323613,
+     "nombre": "Luna Capital",
+     "imagen": "323613.png"
+    },
+    {
+     "id": 150,
+     "bgg_id": 148228,
+     "nombre": "Splendor",
+     "imagen": "148228.png"
     }
    ]
   },
@@ -7111,13 +7111,19 @@
      "id": 126,
      "bgg_id": 300877,
      "nombre": "New York Zoo",
-     "imagen": null
+     "imagen": "300877.png"
+    },
+    {
+     "id": 234,
+     "bgg_id": 262477,
+     "nombre": "Mercado de Lisboa",
+     "imagen": "262477.png"
     },
     {
      "id": 300,
      "bgg_id": 177524,
      "nombre": "Escuela de Pingüinos",
-     "imagen": null
+     "imagen": "177524.png"
     },
     {
      "id": 177,
@@ -7129,19 +7135,19 @@
      "id": 201,
      "bgg_id": 1294,
      "nombre": "Cluedo",
-     "imagen": null
+     "imagen": "1294.png"
     },
     {
-     "id": 33,
-     "bgg_id": 157354,
-     "nombre": "Five Tribes",
-     "imagen": null
+     "id": 95,
+     "bgg_id": 300531,
+     "nombre": "Paleo",
+     "imagen": "300531.png"
     },
     {
      "id": 72,
      "bgg_id": 188866,
      "nombre": "Incómodos Invitados",
-     "imagen": null
+     "imagen": "188866.png"
     },
     {
      "id": 148,
@@ -7150,10 +7156,10 @@
      "imagen": "258308.png"
     },
     {
-     "id": 95,
-     "bgg_id": 300531,
-     "nombre": "Paleo",
-     "imagen": null
+     "id": 33,
+     "bgg_id": 157354,
+     "nombre": "Five Tribes",
+     "imagen": "157354.png"
     },
     {
      "id": 3,
@@ -7166,12 +7172,6 @@
      "bgg_id": 2511,
      "nombre": "Sherlock Holmes: Detective Asesor",
      "imagen": "2511.png"
-    },
-    {
-     "id": 234,
-     "bgg_id": 262477,
-     "nombre": "Mercado de Lisboa",
-     "imagen": null
     },
     {
      "id": 52,
@@ -7192,18 +7192,6 @@
      "imagen": "260605.png"
     },
     {
-     "id": 153,
-     "bgg_id": 359394,
-     "nombre": "My Island",
-     "imagen": null
-    },
-    {
-     "id": 158,
-     "bgg_id": 811,
-     "nombre": "Rummikub Classic",
-     "imagen": null
-    },
-    {
      "id": 175,
      "bgg_id": 35610,
      "nombre": "3x4=Zas!",
@@ -7214,6 +7202,18 @@
      "bgg_id": 387780,
      "nombre": "Ratas de Wistar",
      "imagen": "387780.png"
+    },
+    {
+     "id": 158,
+     "bgg_id": 811,
+     "nombre": "Rummikub Classic",
+     "imagen": "811.png"
+    },
+    {
+     "id": 153,
+     "bgg_id": 359394,
+     "nombre": "My Island",
+     "imagen": "359394.png"
     }
    ]
   }
