@@ -18,6 +18,7 @@
       <a data-vista="resumen">Resumen</a>
     </nav>
     <button class="sync" id="b-sync" title="Actualizar datos">⟳</button>
+    <button class="sync" id="b-anadir" title="Añadir juego">＋</button>
   </header>
 
   <main>
@@ -90,6 +91,48 @@
 
     <div id="cargando"><div class="spin"></div><p>Cargando ludoteca...</p></div>
   </main>
+
+  <div id="editor" class="oculto">
+    <div class="ed-panel">
+      <h3 id="ed-titulo">Añadir juego</h3>
+      <label>Nombre <input id="e-nombre"></label>
+      <div class="ed-fila">
+        <label>Categoria <select id="e-cat"></select></label>
+        <label>Mecanica <select id="e-mec"></select></label>
+        <label>Tematica <select id="e-tem"></select></label>
+      </div>
+      <div class="ed-fila">
+        <label>Jugadores <input id="e-jug" placeholder="2-4"></label>
+        <label>Edad <input id="e-edad" placeholder="+8"></label>
+        <label>Duracion <input id="e-dur" placeholder="30-60"></label>
+        <label>Año <input id="e-pub" type="number" min="1900" max="2100"></label>
+      </div>
+      <div class="ed-fila">
+        <label>Estado <select id="e-estado">
+          <option value="">En la ludoteca</option>
+          <option value="deseado">Lista de deseos</option>
+          <option value="camino">En camino</option>
+          <option value="otra">En otra ludoteca</option>
+          <option value="fuera">Fuera de la coleccion</option>
+        </select></label>
+        <label class="ed-check"><input type="checkbox" id="e-pre"> Prestado</label>
+      </div>
+      <div class="ed-fila">
+        <label>Ubicacion <select id="e-mueble"></select></label>
+        <label>Balda <select id="e-balda"></select></label>
+      </div>
+      <div class="ed-btns">
+        <button class="btn" id="e-guardar">Guardar</button>
+        <button class="btn sec" id="e-cancelar">Cancelar</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="pendientes" class="oculto">
+    <span id="pend-txt"></span>
+    <button id="pend-dl" class="btn" title="Descarga cambios.json y subelo al PC">⬇ cambios.json</button>
+    <button id="pend-rm" class="btn sec" title="Borra la cola local">Descartar</button>
+  </div>
 
   <script src="app.js"></script>
 </body>

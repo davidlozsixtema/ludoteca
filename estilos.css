@@ -144,6 +144,45 @@ input:focus, select:focus { outline: 2px solid #bfdbfe; border-color: var(--acen
 .fila-b .barra { height: 100%; background: var(--acento); border-radius: 6px; min-width: 2px; }
 .fila-b .num { flex: 0 0 30px; text-align: right; color: var(--muted); font-weight: 600; }
 
+/* ---------------- edicion local ---------------- */
+.edit {
+  position: absolute; top: 6px; right: 6px; z-index: 5;
+  border: 0; border-radius: 50%; width: 28px; height: 28px;
+  background: rgba(255,255,255,.92); box-shadow: 0 1px 4px rgba(0,0,0,.3);
+  cursor: pointer; font-size: 13px; padding: 0; line-height: 28px;
+}
+.edit:hover { background: #eff6ff; }
+
+#editor {
+  position: fixed; inset: 0; z-index: 50; overflow-y: auto;
+  background: rgba(15,23,42,.45);
+  display: flex; align-items: flex-start; justify-content: center; padding: 18px;
+}
+.ed-panel {
+  background: #fff; border-radius: 14px; padding: 18px;
+  width: 100%; max-width: 480px; margin-top: 24px;
+}
+.ed-panel h3 { margin: 0 0 12px; }
+.ed-panel label { display: block; font-size: 12px; color: var(--muted); }
+.ed-panel input, .ed-panel select {
+  width: 100%; margin-top: 3px; padding: 8px; box-sizing: border-box;
+  border: 1px solid var(--borde); border-radius: 8px; font: inherit; color: var(--txt);
+}
+.ed-fila { display: flex; gap: 10px; margin-top: 10px; }
+.ed-fila label { flex: 1; min-width: 0; }
+.ed-check { display: flex !important; align-items: center; gap: 6px; padding-top: 18px; }
+.ed-check input { width: auto !important; margin: 0 !important; }
+.ed-btns { display: flex; gap: 10px; margin-top: 16px; }
+
+#pendientes {
+  position: fixed; left: 50%; bottom: 14px; transform: translateX(-50%);
+  z-index: 40; display: flex; align-items: center; gap: 10px;
+  background: #fff; border: 1px solid var(--borde); border-radius: 12px;
+  padding: 8px 14px; box-shadow: 0 4px 14px rgba(0,0,0,.18);
+  font-size: 13px; white-space: nowrap;
+}
+#pendientes .btn { padding: 7px 12px; font-size: 13px; }
+
 /* ---------------- carga ---------------- */
 #cargando {
   display: flex; flex-direction: column; align-items: center; gap: 14px;
