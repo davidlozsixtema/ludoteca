@@ -115,13 +115,6 @@ function construir() {
        <div class="cuerpo"><h3>${j.nombre}</h3>
         <div class="chips">${chips}</div>
         <div class="meta">${meta}</div>${ubi}</div>`;
-    // tap en un thumb -> filtra por ese juego (en movil no hay hover)
-    d.querySelectorAll('.exp img.th').forEach(im =>
-      im.onclick = ev => {
-        ev.stopPropagation();
-        sel('f-buscar').value = im.dataset.nom;
-        pagina = 0; aleatorio = null; pintar();
-      });
     rejilla.appendChild(d);
     return d;
   });
@@ -299,6 +292,22 @@ function bloque(titulo, pares) {
 }
 
 function pintarResumen() {
+  // KPIs: mismos conteos que la pagina de inicio web
+  const fisicos = coleccion();
+  const cuentan = f => datos.juegos.filter(f).length;
+  const kpi = (etiqueta, n) =>
+    `<div class="kpi"><div class="n">${n}</div><div class="e">${etiqueta}</div></div>`;
+  sel('kpis').innerHTML = [
+    ['Registrados', datos.juegos.length],
+    ['En la ludoteca', fisicos.length],
+    ['Lista de deseos', cuentan(j => j.deseado)],
+    ['En camino', cuentan(j => j.en_camino)],
+    ['En otras ludotecas', cuentan(j => j.otra_ludoteca)],
+    ['Prestados', cuentan(j => j.prestado)],
+    ['Fuera de coleccion', cuentan(j => j.fuera_coleccion)],
+    ['Sin foto', fisicos.filter(j => !j.imagen).length],
+    ['Sin ubicar', fisicos.filter(j => !ubicacionDe[j.id] && !j.prestado).length],
+  ].map(k => kpi(k[0], k[1])).join('');
   const tabla = { c: CAT, m: MEC, t: TEM };
   const porId = (campo, dict) => {
     const cont = {};

@@ -126,6 +126,14 @@ input:focus, select:focus { outline: 2px solid #bfdbfe; border-color: var(--acen
 .balda .mini:hover .nom, .balda .mini.ver .nom { display: block; }
 
 /* ---------------- resumen (barras css) ---------------- */
+.kpis {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr));
+  gap: 10px; margin-bottom: 18px;
+}
+.kpi { background: #fff; border: 1px solid var(--borde); border-radius: 12px; padding: 10px 8px; text-align: center; }
+.kpi .n { font-size: 24px; font-weight: 700; line-height: 1.1; }
+.kpi .e { font-size: 11.5px; color: var(--muted); margin-top: 3px; }
+
 .barras { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
 .bloque { background: #fff; border: 1px solid var(--borde); border-radius: 14px; padding: 14px 16px; }
 .bloque h3 { margin: 0 0 12px; font-size: 15px; }
