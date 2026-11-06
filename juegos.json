@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-06T19:55:40+00:00",
+ "generado": "2026-11-06T21:59:09+00:00",
  "juegos": [
   {
    "id": 175,
@@ -214,6 +214,26 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 429,
+   "nombre": "All aboard",
+   "imagen": null,
+   "categoria_id": null,
+   "mecanica_id": null,
+   "tematica_id": null,
+   "jugadores": null,
+   "edad": null,
+   "duracion": null,
+   "publicacion": null,
+   "deseado": false,
+   "en_camino": true,
    "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false,
@@ -4613,7 +4633,7 @@
   {
    "id": 45,
    "nombre": "Las ruinas perdidas de Arnak",
-   "imagen": null,
+   "imagen": "45.png",
    "categoria_id": 1,
    "mecanica_id": 3,
    "tematica_id": 10,
@@ -8810,12 +8830,6 @@
      "expansion_de": null
     },
     {
-     "id": 45,
-     "nombre": "Las ruinas perdidas de Arnak",
-     "imagen": "45.png",
-     "expansion_de": null
-    },
-    {
      "id": 109,
      "nombre": "Photosynthesis",
      "imagen": "109.png",
@@ -8831,6 +8845,12 @@
      "id": 13,
      "nombre": "Barcelona",
      "imagen": "13.png",
+     "expansion_de": null
+    },
+    {
+     "id": 45,
+     "nombre": "Las ruinas perdidas de Arnak",
+     "imagen": "45.png",
      "expansion_de": null
     },
     {
@@ -9101,12 +9121,6 @@
      "expansion_de": null
     },
     {
-     "id": 356,
-     "nombre": "Orbito",
-     "imagen": "356.png",
-     "expansion_de": null
-    },
-    {
      "id": 365,
      "nombre": "Take It Easy!",
      "imagen": "365.png",
@@ -9116,6 +9130,12 @@
      "id": 354,
      "nombre": "Mycelia",
      "imagen": "354.png",
+     "expansion_de": null
+    },
+    {
+     "id": 356,
+     "nombre": "Orbito",
+     "imagen": "356.png",
      "expansion_de": null
     },
     {
