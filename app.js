@@ -361,7 +361,7 @@ function pintarResumen() {
     ['En otras ludotecas', cuentan(j => j.otra_ludoteca)],
     ['Prestados', cuentan(j => j.prestado)],
     ['Fuera de coleccion', cuentan(j => j.fuera_coleccion)],
-    ['Sin foto', fisicos.filter(j => !j.imagen).length],
+    ['Sin foto', cuentan(j => !j.imagen)],
     ['Sin ubicar', fisicos.filter(j => !ubicacionDe[j.id] && !j.prestado).length],
   ].map(k => kpi(k[0], k[1])).join('');
   const tabla = { c: CAT, m: MEC, t: TEM };
