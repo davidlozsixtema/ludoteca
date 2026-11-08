@@ -425,7 +425,14 @@ sel('m-buscar').addEventListener('input', () => {
   const q = norm(sel('m-buscar').value.trim());
   const mapa = sel('mapa');
   mapa.querySelectorAll('.marca').forEach(el => el.classList.remove('marca'));
-  if (!q) return;
+  if (!q) {
+    mapa.querySelectorAll('.ubi-card, .balda').forEach(el => el.classList.add('abierto'));
+    sel('m-plegar').textContent = '⊟ Plegar todo';
+    return;
+  }
+  // pliega todo: solo se reabren las ramas con coincidencias
+  mapa.querySelectorAll('.ubi-card, .balda').forEach(el => el.classList.remove('abierto'));
+  sel('m-plegar').textContent = '⊞ Desplegar todo';
   let primero = null;
   mapa.querySelectorAll('.mini').forEach(m => {
     const nom = norm(m.querySelector('.nom')?.textContent);
@@ -626,9 +633,8 @@ function reconstruir() {
   construir();
   ordenar();
   pintar();
-  const nDeseados = datos.juegos.filter(j => j.deseado).length;
   sel('total').textContent =
-    `${coleccion().length} juegos en la ludoteca · ${nDeseados} deseados`;
+    `${coleccion().length} juegos en la ludoteca`;
   actualizarBanner();
 }
 
