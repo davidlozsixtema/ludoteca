@@ -320,15 +320,17 @@ function pintarMapa() {
     const card = document.createElement('div');
     card.className = 'ubi-card';
     card.innerHTML =
-      `<h3>🗄️ ${nombre}</h3>
-       <div class="hueco">${total} juegos</div>` +
+      `<div class="ubi-t"><h3>🗄️ ${nombre}</h3>
+         <span class="hueco">${total} juegos</span><span class="flecha"></span></div>
+       <div class="baldas">` +
       filas.map(u =>
-        `<div class="balda"><b>Balda ${u.numero_balda} · ${u.juegos.length} juegos</b><div class="juegos">` +
+        `<div class="balda" data-mueble="${nombre}" data-balda="${u.numero_balda}"><div class="balda-t"><b>Balda ${u.numero_balda} · ${u.juegos.length} juegos</b><span class="flecha"></span></div><div class="juegos">` +
         u.juegos.slice().sort(porFamilia).map(j =>
-          `<span class="mini"><img loading="lazy" src="${urlImagen(j.imagen)}"
+          `<span class="mini" draggable="true" data-id="${j.id}"><img loading="lazy" src="${urlImagen(j.imagen)}"
              alt="" onerror="this.parentNode.classList.add('sin-img');this.remove()">` +
           `<span class="nom">${j.nombre}</span></span>`).join('') +
-        '</div></div>').join('');
+        '</div></div>').join('') +
+      '</div>';
     div.appendChild(card);
   });
   const sin = coleccion().filter(j => !ubicacionDe[j.id] && !j.prestado).length;
@@ -336,12 +338,101 @@ function pintarMapa() {
     sin ? `🧺 ${sin} juegos sin ubicar.` : '';
 }
 
-// tocar una caratula del mapa muestra su nombre (en PC vale el :hover del CSS)
+// clics en el mapa: acordeon (cabeceras) y nombre al tocar una caratula
 sel('mapa').addEventListener('click', e => {
-  const t = e.target.closest('.mini');
-  sel('mapa').querySelectorAll('.mini.ver')
-    .forEach(m => { if (m !== t) m.classList.remove('ver'); });
-  if (t) t.classList.toggle('ver');
+  if (e.target.closest('.mini')) {
+    const t = e.target.closest('.mini');
+    sel('mapa').querySelectorAll('.mini.ver')
+      .forEach(m => { if (m !== t) m.classList.remove('ver'); });
+    t.classList.toggle('ver');
+    return;
+  }
+  const bt = e.target.closest('.balda-t');
+  if (bt) { bt.parentElement.classList.toggle('abierto'); return; }
+  const ut = e.target.closest('.ubi-t');
+  if (ut) ut.parentElement.classList.toggle('abierto');
+});
+
+// drag & drop entre baldas: encola el cambio de ubicacion (va a cambios.json)
+{
+  const mapaEl = sel('mapa');
+  let moviendo = null;
+  const recuenta = card => {
+    card.querySelectorAll('.balda').forEach(b => {
+      b.querySelector('.balda-t b').textContent =
+        `Balda ${b.dataset.balda} · ${b.querySelectorAll('.mini').length} juegos`;
+    });
+    const total = [...card.querySelectorAll('.mini')].length;
+    card.querySelector('.hueco').textContent = `${total} juegos`;
+  };
+  mapaEl.addEventListener('dragstart', e => {
+    moviendo = e.target.closest('.mini');
+    if (!moviendo) return;
+    e.dataTransfer.effectAllowed = 'move';
+    e.dataTransfer.setData('text/plain', moviendo.dataset.id);
+    moviendo.classList.add('moviendo');
+  });
+  mapaEl.addEventListener('dragend', () => {
+    moviendo?.classList.remove('moviendo');
+    mapaEl.querySelectorAll('.balda.soltar')
+      .forEach(b => b.classList.remove('soltar'));
+    moviendo = null;
+  });
+  mapaEl.addEventListener('dragover', e => {
+    const b = e.target.closest('.balda');
+    if (!b || !moviendo) return;
+    e.preventDefault();
+    e.dataTransfer.dropEffect = 'move';
+    b.classList.add('soltar', 'abierto');
+    b.closest('.ubi-card').classList.add('abierto');
+  });
+  mapaEl.addEventListener('dragleave', e => {
+    const b = e.target.closest('.balda');
+    if (b && !b.contains(e.relatedTarget)) b.classList.remove('soltar');
+  });
+  mapaEl.addEventListener('drop', e => {
+    const b = e.target.closest('.balda');
+    if (!b || !moviendo) return;
+    e.preventDefault();
+    b.classList.remove('soltar');
+    const origen = moviendo.closest('.balda');
+    if (origen === b) return;                        // misma balda: nada
+    const id = +moviendo.dataset.id;
+    const j = datos.juegos.find(x => x.id === id);
+    const ubi = { mueble: b.dataset.mueble, balda: +b.dataset.balda };
+    if (!cola.base) cola.base = datosBase?.generado || null;
+    cola.cambios.push({ tipo: 'edicion', juego_id: id, campos: {}, ubicacion: ubi });
+    guardarCola();
+    quitarDeBalda(j);
+    ponerEnBalda(j, ubi);
+    ubicacionDe[id] = `${ubi.mueble} · balda ${ubi.balda}`;
+    const cardOrigen = origen.closest('.ubi-card');
+    b.querySelector('.juegos').appendChild(moviendo);
+    recuenta(cardOrigen);
+    const cardDestino = b.closest('.ubi-card');
+    if (cardDestino !== cardOrigen) recuenta(cardDestino);
+    moviendo = null;
+    actualizarBanner();
+  });
+}
+
+// minibuscador del mapa: marca ubicacion, balda y juego en azul
+sel('m-buscar').addEventListener('input', () => {
+  const q = sel('m-buscar').value.trim().toLowerCase();
+  const mapa = sel('mapa');
+  mapa.querySelectorAll('.marca').forEach(el => el.classList.remove('marca'));
+  if (!q) return;
+  let primero = null;
+  mapa.querySelectorAll('.mini').forEach(m => {
+    const nom = (m.querySelector('.nom')?.textContent || '').toLowerCase();
+    if (!nom.includes(q)) return;
+    m.classList.add('marca');
+    const balda = m.closest('.balda'), ubi = m.closest('.ubi-card');
+    balda.classList.add('marca', 'abierto');
+    ubi.classList.add('marca', 'abierto');
+    primero ??= m;
+  });
+  primero?.scrollIntoView({ block: 'center', behavior: 'smooth' });
 });
 
 /* ==================== resumen ==================== */

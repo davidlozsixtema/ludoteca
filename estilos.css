@@ -99,13 +99,22 @@ input:focus, select:focus { outline: 2px solid #bfdbfe; border-color: var(--acen
 .oculto { display: none !important; }
 
 /* ---------------- mapa ---------------- */
-.ubicaciones { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
-.ubi-card { background: #fff; border: 1px solid var(--borde); border-radius: 14px; padding: 14px 16px; }
-.ubi-card h3 { margin: 0 0 4px; font-size: 16px; }
-.ubi-card .hueco { font-size: 13px; color: var(--muted); margin-bottom: 10px; }
-.balda { margin-top: 10px; }
+.ubicaciones { display: grid; grid-template-columns: 1fr; gap: 10px; }
+#m-buscar { width: 100%; margin: 12px 0 16px; box-sizing: border-box; }
+.ubi-card { background: #fff; border: 1px solid var(--borde); border-radius: 14px; padding: 10px 16px; }
+.ubi-t { display: flex; align-items: baseline; gap: 10px; cursor: pointer; }
+.ubi-card h3 { margin: 0; font-size: 16px; }
+.ubi-card .hueco { font-size: 13px; color: var(--muted); }
+.flecha { margin-left: auto; align-self: center; transition: transform .15s; }
+.flecha::after { content: '▸'; font-size: 13px; color: var(--muted); }
+.abierto > .ubi-t > .flecha, .abierto > .balda-t > .flecha { transform: rotate(90deg); }
+.ubi-card .baldas { display: none; margin-top: 8px; }
+.ubi-card.abierto > .baldas { display: block; }
+.balda { margin-top: 8px; padding-left: 10px; border-left: 3px solid var(--borde); }
+.balda-t { display: flex; align-items: baseline; gap: 8px; cursor: pointer; }
 .balda b { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .4px; }
-.balda .juegos { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 5px; }
+.balda .juegos { display: none; flex-wrap: wrap; gap: 7px; margin-top: 6px; }
+.balda.abierto > .juegos { display: flex; }
 .balda .mini { position: relative; width: 58px; height: 58px; cursor: pointer; }
 .balda .mini img {
   width: 58px; height: 58px; object-fit: cover; border-radius: 8px;
@@ -124,6 +133,15 @@ input:focus, select:focus { outline: 2px solid #bfdbfe; border-color: var(--acen
   box-shadow: 0 4px 10px rgba(0,0,0,.25); pointer-events: none;
 }
 .balda .mini:hover .nom, .balda .mini.ver .nom { display: block; }
+/* resaltado del buscador del mapa */
+.ubi-card.marca { border-color: #3b82f6; box-shadow: 0 0 0 2px #3b82f6; }
+.balda.marca { border-left-color: #3b82f6; }
+.balda .mini.marca { outline: 3px solid #3b82f6; border-radius: 8px; }
+.balda .mini.marca .nom { display: block; }
+/* drag & drop para mover juegos de balda */
+.balda .mini[draggable] { cursor: grab; }
+.balda .mini.moviendo { opacity: .35; }
+.balda.soltar { border-left-color: #3b82f6; background: #eff6ff; border-radius: 4px; }
 
 /* ---------------- resumen (barras css) ---------------- */
 .kpis {
