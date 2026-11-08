@@ -14,9 +14,11 @@ let datos = null;          // juegos.json entero
 let cards = [];            // elementos .juego ya creados
 let ubicacionDe = {};      // juego_id -> "Nombre · Balda N"
 let pagina = 0, aleatorio = null;
-// coleccion real = fuera deseados, en camino, otra ludoteca y fuera de coleccion
+// juegos en la ludoteca = fuera deseados, en camino, otra ludoteca,
+// fuera de coleccion y prestados (cada estado tiene su propio KPI)
 const coleccion = () =>
-  datos.juegos.filter(j => !(j.deseado || j.en_camino || j.otra_ludoteca || j.fuera_coleccion));
+  datos.juegos.filter(j => !(j.deseado || j.en_camino || j.otra_ludoteca ||
+                             j.fuera_coleccion || j.prestado));
 
 /* ==================== descarga de datos ==================== */
 
@@ -210,6 +212,8 @@ function pasa(c) {
   if (w === 'deseado' && c.dataset.des !== '1') return false;
   if (w === 'prestado' && c.dataset.pre !== '1') return false;
   if (w === 'fuera' && c.dataset.fue !== '1') return false;
+  // los deseados no ensucian el catalogo: se ven solo pidiendolos
+  if (w !== 'deseado' && c.dataset.des === '1') return false;
   return true;
 }
 
@@ -252,7 +256,11 @@ const porPagina = () =>
 function pintar() {
   guardarFiltros();
   const vis = cards.filter(pasa);
-  sel('cuenta').textContent = vis.length === cards.length
+  // base = lo que se veria sin filtros (deseados solo con f-col='deseado')
+  const w = sel('f-col').value;
+  const base = cards.filter(c =>
+    w === 'deseado' ? c.dataset.des === '1' : c.dataset.des !== '1');
+  sel('cuenta').textContent = vis.length === base.length
     ? '' : `· ${vis.length} coinciden con los filtros`;
   let set = aleatorio ? vis.filter(c => aleatorio.has(c)) : vis;
   if (aleatorio && !set.length) { aleatorio = null; set = vis; }   // sorteo vacio -> vista normal
@@ -517,7 +525,7 @@ function reconstruir() {
   pintar();
   const nDeseados = datos.juegos.filter(j => j.deseado).length;
   sel('total').textContent =
-    `${coleccion().length} juegos en la coleccion · ${nDeseados} deseados`;
+    `${coleccion().length} juegos en la ludoteca · ${nDeseados} deseados`;
   actualizarBanner();
 }
 
