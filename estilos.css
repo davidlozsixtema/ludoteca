@@ -102,7 +102,7 @@ input:focus, select:focus { outline: 2px solid #bfdbfe; border-color: var(--acen
 .ubicaciones { display: grid; grid-template-columns: 1fr; gap: 10px; }
 .fila-map { display: flex; gap: 10px; margin: 12px 0 16px; align-items: center; }
 #m-buscar { flex: 1; min-width: 0; box-sizing: border-box; }
-#m-plegar { flex: 0 0 auto; white-space: nowrap; }
+#m-cuenta, #m-plegar { flex: 0 0 auto; white-space: nowrap; }
 .ubi-card { background: #fff; border: 1px solid var(--borde); border-radius: 14px; padding: 10px 16px; }
 .ubi-t { display: flex; align-items: baseline; gap: 10px; cursor: pointer; }
 .ubi-card h3 { margin: 0; font-size: 16px; }

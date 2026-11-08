@@ -443,6 +443,8 @@ sel('m-buscar').addEventListener('input', () => {
     ubi.classList.add('marca', 'abierto');
     primero ??= m;
   });
+  const n = mapa.querySelectorAll('.mini.marca').length;
+  sel('m-cuenta').textContent = `· ${n} ${n === 1 ? 'coincide' : 'coinciden'}`;
   primero?.scrollIntoView({ block: 'center', behavior: 'smooth' });
 });
 
