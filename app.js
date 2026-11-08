@@ -180,9 +180,13 @@ function construir() {
 
 /* ==================== filtros / orden ==================== */
 
+// minusculas y sin acentos: comparaciones de texto de los filtros
+const norm = s => (s || '').toLowerCase()
+  .normalize('NFD').replace(/[̀-ͯ]/g, '');
+
 function pasa(c) {
-  const t = sel('f-buscar').value.toLowerCase();
-  if (t && !c.dataset.nombre.includes(t)) return false;
+  const t = norm(sel('f-buscar').value);
+  if (t && !norm(c.dataset.nombre).includes(t)) return false;
   const fc = sel('f-cat').value;
   if (fc && (fc === 'sin' ? c.dataset.cat !== '' : c.dataset.cat !== fc)) return false;
   const fm = sel('f-mec').value;
@@ -318,13 +322,13 @@ function pintarMapa() {
     filas.sort((a, b) => b.numero_balda - a.numero_balda);   // balda 1 = la de abajo
     const total = filas.reduce((n, u) => n + u.juegos.length, 0);
     const card = document.createElement('div');
-    card.className = 'ubi-card';
+    card.className = 'ubi-card abierto';
     card.innerHTML =
       `<div class="ubi-t"><h3>🗄️ ${nombre}</h3>
          <span class="hueco">${total} juegos</span><span class="flecha"></span></div>
        <div class="baldas">` +
       filas.map(u =>
-        `<div class="balda" data-mueble="${nombre}" data-balda="${u.numero_balda}"><div class="balda-t"><b>Balda ${u.numero_balda} · ${u.juegos.length} juegos</b><span class="flecha"></span></div><div class="juegos">` +
+        `<div class="balda abierto" data-mueble="${nombre}" data-balda="${u.numero_balda}"><div class="balda-t"><b>Balda ${u.numero_balda} · ${u.juegos.length} juegos</b><span class="flecha"></span></div><div class="juegos">` +
         u.juegos.slice().sort(porFamilia).map(j =>
           `<span class="mini" draggable="true" data-id="${j.id}"><img loading="lazy" src="${urlImagen(j.imagen)}"
              alt="" onerror="this.parentNode.classList.add('sin-img');this.remove()">` +
@@ -418,13 +422,13 @@ sel('mapa').addEventListener('click', e => {
 
 // minibuscador del mapa: marca ubicacion, balda y juego en azul
 sel('m-buscar').addEventListener('input', () => {
-  const q = sel('m-buscar').value.trim().toLowerCase();
+  const q = norm(sel('m-buscar').value.trim());
   const mapa = sel('mapa');
   mapa.querySelectorAll('.marca').forEach(el => el.classList.remove('marca'));
   if (!q) return;
   let primero = null;
   mapa.querySelectorAll('.mini').forEach(m => {
-    const nom = (m.querySelector('.nom')?.textContent || '').toLowerCase();
+    const nom = norm(m.querySelector('.nom')?.textContent);
     if (!nom.includes(q)) return;
     m.classList.add('marca');
     const balda = m.closest('.balda'), ubi = m.closest('.ubi-card');
@@ -433,6 +437,14 @@ sel('m-buscar').addEventListener('input', () => {
     primero ??= m;
   });
   primero?.scrollIntoView({ block: 'center', behavior: 'smooth' });
+});
+
+// boton: despliega o pliega todos los acordeones del mapa a la vez
+sel('m-plegar').addEventListener('click', () => {
+  const items = sel('mapa').querySelectorAll('.ubi-card, .balda');
+  const abrir = [...items].some(el => !el.classList.contains('abierto'));
+  items.forEach(el => el.classList.toggle('abierto', abrir));
+  sel('m-plegar').textContent = abrir ? '⊟ Plegar todo' : '⊞ Desplegar todo';
 });
 
 /* ==================== resumen ==================== */
