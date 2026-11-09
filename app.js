@@ -260,10 +260,8 @@ const porPagina = () =>
 function pintar() {
   guardarFiltros();
   const vis = cards.filter(pasa);
-  // base = lo que se veria sin filtros (deseados solo con f-col='deseado')
-  const w = sel('f-col').value;
-  const base = cards.filter(c =>
-    w === 'deseado' ? c.dataset.des === '1' : c.dataset.des !== '1');
+  // base = la vista por defecto sin filtros (nunca incluye deseados)
+  const base = cards.filter(c => c.dataset.des !== '1');
   sel('cuenta').textContent = vis.length === base.length
     ? '' : `· ${vis.length} coinciden con los filtros`;
   let set = aleatorio ? vis.filter(c => aleatorio.has(c)) : vis;
