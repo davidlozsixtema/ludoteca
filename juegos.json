@@ -1,6 +1,26 @@
 {
- "generado": "2026-11-06T21:59:09+00:00",
+ "generado": "2026-11-09T09:05:48+00:00",
  "juegos": [
+  {
+   "id": 436,
+   "nombre": "1000Km",
+   "imagen": "436.png",
+   "categoria_id": 3,
+   "mecanica_id": 4,
+   "tematica_id": 15,
+   "jugadores": "2-6",
+   "edad": "+7",
+   "duracion": "20-30",
+   "publicacion": 1954,
+   "deseado": false,
+   "en_camino": true,
+   "prestado": false,
+   "otra_ludoteca": true,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
   {
    "id": 175,
    "nombre": "3x4=Zas!",
@@ -223,15 +243,15 @@
   },
   {
    "id": 429,
-   "nombre": "All aboard",
-   "imagen": null,
-   "categoria_id": null,
-   "mecanica_id": null,
+   "nombre": "All Aboard",
+   "imagen": "429.png",
+   "categoria_id": 5,
+   "mecanica_id": 10,
    "tematica_id": null,
-   "jugadores": null,
-   "edad": null,
-   "duracion": null,
-   "publicacion": null,
+   "jugadores": "2-4",
+   "edad": "+4",
+   "duracion": "15-20",
+   "publicacion": 2023,
    "deseado": false,
    "en_camino": true,
    "prestado": false,
@@ -314,6 +334,26 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 450,
+   "nombre": "Arctica",
+   "imagen": "450.png",
+   "categoria_id": 1,
+   "mecanica_id": 17,
+   "tematica_id": 10,
+   "jugadores": "2-4",
+   "edad": "+12",
+   "duracion": "45-60",
+   "publicacion": 2025,
+   "deseado": false,
+   "en_camino": true,
    "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false,
@@ -1192,6 +1232,26 @@
    "expansiones": []
   },
   {
+   "id": 437,
+   "nombre": "Castle Combo",
+   "imagen": "437.png",
+   "categoria_id": 7,
+   "mecanica_id": 12,
+   "tematica_id": 1,
+   "jugadores": "2-5",
+   "edad": "+8",
+   "duracion": "20-30",
+   "publicacion": 2024,
+   "deseado": false,
+   "en_camino": true,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 151,
    "nombre": "Catan",
    "imagen": "151.png",
@@ -1373,6 +1433,26 @@
    "duracion": "30-40",
    "publicacion": 2024,
    "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 452,
+   "nombre": "City Tour",
+   "imagen": "452.png",
+   "categoria_id": 3,
+   "mecanica_id": 14,
+   "tematica_id": 15,
+   "jugadores": "2-4",
+   "edad": "+8",
+   "duracion": "20-30",
+   "publicacion": 2024,
+   "deseado": true,
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
@@ -1693,6 +1773,26 @@
    "duracion": "45",
    "publicacion": 1949,
    "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 453,
+   "nombre": "Color words",
+   "imagen": "453.png",
+   "categoria_id": 4,
+   "mecanica_id": 4,
+   "tematica_id": null,
+   "jugadores": "3-8",
+   "edad": "+8",
+   "duracion": "20-30",
+   "publicacion": 2024,
+   "deseado": true,
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
@@ -2102,6 +2202,26 @@
    "expansiones": []
   },
   {
+   "id": 448,
+   "nombre": "Dewan",
+   "imagen": "448.png",
+   "categoria_id": 3,
+   "mecanica_id": 12,
+   "tematica_id": 7,
+   "jugadores": "2-4",
+   "edad": "+8",
+   "duracion": "30-45",
+   "publicacion": 2024,
+   "deseado": true,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 295,
    "nombre": "Dice Flick",
    "imagen": "295.png",
@@ -2134,6 +2254,26 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 439,
+   "nombre": "Disney Villainous: Sugar and Spite",
+   "imagen": "439.png",
+   "categoria_id": 1,
+   "mecanica_id": 4,
+   "tematica_id": 1,
+   "jugadores": "2-3",
+   "edad": "+10",
+   "duracion": "45-60",
+   "publicacion": 2024,
+   "deseado": false,
+   "en_camino": true,
    "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false,
@@ -2441,6 +2581,26 @@
    "expansiones": []
   },
   {
+   "id": 446,
+   "nombre": "Ecos del tiempo",
+   "imagen": "446.png",
+   "categoria_id": 3,
+   "mecanica_id": 4,
+   "tematica_id": 4,
+   "jugadores": "2-4",
+   "edad": "+8",
+   "duracion": "20-30",
+   "publicacion": 2024,
+   "deseado": true,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 402,
    "nombre": "El Caso del Museo",
    "imagen": "402.png",
@@ -2613,6 +2773,26 @@
    "publicacion": 2017,
    "deseado": false,
    "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 438,
+   "nombre": "El susurro de las hojas",
+   "imagen": "438.png",
+   "categoria_id": 5,
+   "mecanica_id": 10,
+   "tematica_id": 7,
+   "jugadores": "2-4",
+   "edad": "+4",
+   "duracion": "15-20",
+   "publicacion": 2024,
+   "deseado": false,
+   "en_camino": true,
    "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false,
@@ -3971,6 +4151,26 @@
    "expansiones": []
   },
   {
+   "id": 433,
+   "nombre": "Gravity Maze",
+   "imagen": "433.png",
+   "categoria_id": 13,
+   "mecanica_id": 18,
+   "tematica_id": null,
+   "jugadores": "1-1",
+   "edad": "+8",
+   "duracion": "15-30",
+   "publicacion": 2014,
+   "deseado": false,
+   "en_camino": true,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 268,
    "nombre": "Guarro Pig",
    "imagen": "268.png",
@@ -4771,6 +4971,26 @@
    "expansiones": []
   },
   {
+   "id": 440,
+   "nombre": "Little Fox",
+   "imagen": "440.png",
+   "categoria_id": 5,
+   "mecanica_id": 10,
+   "tematica_id": 7,
+   "jugadores": "2-4",
+   "edad": "+4",
+   "duracion": "10-15",
+   "publicacion": 2023,
+   "deseado": false,
+   "en_camino": true,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 165,
    "nombre": "Lock & Roll",
    "imagen": "165.png",
@@ -5091,6 +5311,26 @@
    "expansiones": []
   },
   {
+   "id": 435,
+   "nombre": "Marie Curie",
+   "imagen": "435.png",
+   "categoria_id": 3,
+   "mecanica_id": 19,
+   "tematica_id": 4,
+   "jugadores": "1-4",
+   "edad": "+10",
+   "duracion": "30-45",
+   "publicacion": 2023,
+   "deseado": false,
+   "en_camino": true,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 312,
    "nombre": "Mascotas",
    "imagen": "312.png",
@@ -5183,6 +5423,26 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 444,
+   "nombre": "Men Nefer",
+   "imagen": "444.png",
+   "categoria_id": 11,
+   "mecanica_id": 2,
+   "tematica_id": 4,
+   "jugadores": "2-4",
+   "edad": "+14",
+   "duracion": "75-120",
+   "publicacion": 2024,
+   "deseado": false,
+   "en_camino": true,
    "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false,
@@ -5302,6 +5562,26 @@
    "duracion": "20",
    "publicacion": 2018,
    "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 447,
+   "nombre": "Mlem",
+   "imagen": "447.png",
+   "categoria_id": 3,
+   "mecanica_id": 13,
+   "tematica_id": 3,
+   "jugadores": "2-5",
+   "edad": "+8",
+   "duracion": "30-30",
+   "publicacion": 2023,
+   "deseado": true,
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
@@ -5591,6 +5871,26 @@
    "expansiones": []
   },
   {
+   "id": 442,
+   "nombre": "Níjar",
+   "imagen": "442.png",
+   "categoria_id": 3,
+   "mecanica_id": 12,
+   "tematica_id": 15,
+   "jugadores": "2-4",
+   "edad": "+10",
+   "duracion": "45-60",
+   "publicacion": 2024,
+   "deseado": false,
+   "en_camino": true,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 355,
    "nombre": "Obsession",
    "imagen": "355.png",
@@ -5791,6 +6091,26 @@
    "expansiones": []
   },
   {
+   "id": 443,
+   "nombre": "Palabrópolis",
+   "imagen": "443.png",
+   "categoria_id": 4,
+   "mecanica_id": 4,
+   "tematica_id": 15,
+   "jugadores": "2-6",
+   "edad": "+8",
+   "duracion": "20-30",
+   "publicacion": 2024,
+   "deseado": false,
+   "en_camino": true,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 95,
    "nombre": "Paleo",
    "imagen": "95.png",
@@ -5814,8 +6134,8 @@
    "id": 23,
    "nombre": "Pandemic Legacy: Temporada 0",
    "imagen": "23.png",
-   "categoria_id": 1,
-   "mecanica_id": 9,
+   "categoria_id": 9,
+   "mecanica_id": 10,
    "tematica_id": 4,
    "jugadores": "2-4",
    "edad": "+14",
@@ -5883,6 +6203,26 @@
    "publicacion": 2022,
    "deseado": false,
    "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 434,
+   "nombre": "Parks",
+   "imagen": "434.png",
+   "categoria_id": 11,
+   "mecanica_id": 14,
+   "tematica_id": 7,
+   "jugadores": "1-5",
+   "edad": "+10",
+   "duracion": "30-60",
+   "publicacion": 2019,
+   "deseado": false,
+   "en_camino": true,
    "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false,
@@ -6311,6 +6651,26 @@
    "expansiones": []
   },
   {
+   "id": 449,
+   "nombre": "Queen Alice",
+   "imagen": "449.png",
+   "categoria_id": 1,
+   "mecanica_id": 4,
+   "tematica_id": 1,
+   "jugadores": "2-4",
+   "edad": "+10",
+   "duracion": "30-45",
+   "publicacion": 2025,
+   "deseado": false,
+   "en_camino": true,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 383,
    "nombre": "Quick Stop Family",
    "imagen": "383.png",
@@ -6351,6 +6711,26 @@
    "expansiones": []
   },
   {
+   "id": 451,
+   "nombre": "Quorum",
+   "imagen": "451.png",
+   "categoria_id": 1,
+   "mecanica_id": 4,
+   "tematica_id": 4,
+   "jugadores": "2-4",
+   "edad": "+12",
+   "duracion": "45-60",
+   "publicacion": 2024,
+   "deseado": false,
+   "en_camino": true,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 290,
    "nombre": "Raptor Race",
    "imagen": "290.png",
@@ -6382,6 +6762,26 @@
    "duracion": "90",
    "publicacion": 2023,
    "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 445,
+   "nombre": "Rebirth",
+   "imagen": "445.png",
+   "categoria_id": 1,
+   "mecanica_id": 1,
+   "tematica_id": 4,
+   "jugadores": "2-4",
+   "edad": "+8",
+   "duracion": "45-60",
+   "publicacion": 2024,
+   "deseado": true,
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
@@ -6773,6 +7173,26 @@
    "publicacion": 1988,
    "deseado": false,
    "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 441,
+   "nombre": "SETI",
+   "imagen": "441.png",
+   "categoria_id": 11,
+   "mecanica_id": 2,
+   "tematica_id": 3,
+   "jugadores": "1-4",
+   "edad": "+13",
+   "duracion": "90-120",
+   "publicacion": 2024,
+   "deseado": false,
+   "en_camino": true,
    "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false,
@@ -7381,6 +7801,46 @@
    "expansiones": []
   },
   {
+   "id": 431,
+   "nombre": "The Gang",
+   "imagen": "431.png",
+   "categoria_id": 4,
+   "mecanica_id": 10,
+   "tematica_id": null,
+   "jugadores": "3-6",
+   "edad": "+7",
+   "duracion": "20-20",
+   "publicacion": 2024,
+   "deseado": false,
+   "en_camino": true,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 432,
+   "nombre": "The Hanging Gardens",
+   "imagen": "432.png",
+   "categoria_id": 3,
+   "mecanica_id": 1,
+   "tematica_id": 4,
+   "jugadores": "2-5",
+   "edad": "+10",
+   "duracion": "30-45",
+   "publicacion": 2023,
+   "deseado": false,
+   "en_camino": true,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 173,
    "nombre": "The Island",
    "imagen": "173.png",
@@ -7713,6 +8173,26 @@
    "publicacion": 2020,
    "deseado": false,
    "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 430,
+   "nombre": "Tras los pasos de Darwin",
+   "imagen": "430.png",
+   "categoria_id": 3,
+   "mecanica_id": 12,
+   "tematica_id": 7,
+   "jugadores": "2-4",
+   "edad": "+10",
+   "duracion": "45-60",
+   "publicacion": 2024,
+   "deseado": false,
+   "en_camino": true,
    "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false,
@@ -8578,8 +9058,8 @@
    "id": 376,
    "nombre": "Zombie Kidz Evolution",
    "imagen": "376.png",
-   "categoria_id": 5,
-   "mecanica_id": 9,
+   "categoria_id": 9,
+   "mecanica_id": 10,
    "tematica_id": 6,
    "jugadores": "2-4",
    "edad": "+7",
@@ -8665,42 +9145,72 @@
   {
    "id": 1,
    "valor": "estrategia",
-   "descripcion": "Juegos donde la planificacion, la gestion de recursos y la toma de decisiones son clave para ganar."
+   "descripcion": "Juegos donde la planificaci?n, la gesti?n de recursos y la toma de decisiones son clave para ganar."
   },
   {
    "id": 2,
    "valor": "tematico",
-   "descripcion": "Experiencias inmersivas con un gran enfoque en la narrativa, la ambientacion y la aventura."
+   "descripcion": "Experiencias inmersivas con un gran enfoque en la narrativa, la ambientaci?n y la aventura."
   },
   {
    "id": 3,
    "valor": "familiar",
-   "descripcion": "Juegos con reglas accesibles y dinamicas equilibradas, ideales para disfrutar entre adultos y ninos."
+   "descripcion": "Juegos con reglas accesibles y din?micas equilibradas, ideales para disfrutar entre adultos y ni?os."
   },
   {
    "id": 4,
    "valor": "party_game",
-   "descripcion": "Titulos dinamicos y divertidos enfocados en la interaccion social, las risas y grupos grandes."
+   "descripcion": "T?tulos din?micos y divertidos enfocados en la interacci?n social, las risas y grupos grandes."
   },
   {
    "id": 5,
    "valor": "infantil",
-   "descripcion": "Disenados especificamente para estimular el aprendizaje y la diversion de los mas pequenos."
+   "descripcion": "Dise?ados espec?ficamente para estimular el aprendizaje y la diversi?n de los m?s peque?os."
   },
   {
    "id": 6,
    "valor": "wargame",
-   "descripcion": "Simulacion historica o militar detallada que recrea batallas reales o ficticias con gran realismo."
+   "descripcion": "Simulaci?n hist?rica o militar detallada que recrea batallas reales o ficticias con gran realismo."
   },
   {
    "id": 7,
    "valor": "filler",
-   "descripcion": "Juegos rapidos, sencillos y de caja pequena, ideales para jugar entre partidas de juegos mas largos."
+   "descripcion": "Juegos r?pidos, sencillos y de caja peque?a, ideales para jugar entre partidas de juegos m?s largos."
   },
   {
    "id": 8,
    "valor": "abstracto",
-   "descripcion": "Juegos de logica pura y estrategia mental sin una tematica narrativa que influya en las reglas."
+   "descripcion": "Juegos de l?gica pura y estrategia mental sin una tem?tica narrativa que influya en las reglas."
+  },
+  {
+   "id": 9,
+   "valor": "legacy",
+   "descripcion": "Campa?as con cambios permanentes: se rompen cartas, se pegan adhesivos y la historia evoluciona."
+  },
+  {
+   "id": 10,
+   "valor": "campana",
+   "descripcion": "Progresi?n narrativa entre partidas sin modificar componentes de forma irreversible."
+  },
+  {
+   "id": 11,
+   "valor": "eurogame",
+   "descripcion": "Optimizaci?n de recursos y baja interacci?n directa: planificar tu motor antes que atacar."
+  },
+  {
+   "id": 12,
+   "valor": "ameritrash",
+   "descripcion": "Fuerte carga tem?tica y narrativa, azar elevado y experiencia inmersiva."
+  },
+  {
+   "id": 13,
+   "valor": "solitario",
+   "descripcion": "Dise?ados para jugar en solitario o con modos aut?mata destacados."
+  },
+  {
+   "id": 14,
+   "valor": "rol_oculto_deduccion",
+   "descripcion": "Investigaci?n, pistas y misterio: deducir la soluci?n antes que el resto."
   }
  ],
  "mecanicas": [
@@ -8717,37 +9227,32 @@
   {
    "id": 3,
    "valor": "deckbuilding",
-   "descripcion": "Empiezas con un mazo de cartas basico y lo vas mejorando comprando cartas mas potentes."
+   "descripcion": "Empiezas con un mazo de cartas b?sico y lo vas mejorando comprando cartas m?s potentes."
   },
   {
    "id": 4,
    "valor": "gestion_mano",
-   "descripcion": "El nucleo del juego consiste en decidir que cartas de tu mano jugar, conservar o descartar."
+   "descripcion": "El n?cleo del juego consiste en decidir qu? cartas de tu mano jugar, conservar o descartar."
   },
   {
    "id": 5,
    "valor": "control_areas",
-   "descripcion": "Competicion directa por dominar zonas especificas del tablero mediante mayorias de componentes."
+   "descripcion": "Competici?n directa por dominar zonas espec?ficas del tablero mediante mayor?as de componentes."
   },
   {
    "id": 6,
    "valor": "roles_ocultos",
-   "descripcion": "Los jugadores reciben identidades secretas; unos deben enganar y otros deducir quien es quien."
+   "descripcion": "Los jugadores reciben identidades secretas; unos deben enga?ar y otros deducir qui?n es qui?n."
   },
   {
    "id": 7,
    "valor": "tiro_dados",
-   "descripcion": "Uso de dados para determinar el exito de las acciones, el combate o la obtencion de recursos."
+   "descripcion": "Uso de dados para determinar el ?xito de las acciones, el combate o la obtenci?n de recursos."
   },
   {
    "id": 8,
    "valor": "set_collection",
-   "descripcion": "Mecanica basada en reunir combinaciones especificas de cartas o elementos para puntuar alto."
-  },
-  {
-   "id": 9,
-   "valor": "legacy",
-   "descripcion": "Formato de campana donde el juego cambia para siempre: se rompen cartas, se pegan adhesivos y la historia avanza."
+   "descripcion": "Mec?nica basada en reunir combinaciones espec?ficas de cartas o elementos para puntuar alto."
   },
   {
    "id": 10,
@@ -8762,59 +9267,119 @@
   {
    "id": 12,
    "valor": "drafting",
-   "descripcion": "Elige una carta o componente de un grupo, quedate con uno y pasa el resto al jugador de al lado."
+   "descripcion": "Elige una carta o componente de un grupo, qu?date con uno y pasa el resto al jugador de al lado."
+  },
+  {
+   "id": 13,
+   "valor": "forzar_suerte",
+   "descripcion": "Decidir si arriesgar lo ganado para conseguir m?s puntos (push your luck)."
+  },
+  {
+   "id": 14,
+   "valor": "movimiento_punto_a_punto",
+   "descripcion": "Moverse entre nodos o zonas del mapa siguiendo rutas definidas."
+  },
+  {
+   "id": 15,
+   "valor": "tablero_modular",
+   "descripcion": "El mapa se construye o cambia con losetas o hex?gonos distintos en cada partida."
+  },
+  {
+   "id": 16,
+   "valor": "colocacion_poliominos",
+   "descripcion": "Encajar piezas tipo Tetris para optimizar el espacio."
+  },
+  {
+   "id": 17,
+   "valor": "gestion_recursos",
+   "descripcion": "Producir, transformar y gastar recursos con eficiencia."
+  },
+  {
+   "id": 18,
+   "valor": "deduccion",
+   "descripcion": "L?gica, pistas y misterio: inferir informaci?n oculta."
+  },
+  {
+   "id": 19,
+   "valor": "bazas",
+   "descripcion": "Ganar o perder bazas de cartas siguiendo reglas de palo (trick-taking)."
   }
  ],
  "tematicas": [
   {
    "id": 1,
    "valor": "fantasia",
-   "descripcion": "Mundos magicos habitados por criaturas legendarias, heroes, hechizos y dragones."
+   "descripcion": "Mundos m?gicos habitados por criaturas legendarias, h?roes, hechizos y dragones."
   },
   {
    "id": 2,
    "valor": "ciencia_ficcion",
-   "descripcion": "Universos futuristas con tecnologia avanzada, distopias, robotica y viajes en el tiempo."
+   "descripcion": "Universos futuristas con tecnolog?a avanzada, distop?as, rob?tica y viajes en el tiempo."
   },
   {
    "id": 3,
    "valor": "espacial",
-   "descripcion": "Aventuras mas alla de la Tierra, imperios galacticos, naves estelares y razas alienigenas."
+   "descripcion": "Aventuras m?s all? de la Tierra, imperios gal?cticos, naves estelares y razas alien?genas."
   },
   {
    "id": 4,
    "valor": "historico",
-   "descripcion": "Ambientado en epocas reales de la humanidad, desde el Antiguo Egipto hasta el siglo XX."
+   "descripcion": "Ambientado en ?pocas reales de la humanidad, desde el Antiguo Egipto hasta el siglo XX."
   },
   {
    "id": 5,
    "valor": "belico",
-   "descripcion": "Centrado en conflictos armados, tactica militar y batallas de la historia."
+   "descripcion": "Centrado en conflictos armados, t?ctica militar y batallas de la historia."
   },
   {
    "id": 6,
    "valor": "terror",
-   "descripcion": "Atmosferas oscuras llenas de monstruos, supervivencia, zombis o mitos de Lovecraft."
+   "descripcion": "Atm?sferas oscuras llenas de monstruos, supervivencia, zombis o mitos de Lovecraft."
   },
   {
    "id": 7,
    "valor": "naturaleza_animales",
-   "descripcion": "Enfocado en la fauna, los ecosistemas, la evolucion y la belleza del medio ambiente."
+   "descripcion": "Enfocado en la fauna, los ecosistemas, la evoluci?n y la belleza del medio ambiente."
   },
   {
    "id": 8,
    "valor": "economico_comercio",
-   "descripcion": "Gestion de empresas, dinero, rutas comerciales, bolsa o redes de transporte ferroviario."
+   "descripcion": "Gesti?n de empresas, dinero, rutas comerciales, bolsa o redes de transporte ferroviario."
   },
   {
    "id": 9,
    "valor": "mitologia",
-   "descripcion": "Inspirado en las leyendas de los antiguos dioses griegos, nordicos, egipcios o aztecas."
+   "descripcion": "Inspirado en las leyendas de los antiguos dioses griegos, n?rdicos, egipcios o aztecas."
   },
   {
    "id": 10,
    "valor": "aventura",
-   "descripcion": "Viajes epicos, exploracion de mapas desconocidos y superacion de peligros narrativos."
+   "descripcion": "Viajes ?picos, exploraci?n de mapas desconocidos y superaci?n de peligros narrativos."
+  },
+  {
+   "id": 11,
+   "valor": "misterio_investigacion",
+   "descripcion": "Detectives, polic?aco y resoluci?n de casos sin terror sobrenatural."
+  },
+  {
+   "id": 12,
+   "valor": "civilizacion",
+   "descripcion": "Evoluci?n hist?rica y gesti?n de imperios o culturas a trav?s de las edades."
+  },
+  {
+   "id": 13,
+   "valor": "postapocaliptico",
+   "descripcion": "Mundos tras la cat?strofe: supervivencia entre ruinas de la civilizaci?n."
+  },
+  {
+   "id": 14,
+   "valor": "piratas_maritimo",
+   "descripcion": "Aventuras en el mar: piratas, barcos, comercio naval y exploraci?n."
+  },
+  {
+   "id": 15,
+   "valor": "vida_cotidiana_gastronomia",
+   "descripcion": "Cocina, arte, viajes y escenas de la vida diaria."
   }
  ],
  "ubicaciones": [
@@ -8891,12 +9456,6 @@
      "expansion_de": null
     },
     {
-     "id": 23,
-     "nombre": "Pandemic Legacy: Temporada 0",
-     "imagen": "23.png",
-     "expansion_de": null
-    },
-    {
      "id": 85,
      "nombre": "Wingspan",
      "imagen": "85.png",
@@ -8936,6 +9495,12 @@
      "id": 42,
      "nombre": "Woodcraft",
      "imagen": "42.png",
+     "expansion_de": null
+    },
+    {
+     "id": 23,
+     "nombre": "Pandemic Legacy: Temporada 0",
+     "imagen": "23.png",
      "expansion_de": null
     },
     {
@@ -11068,15 +11633,15 @@
      "expansion_de": null
     },
     {
-     "id": 376,
-     "nombre": "Zombie Kidz Evolution",
-     "imagen": "376.png",
-     "expansion_de": null
-    },
-    {
      "id": 362,
      "nombre": "Strange World",
      "imagen": "362.png",
+     "expansion_de": null
+    },
+    {
+     "id": 376,
+     "nombre": "Zombie Kidz Evolution",
+     "imagen": "376.png",
      "expansion_de": null
     },
     {
@@ -11220,6 +11785,12 @@
      "expansion_de": null
     },
     {
+     "id": 201,
+     "nombre": "Cluedo",
+     "imagen": "201.png",
+     "expansion_de": null
+    },
+    {
      "id": 332,
      "nombre": "Dice Forge",
      "imagen": "332.png",
@@ -11229,12 +11800,6 @@
      "id": 177,
      "nombre": "7 Wonders Architects",
      "imagen": "177.png",
-     "expansion_de": null
-    },
-    {
-     "id": 201,
-     "nombre": "Cluedo",
-     "imagen": "201.png",
      "expansion_de": null
     },
     {

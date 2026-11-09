@@ -1,7 +1,7 @@
 {
   "name": "Mi Ludoteca",
   "short_name": "Ludoteca",
-  "description": "Catalogo de juegos de mesa y donde esta cada uno.",
+  "description": "Catálogo de juegos de mesa y dónde está cada uno.",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

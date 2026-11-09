@@ -35,7 +35,7 @@ async function cargarDatos() {
   // 2) ultima cache guardada
   const cache = localStorage.getItem('datos-cache');
   if (cache) return JSON.parse(cache);
-  throw new Error('Sin datos: no hay juegos.json ni cache.');
+  throw new Error('Sin datos: no hay juegos.json ni caché.');
 }
 
 function urlImagen(nombre) {
@@ -136,7 +136,7 @@ function construir() {
       j.deseado ? '<span class="badge" title="Lista de deseos">❤️</span>' :
       j.en_camino ? '<span class="badge" title="En camino">🚚</span>' :
       j.otra_ludoteca ? '<span class="badge" title="De otra ludoteca">📤</span>' :
-      j.fuera_coleccion ? '<span class="badge" title="Fuera de la coleccion">📦</span>' :
+      j.fuera_coleccion ? '<span class="badge" title="Fuera de la colección">📦</span>' :
       j.prestado ? '<span class="badge" title="Prestado">🤝</span>' : '';
     const chips = [CAT[j.categoria_id], MEC[j.mecanica_id], TEM[j.tematica_id]]
       .filter(Boolean).map(v => `<span class="chip">${v}</span>`).join('');
@@ -156,11 +156,11 @@ function construir() {
           src="${urlImagen(m.imagen)}" onerror="this.remove()">`;
     let exp = '';
     if (j.padre)
-      exp = `<div class="exp" title="Expansion">${miniExp(j.padre, 'Expansion de')}</div>`;
+      exp = `<div class="exp" title="Expansión">${miniExp(j.padre, 'Expansión de')}</div>`;
     else if (j.expansiones && j.expansiones.length) {
       const extra = j.expansiones.length - 3;
       exp = `<div class="exp" title="Expansiones: ${j.expansiones.map(e => e.nombre).join(', ')}">` +
-        j.expansiones.slice(0, 3).map(e => miniExp(e, 'Expansion')).join('') +
+        j.expansiones.slice(0, 3).map(e => miniExp(e, 'Expansión')).join('') +
         (extra > 0 ? `<span class="mas">+${extra}</span>` : '') + '</div>';
     }
     d.innerHTML =
@@ -480,7 +480,7 @@ function pintarResumen() {
     ['En camino', cuentan(j => j.en_camino)],
     ['En otras ludotecas', cuentan(j => j.otra_ludoteca)],
     ['Prestados', cuentan(j => j.prestado)],
-    ['Fuera de coleccion', cuentan(j => j.fuera_coleccion)],
+    ['Fuera de colección', cuentan(j => j.fuera_coleccion)],
     ['Sin foto', cuentan(j => !j.imagen)],
     ['Sin ubicar', fisicos.filter(j => !ubicacionDe[j.id] && !j.prestado).length],
   ].map(k => kpi(k[0], k[1])).join('');
@@ -493,9 +493,9 @@ function pintarResumen() {
       .sort((a, b) => b[1] - a[1]);
   };
   sel('resumen').innerHTML =
-    bloque('Por categoria', porId('categoria_id', tabla.c)) +
-    bloque('Por mecanica', porId('mecanica_id', tabla.m)) +
-    bloque('Por tematica', porId('tematica_id', tabla.t));
+    bloque('Por categoría', porId('categoria_id', tabla.c)) +
+    bloque('Por mecánica', porId('mecanica_id', tabla.m)) +
+    bloque('Por temática', porId('tematica_id', tabla.t));
 }
 
 /* ==================== editor (anadir / editar) ==================== */
@@ -615,7 +615,7 @@ function actualizarBanner() {
   const viejo = cola.base && datosBase.generado && cola.base !== datosBase.generado;
   sel('pend-txt').textContent =
     `⚠️ ${n} cambio${n > 1 ? 's' : ''} sin subir` +
-    (viejo ? ' — los datos se actualizaron despues' : '');
+    (viejo ? ' — los datos se actualizaron después' : '');
 }
 
 function descargarCambios() {
@@ -714,7 +714,7 @@ sel('e-guardar').onclick = guardarEditor;
 sel('e-cancelar').onclick = cerrarEditor;
 sel('pend-dl').onclick = descargarCambios;
 sel('pend-rm').onclick = () => {
-  if (!confirm(`Descartar los ${cola.cambios.length} cambios pendientes?`)) return;
+  if (!confirm(`¿Descartar los ${cola.cambios.length} cambios pendientes?`)) return;
   cola = { base: null, cambios: [] };
   guardarCola();
   reconstruir();

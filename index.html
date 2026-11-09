@@ -13,7 +13,7 @@
   <header>
     <span class="logo">🎲 Mi Ludoteca</span>
     <nav>
-      <a data-vista="catalogo" class="activo">Catalogo</a>
+      <a data-vista="catalogo" class="activo">Catálogo</a>
       <a data-vista="mapa">Mapa</a>
       <a data-vista="resumen">Resumen</a>
     </nav>
@@ -23,37 +23,37 @@
 
   <main>
     <section id="v-catalogo">
-      <h1>Catalogo</h1>
+      <h1>Catálogo</h1>
       <p class="sub"><span id="total"></span> <span id="cuenta"></span></p>
       <div class="filtros">
         <input id="f-buscar" type="search" placeholder="🔍 Buscar juegos...">
-        <select id="f-cat" title="Publico objetivo / estilo del juego">
-          <option value="">Categoria</option>
+        <select id="f-cat" title="Público objetivo / estilo del juego">
+          <option value="">Categoría</option>
           <option value="sin">— Sin asignar —</option>
         </select>
-        <select id="f-mec" title="Mecanica: como se juega">
-          <option value="">Mecanica</option>
+        <select id="f-mec" title="Mecánica: cómo se juega">
+          <option value="">Mecánica</option>
           <option value="sin">— Sin asignar —</option>
         </select>
-        <select id="f-tem" title="Tematica: ambientacion del juego">
-          <option value="">Tematica</option>
+        <select id="f-tem" title="Temática: ambientación del juego">
+          <option value="">Temática</option>
           <option value="sin">— Sin asignar —</option>
         </select>
         <input id="f-jug" type="number" min="1" max="99" placeholder="Jugadores"
-               title="Numero de jugadores (casa con el rango del juego)">
-        <input id="f-dur" type="number" min="0" max="999" placeholder="Duracion (min)"
-               title="Minutos de partida (casa con el rango del juego)">
+               title="Número de jugadores (coincide con el rango del juego)">
+        <input id="f-dur" type="number" min="0" max="999" placeholder="Duración (min)"
+               title="Minutos de partida (coincide con el rango del juego)">
         <select id="f-edad" title="Edad recomendada">
           <option value="">Edad</option>
         </select>
-        <select id="f-col" title="Estado en tu coleccion">
-          <option value="">Coleccion</option>
+        <select id="f-col" title="Estado en tu colección">
+          <option value="">Colección</option>
           <option value="propietario">Propietario</option>
           <option value="otra">No propietario</option>
           <option value="camino">En camino</option>
           <option value="deseado">Deseado</option>
           <option value="prestado">Prestado</option>
-          <option value="fuera">Fuera de coleccion</option>
+          <option value="fuera">Fuera de colección</option>
         </select>
         <select id="f-orden" title="Ordenar">
           <option value="">Orden: aleatorio</option>
@@ -61,26 +61,26 @@
           <option value="nombre-desc">Nombre Z-A</option>
           <option value="pub-desc">Año: recientes</option>
           <option value="pub-asc">Año: antiguos</option>
-          <option value="dur-asc">Duracion: cortos</option>
-          <option value="dur-desc">Duracion: largos</option>
+          <option value="dur-asc">Duración: cortos</option>
+          <option value="dur-desc">Duración: largos</option>
         </select>
-        <label class="check" title="Solo juegos sin caratula"><input type="checkbox" id="f-foto"> Sin foto</label>
-        <label class="check" title="Solo juegos de la coleccion sin balda asignada"><input type="checkbox" id="f-ubi"> Sin ubicar</label>
+        <label class="check" title="Solo juegos sin carátula"><input type="checkbox" id="f-foto"> Sin foto</label>
+        <label class="check" title="Solo juegos de la colección sin balda asignada"><input type="checkbox" id="f-ubi"> Sin ubicar</label>
         <button class="btn sec" id="b-ale" title="3 juegos al azar">🎲 3 al azar</button>
         <button class="btn sec" id="b-limpiar" type="button" title="Quitar todos los filtros">✖ Limpiar</button>
       </div>
       <div class="cards" id="rejilla"></div>
       <p id="sin-resultados" class="sub oculto" style="margin-top:26px">
-        Ningun juego pasa los filtros.</p>
+        Ningún juego pasa los filtros.</p>
       <div id="pagin" class="pagin"></div>
     </section>
 
     <section id="v-mapa" class="oculto">
       <h1>Mapa</h1>
-      <p class="sub">Donde esta ubicado cada juego.</p>
+      <p class="sub">Dónde está ubicado cada juego.</p>
       <div class="fila-map">
         <input id="m-buscar" type="search" placeholder="🔍 Buscar juego en el mapa..."
-               title="Busca por nombre y marca la ubicacion y la balda donde esta">
+               title="Busca por nombre y marca la ubicación y la balda donde está">
         <span id="m-cuenta" class="hueco"></span>
         <button id="m-plegar" class="btn sec" type="button">⊟ Plegar todo</button>
       </div>
@@ -90,7 +90,7 @@
 
     <section id="v-resumen" class="oculto">
       <h1>Resumen</h1>
-      <p class="sub">La coleccion por categoria, mecanica y tematica.</p>
+      <p class="sub">La colección por categoría, mecánica y temática.</p>
       <div id="kpis" class="kpis"></div>
       <div id="resumen" class="barras"></div>
     </section>
@@ -103,14 +103,14 @@
       <h3 id="ed-titulo">Añadir juego</h3>
       <label>Nombre <input id="e-nombre"></label>
       <div class="ed-fila">
-        <label>Categoria <select id="e-cat"></select></label>
-        <label>Mecanica <select id="e-mec"></select></label>
-        <label>Tematica <select id="e-tem"></select></label>
+        <label>Categoría <select id="e-cat"></select></label>
+        <label>Mecánica <select id="e-mec"></select></label>
+        <label>Temática <select id="e-tem"></select></label>
       </div>
       <div class="ed-fila">
         <label>Jugadores <input id="e-jug" placeholder="2-4"></label>
         <label>Edad <input id="e-edad" placeholder="+8"></label>
-        <label>Duracion <input id="e-dur" placeholder="30-60"></label>
+        <label>Duración <input id="e-dur" placeholder="30-60"></label>
         <label>Año <input id="e-pub" type="number" min="1900" max="2100"></label>
       </div>
       <div class="ed-fila">
@@ -119,12 +119,12 @@
           <option value="deseado">Lista de deseos</option>
           <option value="camino">En camino</option>
           <option value="otra">En otra ludoteca</option>
-          <option value="fuera">Fuera de la coleccion</option>
+          <option value="fuera">Fuera de la colección</option>
         </select></label>
         <label class="ed-check"><input type="checkbox" id="e-pre"> Prestado</label>
       </div>
       <div class="ed-fila">
-        <label>Ubicacion <select id="e-mueble"></select></label>
+        <label>Ubicación <select id="e-mueble"></select></label>
         <label>Balda <select id="e-balda"></select></label>
       </div>
       <div class="ed-btns">
@@ -136,7 +136,7 @@
 
   <div id="pendientes" class="oculto">
     <span id="pend-txt"></span>
-    <button id="pend-dl" class="btn" title="Descarga cambios.json y subelo al PC">⬇ cambios.json</button>
+    <button id="pend-dl" class="btn" title="Descarga cambios.json y súbelo al PC">⬇ cambios.json</button>
     <button id="pend-rm" class="btn sec" title="Borra la cola local">Descartar</button>
   </div>
 
