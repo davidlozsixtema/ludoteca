@@ -672,7 +672,7 @@ function reconstruir() {
   ordenar();
   pintar();
   sel('total').textContent =
-    `${coleccion().length} juegos en la ludoteca`;
+    `${datos.juegos.length} juegos registrados`;
   actualizarBanner();
 }
 
