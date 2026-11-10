@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-09T09:05:48+00:00",
+ "generado": "2026-11-10T10:53:04+00:00",
  "juegos": [
   {
    "id": 436,
@@ -1062,6 +1062,26 @@
    "expansiones": []
   },
   {
+   "id": 456,
+   "nombre": "Capicúa: Arquitectos del Tiempo",
+   "imagen": "456.png",
+   "categoria_id": null,
+   "mecanica_id": null,
+   "tematica_id": null,
+   "jugadores": "2-4",
+   "edad": "+8",
+   "duracion": "20-20",
+   "publicacion": 2025,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 179,
    "nombre": "Capitán Bacon",
    "imagen": "179.png",
@@ -1352,6 +1372,26 @@
    "edad": "+9",
    "duracion": "25-25",
    "publicacion": 2022,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 454,
+   "nombre": "Cazapalabras",
+   "imagen": "454.png",
+   "categoria_id": 4,
+   "mecanica_id": null,
+   "tematica_id": null,
+   "jugadores": "2-6",
+   "edad": "+8",
+   "duracion": "10-15",
+   "publicacion": 2024,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -2292,6 +2332,26 @@
    "edad": "+8",
    "duracion": "30",
    "publicacion": 2008,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 455,
+   "nombre": "Dixit: Daydreams",
+   "imagen": "455.png",
+   "categoria_id": null,
+   "mecanica_id": null,
+   "tematica_id": null,
+   "jugadores": "3-6",
+   "edad": "+8",
+   "duracion": "30-30",
+   "publicacion": 2014,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -5931,26 +5991,6 @@
    "expansiones": []
   },
   {
-   "id": 199,
-   "nombre": "Océanos de papel",
-   "imagen": "199.png",
-   "categoria_id": 3,
-   "mecanica_id": 4,
-   "tematica_id": 7,
-   "jugadores": "2-4",
-   "edad": "+8",
-   "duracion": "30-45",
-   "publicacion": 2022,
-   "deseado": false,
-   "en_camino": false,
-   "prestado": false,
-   "otra_ludoteca": false,
-   "fuera_coleccion": false,
-   "expansion_de": null,
-   "padre": null,
-   "expansiones": []
-  },
-  {
    "id": 265,
    "nombre": "On Tour",
    "imagen": "265.png",
@@ -7041,6 +7081,26 @@
    "expansiones": []
   },
   {
+   "id": 458,
+   "nombre": "Salton Sea",
+   "imagen": "458.png",
+   "categoria_id": null,
+   "mecanica_id": null,
+   "tematica_id": null,
+   "jugadores": "4-4",
+   "edad": "+12",
+   "duracion": "120-120",
+   "publicacion": 2022,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
    "id": 180,
    "nombre": "Samurai Sword",
    "imagen": "180.png",
@@ -7091,6 +7151,26 @@
    "edad": "+12",
    "duracion": "30-30",
    "publicacion": 1988,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": []
+  },
+  {
+   "id": 457,
+   "nombre": "Scattergories: Ampliación 1",
+   "imagen": "457.png",
+   "categoria_id": null,
+   "mecanica_id": null,
+   "tematica_id": null,
+   "jugadores": "2-6",
+   "edad": "+12",
+   "duracion": "30-30",
+   "publicacion": 2025,
    "deseado": false,
    "en_camino": false,
    "prestado": false,
@@ -9686,9 +9766,9 @@
      "expansion_de": null
     },
     {
-     "id": 365,
-     "nombre": "Take It Easy!",
-     "imagen": "365.png",
+     "id": 455,
+     "nombre": "Dixit: Daydreams",
+     "imagen": "455.png",
      "expansion_de": null
     },
     {
@@ -9701,6 +9781,12 @@
      "id": 356,
      "nombre": "Orbito",
      "imagen": "356.png",
+     "expansion_de": null
+    },
+    {
+     "id": 365,
+     "nombre": "Take It Easy!",
+     "imagen": "365.png",
      "expansion_de": null
     },
     {
@@ -9777,6 +9863,12 @@
      "expansion_de": 261
     },
     {
+     "id": 454,
+     "nombre": "Cazapalabras",
+     "imagen": "454.png",
+     "expansion_de": null
+    },
+    {
      "id": 17,
      "nombre": "Sombra sobre Londres",
      "imagen": "17.png",
@@ -9792,12 +9884,6 @@
      "id": 163,
      "nombre": "Treasure Hunters",
      "imagen": "163.png",
-     "expansion_de": null
-    },
-    {
-     "id": 181,
-     "nombre": "The number",
-     "imagen": "181.png",
      "expansion_de": null
     },
     {
@@ -9828,12 +9914,6 @@
      "id": 173,
      "nombre": "The Island",
      "imagen": "173.png",
-     "expansion_de": null
-    },
-    {
-     "id": 94,
-     "nombre": "Number Drop",
-     "imagen": "94.png",
      "expansion_de": null
     },
     {
@@ -9883,6 +9963,24 @@
      "id": 425,
      "nombre": "Triominos",
      "imagen": "425.png",
+     "expansion_de": null
+    },
+    {
+     "id": 457,
+     "nombre": "Scattergories: Ampliación 1",
+     "imagen": "457.png",
+     "expansion_de": null
+    },
+    {
+     "id": 456,
+     "nombre": "Capicúa: Arquitectos del Tiempo",
+     "imagen": "456.png",
+     "expansion_de": null
+    },
+    {
+     "id": 458,
+     "nombre": "Salton Sea",
+     "imagen": "458.png",
      "expansion_de": null
     },
     {
@@ -9979,12 +10077,6 @@
      "id": 252,
      "nombre": "Momiji",
      "imagen": "252.png",
-     "expansion_de": null
-    },
-    {
-     "id": 199,
-     "nombre": "Océanos de papel",
-     "imagen": "199.png",
      "expansion_de": null
     },
     {
@@ -10175,9 +10267,9 @@
      "expansion_de": null
     },
     {
-     "id": 268,
-     "nombre": "Guarro Pig",
-     "imagen": "268.png",
+     "id": 191,
+     "nombre": "Perudo",
+     "imagen": "191.png",
      "expansion_de": null
     },
     {
@@ -10196,6 +10288,12 @@
      "id": 349,
      "nombre": "Kharma!",
      "imagen": "349.png",
+     "expansion_de": null
+    },
+    {
+     "id": 222,
+     "nombre": "Matrioskka",
+     "imagen": "222.png",
      "expansion_de": null
     },
     {
@@ -10250,6 +10348,12 @@
      "id": 108,
      "nombre": "No Game Over",
      "imagen": "108.png",
+     "expansion_de": null
+    },
+    {
+     "id": 181,
+     "nombre": "The number",
+     "imagen": "181.png",
      "expansion_de": null
     },
     {
@@ -10316,12 +10420,6 @@
      "id": 35,
      "nombre": "Time's Up! Party",
      "imagen": "35.png",
-     "expansion_de": null
-    },
-    {
-     "id": 191,
-     "nombre": "Perudo",
-     "imagen": "191.png",
      "expansion_de": null
     },
     {
@@ -10415,12 +10513,6 @@
      "expansion_de": null
     },
     {
-     "id": 222,
-     "nombre": "Matrioskka",
-     "imagen": "222.png",
-     "expansion_de": null
-    },
-    {
      "id": 293,
      "nombre": "Dobble",
      "imagen": "293.png",
@@ -10436,6 +10528,12 @@
      "id": 262,
      "nombre": "Sherlock Express",
      "imagen": "262.png",
+     "expansion_de": null
+    },
+    {
+     "id": 94,
+     "nombre": "Number Drop",
+     "imagen": "94.png",
      "expansion_de": null
     }
    ]
@@ -10626,14 +10724,7 @@
    "id": 10,
    "nombre_ubicacion": "Pasillo",
    "numero_balda": 1,
-   "juegos": [
-    {
-     "id": 398,
-     "nombre": "Carrera de Cerditos",
-     "imagen": "398.png",
-     "expansion_de": null
-    }
-   ]
+   "juegos": []
   },
   {
    "id": 11,
@@ -10644,6 +10735,12 @@
      "id": 406,
      "nombre": "Lince",
      "imagen": "406.png",
+     "expansion_de": null
+    },
+    {
+     "id": 398,
+     "nombre": "Carrera de Cerditos",
+     "imagen": "398.png",
      "expansion_de": null
     },
     {
@@ -11020,6 +11117,12 @@
      "expansion_de": null
     },
     {
+     "id": 322,
+     "nombre": "Adventure Games: La Isla Volcánica",
+     "imagen": "322.png",
+     "expansion_de": null
+    },
+    {
      "id": 347,
      "nombre": "IQ Files: Escape Room - Liberación",
      "imagen": "347.png",
@@ -11035,6 +11138,12 @@
      "id": 306,
      "nombre": "EXIT Kids: Acertijos en la Jungla",
      "imagen": "306.png",
+     "expansion_de": null
+    },
+    {
+     "id": 2,
+     "nombre": "Adventure Games: Monocromo S.A.",
+     "imagen": "2.png",
      "expansion_de": null
     }
    ]
@@ -11063,6 +11172,12 @@
      "expansion_de": null
     },
     {
+     "id": 269,
+     "nombre": "5 Torres",
+     "imagen": "269.png",
+     "expansion_de": null
+    },
+    {
      "id": 178,
      "nombre": "Deductio",
      "imagen": "178.png",
@@ -11081,15 +11196,15 @@
      "expansion_de": null
     },
     {
-     "id": 322,
-     "nombre": "Adventure Games: La Isla Volcánica",
-     "imagen": "322.png",
+     "id": 226,
+     "nombre": "5 Pepinos",
+     "imagen": "226.png",
      "expansion_de": null
     },
     {
-     "id": 2,
-     "nombre": "Adventure Games: Monocromo S.A.",
-     "imagen": "2.png",
+     "id": 305,
+     "nombre": "4 en Letras",
+     "imagen": "305.png",
      "expansion_de": null
     },
     {
@@ -11102,6 +11217,12 @@
      "id": 40,
      "nombre": "Black Stories: 50 Misterios Reales - Muertes Ridículas",
      "imagen": "40.png",
+     "expansion_de": null
+    },
+    {
+     "id": 259,
+     "nombre": "¡No Gracias!",
+     "imagen": "259.png",
      "expansion_de": null
     },
     {
@@ -11127,12 +11248,6 @@
      "id": 394,
      "nombre": "La Fallera Calavera Deluxe",
      "imagen": "394.png",
-     "expansion_de": null
-    },
-    {
-     "id": 269,
-     "nombre": "5 Torres",
-     "imagen": "269.png",
      "expansion_de": null
     },
     {
@@ -11166,12 +11281,6 @@
      "expansion_de": null
     },
     {
-     "id": 226,
-     "nombre": "5 Pepinos",
-     "imagen": "226.png",
-     "expansion_de": null
-    },
-    {
      "id": 312,
      "nombre": "Mascotas",
      "imagen": "312.png",
@@ -11187,18 +11296,6 @@
      "id": 206,
      "nombre": "Penalties: Animal Cup",
      "imagen": "206.png",
-     "expansion_de": null
-    },
-    {
-     "id": 305,
-     "nombre": "4 en Letras",
-     "imagen": "305.png",
-     "expansion_de": null
-    },
-    {
-     "id": 259,
-     "nombre": "¡No Gracias!",
-     "imagen": "259.png",
      "expansion_de": null
     },
     {
@@ -11237,12 +11334,6 @@
      "id": 98,
      "nombre": "Cerveza y Pan",
      "imagen": "98.png",
-     "expansion_de": null
-    },
-    {
-     "id": 415,
-     "nombre": "Boom",
-     "imagen": "415.png",
      "expansion_de": null
     },
     {
@@ -11336,6 +11427,12 @@
    "nombre_ubicacion": "Armario blanco",
    "numero_balda": 2,
    "juegos": [
+    {
+     "id": 415,
+     "nombre": "Boom",
+     "imagen": "415.png",
+     "expansion_de": null
+    },
     {
      "id": 258,
      "nombre": "Los 100 Torii",
@@ -11452,12 +11549,6 @@
      "expansion_de": null
     },
     {
-     "id": 298,
-     "nombre": "Bom Bar Dum!",
-     "imagen": "298.png",
-     "expansion_de": null
-    },
-    {
      "id": 316,
      "nombre": "Monster Kit",
      "imagen": "316.png",
@@ -11497,12 +11588,6 @@
      "id": 197,
      "nombre": "Coloretto",
      "imagen": "197.png",
-     "expansion_de": null
-    },
-    {
-     "id": 145,
-     "nombre": "Tiro al Pato",
-     "imagen": "145.png",
      "expansion_de": null
     },
     {
@@ -11627,6 +11712,12 @@
      "expansion_de": null
     },
     {
+     "id": 268,
+     "nombre": "Guarro Pig",
+     "imagen": "268.png",
+     "expansion_de": null
+    },
+    {
      "id": 368,
      "nombre": "Trio",
      "imagen": "368.png",
@@ -11660,6 +11751,18 @@
      "id": 294,
      "nombre": "Sticky Chameleons",
      "imagen": "294.png",
+     "expansion_de": null
+    },
+    {
+     "id": 145,
+     "nombre": "Tiro al Pato",
+     "imagen": "145.png",
+     "expansion_de": null
+    },
+    {
+     "id": 298,
+     "nombre": "Bom Bar Dum!",
+     "imagen": "298.png",
      "expansion_de": null
     },
     {
