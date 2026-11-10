@@ -287,6 +287,8 @@ function restaurarFiltros() {
   });
   sel('f-foto').checked = sessionStorage.getItem('flt.f-foto') === '1';
   sel('f-ubi').checked = sessionStorage.getItem('flt.f-ubi') === '1';
+  // vista por defecto: solo los juegos propios
+  if (!sel('f-col').value) sel('f-col').value = 'propietario';
 }
 
 const porPagina = () =>
@@ -731,6 +733,7 @@ sel('b-ale').onclick = () => {
 };
 sel('b-limpiar').onclick = () => {
   FILTROS.forEach(id => sel(id).value = '');
+  sel('f-col').value = 'propietario';   // limpiar = volver a la vista por defecto
   sel('f-foto').checked = false;
   sel('f-ubi').checked = false;
   ordenar(); pagina = 0; aleatorio = null; pintar();
