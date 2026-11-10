@@ -58,6 +58,41 @@ const cargarCola = () => {
 const guardarCola = () =>
   localStorage.setItem('ludoteca.cola', JSON.stringify(cola));
 
+// --- deteccion de cambios ya aplicados en el servidor ---
+// compara cada op de la cola con el juegos.json fresco: si ya esta
+// reflejada (los campos y la balda coinciden), se considera resuelta
+const baldaDeBase = id =>
+  datosBase.ubicaciones.find(u => u.juegos.some(x => x.id === id));
+
+function opResuelta(op) {
+  if (!datosBase) return false;
+  if (op.tipo === 'alta') {
+    // el alta ya tiene id real en la exportacion: se reconoce por nombre
+    return datosBase.juegos.some(j => j.nombre === op.campos.nombre);
+  }
+  const j = datosBase.juegos.find(x => x.id === op.juego_id);
+  if (!j) return true;                          // borrado en el PC: nada que aplicar
+  const camposOk = Object.keys(op.campos || {})
+    .every(k => (j[k] ?? null) == (op.campos[k] ?? null));
+  if (!camposOk) return false;
+  if (op.ubicacion === 'quitar') return !baldaDeBase(op.juego_id);
+  if (op.ubicacion) {
+    const b = baldaDeBase(op.juego_id);
+    return !!b && b.nombre_ubicacion === op.ubicacion.mueble &&
+                b.numero_balda === op.ubicacion.balda;
+  }
+  return true;
+}
+
+// poda las ops que juegos.json ya refleja -> el banner desaparece solo
+function limpiarResueltos() {
+  const quedan = cola.cambios.filter(op => !opResuelta(op));
+  if (quedan.length === cola.cambios.length) return;
+  cola.cambios = quedan;
+  if (!quedan.length) cola.base = null;
+  guardarCola();
+}
+
 // aplica la cola sobre una copia limpia de los datos descargados
 function aplicarCola() {
   datos = JSON.parse(JSON.stringify(datosBase));
@@ -629,6 +664,7 @@ function descargarCambios() {
 
 // re-aplica la cola y repinta todo tras un cambio
 function reconstruir() {
+  limpiarResueltos();   // descarta ops que el juegos.json fresco ya trae
   aplicarCola();
   construir();
   ordenar();
