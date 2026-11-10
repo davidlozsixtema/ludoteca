@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T10:53:04+00:00",
+ "generado": "2026-11-10T11:01:07+00:00",
  "juegos": [
   {
    "id": 436,
@@ -2339,7 +2339,13 @@
    "fuera_coleccion": false,
    "expansion_de": null,
    "padre": null,
-   "expansiones": []
+   "expansiones": [
+    {
+     "id": 455,
+     "nombre": "Dixit: Daydreams",
+     "imagen": "455.png"
+    }
+   ]
   },
   {
    "id": 455,
@@ -2357,8 +2363,12 @@
    "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false,
-   "expansion_de": null,
-   "padre": null,
+   "expansion_de": 250,
+   "padre": {
+    "id": 250,
+    "nombre": "Dixit",
+    "imagen": "250.png"
+   },
    "expansiones": []
   },
   {
@@ -7158,7 +7168,13 @@
    "fuera_coleccion": false,
    "expansion_de": null,
    "padre": null,
-   "expansiones": []
+   "expansiones": [
+    {
+     "id": 457,
+     "nombre": "Scattergories: Ampliación 1",
+     "imagen": "457.png"
+    }
+   ]
   },
   {
    "id": 457,
@@ -7176,8 +7192,12 @@
    "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false,
-   "expansion_de": null,
-   "padre": null,
+   "expansion_de": 357,
+   "padre": {
+    "id": 357,
+    "nombre": "Scattergories",
+    "imagen": "357.png"
+   },
    "expansiones": []
   },
   {
@@ -9769,7 +9789,7 @@
      "id": 455,
      "nombre": "Dixit: Daydreams",
      "imagen": "455.png",
-     "expansion_de": null
+     "expansion_de": 250
     },
     {
      "id": 354,
@@ -9966,12 +9986,6 @@
      "expansion_de": null
     },
     {
-     "id": 457,
-     "nombre": "Scattergories: Ampliación 1",
-     "imagen": "457.png",
-     "expansion_de": null
-    },
-    {
      "id": 456,
      "nombre": "Capicúa: Arquitectos del Tiempo",
      "imagen": "456.png",
@@ -9982,6 +9996,12 @@
      "nombre": "Salton Sea",
      "imagen": "458.png",
      "expansion_de": null
+    },
+    {
+     "id": 457,
+     "nombre": "Scattergories: Ampliación 1",
+     "imagen": "457.png",
+     "expansion_de": 357
     },
     {
      "id": 336,
