@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T11:09:39+00:00",
+ "generado": "2026-11-12T12:55:38+00:00",
  "juegos": [
   {
    "id": 436,
@@ -5641,6 +5641,56 @@
    "expansiones": []
   },
   {
+   "id": 459,
+   "nombre": "Misty Valley",
+   "imagen": "459.png",
+   "categoria_id": null,
+   "mecanica_id": null,
+   "tematica_id": null,
+   "jugadores": "2-2",
+   "edad": "+10",
+   "duracion": "30-30",
+   "publicacion": 2025,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": null,
+   "padre": null,
+   "expansiones": [
+    {
+     "id": 460,
+     "nombre": "Misty Valley: Secrets of the Valley",
+     "imagen": "460.png"
+    }
+   ]
+  },
+  {
+   "id": 460,
+   "nombre": "Misty Valley: Secrets of the Valley",
+   "imagen": "460.png",
+   "categoria_id": null,
+   "mecanica_id": null,
+   "tematica_id": null,
+   "jugadores": "1-2",
+   "edad": "+10",
+   "duracion": "20-30",
+   "publicacion": 2025,
+   "deseado": false,
+   "en_camino": false,
+   "prestado": false,
+   "otra_ludoteca": false,
+   "fuera_coleccion": false,
+   "expansion_de": 459,
+   "padre": {
+    "id": 459,
+    "nombre": "Misty Valley",
+    "imagen": "459.png"
+   },
+   "expansiones": []
+  },
+  {
    "id": 447,
    "nombre": "Mlem",
    "imagen": "447.png",
@@ -10098,6 +10148,18 @@
      "nombre": "Momiji",
      "imagen": "252.png",
      "expansion_de": null
+    },
+    {
+     "id": 459,
+     "nombre": "Misty Valley",
+     "imagen": "459.png",
+     "expansion_de": null
+    },
+    {
+     "id": 460,
+     "nombre": "Misty Valley: Secrets of the Valley",
+     "imagen": "460.png",
+     "expansion_de": 459
     },
     {
      "id": 200,
