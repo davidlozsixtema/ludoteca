@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-16T09:28:31+00:00",
+ "generado": "2026-11-25T11:58:47+00:00",
  "juegos": [
   {
    "id": 436,
@@ -13,7 +13,7 @@
    "duracion": "20-30",
    "publicacion": 1954,
    "deseado": false,
-   "en_camino": true,
+   "en_camino": false,
    "prestado": false,
    "otra_ludoteca": true,
    "fuera_coleccion": false,
@@ -2272,7 +2272,7 @@
    "edad": "+8",
    "duracion": "30-45",
    "publicacion": 2024,
-   "deseado": true,
+   "deseado": false,
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
@@ -2681,7 +2681,7 @@
    "edad": "+8",
    "duracion": "20-30",
    "publicacion": 2024,
-   "deseado": true,
+   "deseado": false,
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
@@ -5801,7 +5801,7 @@
    "edad": "+8",
    "duracion": "30-30",
    "publicacion": 2023,
-   "deseado": true,
+   "deseado": false,
    "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
@@ -6922,7 +6922,7 @@
    "duracion": "45-60",
    "publicacion": 2024,
    "deseado": false,
-   "en_camino": true,
+   "en_camino": false,
    "prestado": false,
    "otra_ludoteca": false,
    "fuera_coleccion": false,
@@ -8972,7 +8972,7 @@
    "duracion": "30-45",
    "publicacion": 2023,
    "deseado": false,
-   "en_camino": true,
+   "en_camino": false,
    "prestado": false,
    "otra_ludoteca": true,
    "fuera_coleccion": false,
@@ -8992,7 +8992,7 @@
    "duracion": "30-45",
    "publicacion": 2022,
    "deseado": false,
-   "en_camino": true,
+   "en_camino": false,
    "prestado": false,
    "otra_ludoteca": true,
    "fuera_coleccion": false,
@@ -9942,6 +9942,12 @@
      "expansion_de": null
     },
     {
+     "id": 448,
+     "nombre": "Dewan",
+     "imagen": "448.png",
+     "expansion_de": null
+    },
+    {
      "id": 385,
      "nombre": "Club A: Amy la compositora",
      "imagen": "385.png",
@@ -9957,12 +9963,6 @@
      "id": 387,
      "nombre": "Club A: Jessi the tourist",
      "imagen": "387.png",
-     "expansion_de": null
-    },
-    {
-     "id": 354,
-     "nombre": "Mycelia",
-     "imagen": "354.png",
      "expansion_de": null
     },
     {
@@ -10785,6 +10785,18 @@
    "nombre_ubicacion": "Vitrina pared",
    "numero_balda": 5,
    "juegos": [
+    {
+     "id": 446,
+     "nombre": "Ecos del tiempo",
+     "imagen": "446.png",
+     "expansion_de": null
+    },
+    {
+     "id": 447,
+     "nombre": "Mlem",
+     "imagen": "447.png",
+     "expansion_de": null
+    },
     {
      "id": 203,
      "nombre": "Jamaica",
@@ -11670,6 +11682,12 @@
    "numero_balda": 2,
    "juegos": [
     {
+     "id": 451,
+     "nombre": "Quorum",
+     "imagen": "451.png",
+     "expansion_de": null
+    },
+    {
      "id": 258,
      "nombre": "Los 100 Torii",
      "imagen": "258.png",
@@ -11685,6 +11703,12 @@
      "id": 16,
      "nombre": "Tawantinsuyu",
      "imagen": "16.png",
+     "expansion_de": null
+    },
+    {
+     "id": 354,
+     "nombre": "Mycelia",
+     "imagen": "354.png",
      "expansion_de": null
     },
     {
